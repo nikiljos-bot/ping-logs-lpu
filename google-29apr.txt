@@ -2762,3 +2762,99 @@ Request timeout for icmp_seq 1176
 64 bytes from 142.250.194.78: icmp_seq=1180 ttl=115 time=16.258 ms
 64 bytes from 142.250.194.78: icmp_seq=1181 ttl=115 time=14.821 ms
 64 bytes from 142.250.194.78: icmp_seq=1182 ttl=115 time=15.268 ms
+64 bytes from 142.250.194.78: icmp_seq=1183 ttl=115 time=14.818 ms
+64 bytes from 142.250.194.78: icmp_seq=1184 ttl=115 time=14.611 ms
+64 bytes from 142.250.194.78: icmp_seq=1185 ttl=115 time=14.447 ms
+64 bytes from 142.250.194.78: icmp_seq=1186 ttl=115 time=16.148 ms
+64 bytes from 142.250.194.78: icmp_seq=1187 ttl=115 time=47.349 ms
+64 bytes from 142.250.194.78: icmp_seq=1188 ttl=115 time=14.651 ms
+64 bytes from 142.250.194.78: icmp_seq=1189 ttl=115 time=16.402 ms
+64 bytes from 142.250.194.78: icmp_seq=1190 ttl=115 time=14.571 ms
+64 bytes from 142.250.194.78: icmp_seq=1191 ttl=115 time=15.845 ms
+64 bytes from 142.250.194.78: icmp_seq=1192 ttl=115 time=14.587 ms
+64 bytes from 142.250.194.78: icmp_seq=1193 ttl=115 time=14.991 ms
+64 bytes from 142.250.194.78: icmp_seq=1194 ttl=115 time=16.458 ms
+64 bytes from 142.250.194.78: icmp_seq=1195 ttl=115 time=14.594 ms
+64 bytes from 142.250.194.78: icmp_seq=1196 ttl=115 time=15.495 ms
+64 bytes from 142.250.194.78: icmp_seq=1197 ttl=115 time=14.580 ms
+64 bytes from 142.250.194.78: icmp_seq=1198 ttl=115 time=14.547 ms
+64 bytes from 142.250.194.78: icmp_seq=1199 ttl=115 time=14.768 ms
+64 bytes from 142.250.194.78: icmp_seq=1200 ttl=115 time=14.496 ms
+64 bytes from 142.250.194.78: icmp_seq=1201 ttl=115 time=16.539 ms
+64 bytes from 142.250.194.78: icmp_seq=1202 ttl=115 time=14.447 ms
+64 bytes from 142.250.194.78: icmp_seq=1203 ttl=115 time=14.534 ms
+64 bytes from 142.250.194.78: icmp_seq=1204 ttl=115 time=14.590 ms
+64 bytes from 142.250.194.78: icmp_seq=1205 ttl=115 time=14.595 ms
+64 bytes from 142.250.194.78: icmp_seq=1206 ttl=115 time=14.503 ms
+64 bytes from 142.250.194.78: icmp_seq=1207 ttl=115 time=14.462 ms
+64 bytes from 142.250.194.78: icmp_seq=1208 ttl=115 time=16.332 ms
+64 bytes from 142.250.194.78: icmp_seq=1209 ttl=115 time=14.678 ms
+64 bytes from 142.250.194.78: icmp_seq=1210 ttl=115 time=14.596 ms
+64 bytes from 142.250.194.78: icmp_seq=1211 ttl=115 time=14.509 ms
+64 bytes from 142.250.194.78: icmp_seq=1212 ttl=115 time=14.505 ms
+64 bytes from 142.250.194.78: icmp_seq=1213 ttl=115 time=14.668 ms
+64 bytes from 142.250.194.78: icmp_seq=1214 ttl=115 time=14.428 ms
+64 bytes from 142.250.194.78: icmp_seq=1215 ttl=115 time=14.498 ms
+64 bytes from 142.250.194.78: icmp_seq=1216 ttl=115 time=14.451 ms
+64 bytes from 142.250.194.78: icmp_seq=1217 ttl=115 time=14.488 ms
+64 bytes from 142.250.194.78: icmp_seq=1218 ttl=115 time=15.049 ms
+64 bytes from 142.250.194.78: icmp_seq=1219 ttl=115 time=15.489 ms
+64 bytes from 142.250.194.78: icmp_seq=1220 ttl=115 time=14.670 ms
+64 bytes from 142.250.194.78: icmp_seq=1221 ttl=115 time=14.645 ms
+64 bytes from 142.250.194.78: icmp_seq=1222 ttl=115 time=14.527 ms
+64 bytes from 142.250.194.78: icmp_seq=1223 ttl=115 time=16.415 ms
+64 bytes from 142.250.194.78: icmp_seq=1224 ttl=115 time=16.252 ms
+64 bytes from 142.250.194.78: icmp_seq=1225 ttl=115 time=14.910 ms
+64 bytes from 142.250.194.78: icmp_seq=1226 ttl=115 time=14.763 ms
+64 bytes from 142.250.194.78: icmp_seq=1227 ttl=115 time=14.570 ms
+64 bytes from 142.250.194.78: icmp_seq=1228 ttl=115 time=14.547 ms
+64 bytes from 142.250.194.78: icmp_seq=1229 ttl=115 time=14.559 ms
+64 bytes from 142.250.194.78: icmp_seq=1230 ttl=115 time=14.574 ms
+64 bytes from 142.250.194.78: icmp_seq=1231 ttl=115 time=15.328 ms
+64 bytes from 142.250.194.78: icmp_seq=1232 ttl=115 time=14.637 ms
+64 bytes from 142.250.194.78: icmp_seq=1233 ttl=115 time=14.846 ms
+64 bytes from 142.250.194.78: icmp_seq=1234 ttl=115 time=14.516 ms
+64 bytes from 142.250.194.78: icmp_seq=1235 ttl=115 time=15.623 ms
+64 bytes from 142.250.194.78: icmp_seq=1236 ttl=115 time=14.678 ms
+64 bytes from 142.250.194.78: icmp_seq=1237 ttl=115 time=14.532 ms
+64 bytes from 142.250.194.78: icmp_seq=1238 ttl=115 time=14.713 ms
+64 bytes from 142.250.194.78: icmp_seq=1239 ttl=115 time=14.448 ms
+64 bytes from 142.250.194.78: icmp_seq=1240 ttl=115 time=14.472 ms
+64 bytes from 142.250.194.78: icmp_seq=1241 ttl=115 time=14.657 ms
+Request timeout for icmp_seq 1243
+Request timeout for icmp_seq 1244
+Request timeout for icmp_seq 1245
+Request timeout for icmp_seq 1246
+Request timeout for icmp_seq 1247
+Request timeout for icmp_seq 1248
+Request timeout for icmp_seq 1249
+Request timeout for icmp_seq 1250
+Request timeout for icmp_seq 1251
+Request timeout for icmp_seq 1252
+Request timeout for icmp_seq 1253
+Request timeout for icmp_seq 1254
+64 bytes from 142.250.194.78: icmp_seq=1242 ttl=115 time=13928.968 ms
+64 bytes from 142.250.194.78: icmp_seq=1243 ttl=115 time=12923.925 ms
+64 bytes from 142.250.194.78: icmp_seq=1244 ttl=115 time=11918.855 ms
+64 bytes from 142.250.194.78: icmp_seq=1245 ttl=115 time=10914.266 ms
+64 bytes from 142.250.194.78: icmp_seq=1256 ttl=115 time=15.758 ms
+64 bytes from 142.250.194.78: icmp_seq=1257 ttl=115 time=14.596 ms
+64 bytes from 142.250.194.78: icmp_seq=1258 ttl=115 time=14.547 ms
+64 bytes from 142.250.194.78: icmp_seq=1259 ttl=115 time=14.386 ms
+64 bytes from 142.250.194.78: icmp_seq=1260 ttl=115 time=14.645 ms
+64 bytes from 142.250.194.78: icmp_seq=1261 ttl=115 time=14.473 ms
+64 bytes from 142.250.194.78: icmp_seq=1262 ttl=115 time=14.501 ms
+64 bytes from 142.250.194.78: icmp_seq=1263 ttl=115 time=14.585 ms
+64 bytes from 142.250.194.78: icmp_seq=1264 ttl=115 time=16.365 ms
+64 bytes from 142.250.194.78: icmp_seq=1265 ttl=115 time=14.605 ms
+64 bytes from 142.250.194.78: icmp_seq=1266 ttl=115 time=14.506 ms
+64 bytes from 142.250.194.78: icmp_seq=1267 ttl=115 time=14.476 ms
+64 bytes from 142.250.194.78: icmp_seq=1268 ttl=115 time=14.432 ms
+64 bytes from 142.250.194.78: icmp_seq=1269 ttl=115 time=14.857 ms
+64 bytes from 142.250.194.78: icmp_seq=1270 ttl=115 time=14.576 ms
+64 bytes from 142.250.194.78: icmp_seq=1271 ttl=115 time=15.169 ms
+64 bytes from 142.250.194.78: icmp_seq=1272 ttl=115 time=14.651 ms
+64 bytes from 142.250.194.78: icmp_seq=1273 ttl=115 time=16.403 ms
+64 bytes from 142.250.194.78: icmp_seq=1274 ttl=115 time=14.720 ms
+64 bytes from 142.250.194.78: icmp_seq=1275 ttl=115 time=14.697 ms
+64 bytes from 142.250.194.78: icmp_seq=1276 ttl=115 time=15.139 ms
