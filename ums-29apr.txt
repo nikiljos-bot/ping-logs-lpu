@@ -14652,3 +14652,2031 @@ Request timeout for icmp_seq 2299
 64 bytes from 172.19.2.250: icmp_seq=2349 ttl=125 time=0.840 ms (DUP!)
 64 bytes from 172.19.2.250: icmp_seq=2349 ttl=125 time=0.859 ms (DUP!)
 64 bytes from 172.19.2.250: icmp_seq=2349 ttl=125 time=0.876 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2350 ttl=125 time=0.647 ms
+64 bytes from 172.19.2.250: icmp_seq=2350 ttl=125 time=0.697 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2350 ttl=125 time=0.721 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2350 ttl=125 time=0.740 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2351 ttl=125 time=0.778 ms
+64 bytes from 172.19.2.250: icmp_seq=2351 ttl=125 time=0.833 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2351 ttl=125 time=0.851 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2351 ttl=125 time=0.868 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2352 ttl=125 time=0.716 ms
+64 bytes from 172.19.2.250: icmp_seq=2352 ttl=125 time=0.758 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2352 ttl=125 time=0.774 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2352 ttl=125 time=0.793 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2353 ttl=125 time=0.793 ms
+64 bytes from 172.19.2.250: icmp_seq=2353 ttl=125 time=0.842 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2353 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2353 ttl=125 time=0.882 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2354 ttl=125 time=0.827 ms
+64 bytes from 172.19.2.250: icmp_seq=2354 ttl=125 time=0.875 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2354 ttl=125 time=0.970 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2354 ttl=125 time=1.004 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2355 ttl=125 time=0.702 ms
+64 bytes from 172.19.2.250: icmp_seq=2355 ttl=125 time=0.751 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2355 ttl=125 time=0.769 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2355 ttl=125 time=1.144 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2356 ttl=125 time=0.633 ms
+64 bytes from 172.19.2.250: icmp_seq=2356 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2356 ttl=125 time=0.702 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2356 ttl=125 time=0.721 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2357 ttl=125 time=0.604 ms
+64 bytes from 172.19.2.250: icmp_seq=2357 ttl=125 time=0.653 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2357 ttl=125 time=0.674 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2357 ttl=125 time=0.694 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2358 ttl=125 time=0.768 ms
+64 bytes from 172.19.2.250: icmp_seq=2358 ttl=125 time=0.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2358 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2358 ttl=125 time=0.857 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2359 ttl=125 time=0.602 ms
+64 bytes from 172.19.2.250: icmp_seq=2359 ttl=125 time=0.646 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2359 ttl=125 time=0.659 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2359 ttl=125 time=0.674 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2360 ttl=125 time=0.675 ms
+64 bytes from 172.19.2.250: icmp_seq=2360 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2360 ttl=125 time=0.780 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2360 ttl=125 time=0.799 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2361 ttl=125 time=0.570 ms
+64 bytes from 172.19.2.250: icmp_seq=2361 ttl=125 time=0.599 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2361 ttl=125 time=0.609 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2361 ttl=125 time=0.866 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2362 ttl=125 time=0.698 ms
+64 bytes from 172.19.2.250: icmp_seq=2362 ttl=125 time=0.746 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2362 ttl=125 time=0.763 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2362 ttl=125 time=0.785 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2363 ttl=125 time=0.658 ms
+64 bytes from 172.19.2.250: icmp_seq=2363 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2363 ttl=125 time=0.697 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2363 ttl=125 time=0.707 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2364 ttl=125 time=0.450 ms
+64 bytes from 172.19.2.250: icmp_seq=2364 ttl=125 time=0.486 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2364 ttl=125 time=0.494 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2364 ttl=125 time=0.504 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2365 ttl=125 time=0.667 ms
+64 bytes from 172.19.2.250: icmp_seq=2365 ttl=125 time=0.710 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2365 ttl=125 time=0.727 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2365 ttl=125 time=0.866 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2366 ttl=125 time=0.486 ms
+64 bytes from 172.19.2.250: icmp_seq=2366 ttl=125 time=0.503 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2366 ttl=125 time=0.560 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2366 ttl=125 time=0.677 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2367 ttl=125 time=0.467 ms
+64 bytes from 172.19.2.250: icmp_seq=2367 ttl=125 time=0.508 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2367 ttl=125 time=0.514 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2367 ttl=125 time=0.546 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2368 ttl=125 time=0.675 ms
+64 bytes from 172.19.2.250: icmp_seq=2368 ttl=125 time=0.725 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2368 ttl=125 time=0.743 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2368 ttl=125 time=0.769 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2369 ttl=125 time=0.700 ms
+64 bytes from 172.19.2.250: icmp_seq=2369 ttl=125 time=0.767 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2369 ttl=125 time=0.781 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2369 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2370 ttl=125 time=0.515 ms
+64 bytes from 172.19.2.250: icmp_seq=2370 ttl=125 time=0.560 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2370 ttl=125 time=0.600 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2370 ttl=125 time=0.615 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2371 ttl=125 time=0.741 ms
+64 bytes from 172.19.2.250: icmp_seq=2371 ttl=125 time=0.788 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2371 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2371 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2372 ttl=125 time=0.789 ms
+64 bytes from 172.19.2.250: icmp_seq=2372 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2372 ttl=125 time=0.860 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2372 ttl=125 time=0.880 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2373 ttl=125 time=0.445 ms
+64 bytes from 172.19.2.250: icmp_seq=2373 ttl=125 time=0.476 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2373 ttl=125 time=0.529 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2373 ttl=125 time=0.551 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2374 ttl=125 time=0.668 ms
+64 bytes from 172.19.2.250: icmp_seq=2374 ttl=125 time=0.691 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2374 ttl=125 time=0.784 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2374 ttl=125 time=1.148 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2375 ttl=125 time=0.778 ms
+64 bytes from 172.19.2.250: icmp_seq=2375 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2375 ttl=125 time=0.853 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2375 ttl=125 time=0.868 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2376 ttl=125 time=0.623 ms
+64 bytes from 172.19.2.250: icmp_seq=2376 ttl=125 time=0.669 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2376 ttl=125 time=0.683 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2376 ttl=125 time=0.704 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2377 ttl=125 time=0.620 ms
+64 bytes from 172.19.2.250: icmp_seq=2377 ttl=125 time=0.650 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2377 ttl=125 time=0.657 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2377 ttl=125 time=0.666 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2378 ttl=125 time=0.704 ms
+64 bytes from 172.19.2.250: icmp_seq=2378 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2378 ttl=125 time=0.780 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2378 ttl=125 time=0.804 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2379 ttl=125 time=0.728 ms
+64 bytes from 172.19.2.250: icmp_seq=2379 ttl=125 time=0.766 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2379 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2379 ttl=125 time=0.865 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2380 ttl=125 time=0.575 ms
+64 bytes from 172.19.2.250: icmp_seq=2380 ttl=125 time=0.611 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2380 ttl=125 time=0.627 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2380 ttl=125 time=0.646 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2381 ttl=125 time=0.589 ms
+64 bytes from 172.19.2.250: icmp_seq=2381 ttl=125 time=0.639 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2381 ttl=125 time=0.647 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2381 ttl=125 time=0.653 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2382 ttl=125 time=0.692 ms
+64 bytes from 172.19.2.250: icmp_seq=2382 ttl=125 time=0.740 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2382 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2382 ttl=125 time=0.760 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2383 ttl=125 time=0.474 ms
+64 bytes from 172.19.2.250: icmp_seq=2383 ttl=125 time=0.490 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2383 ttl=125 time=0.581 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2383 ttl=125 time=0.590 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2384 ttl=125 time=0.817 ms
+64 bytes from 172.19.2.250: icmp_seq=2384 ttl=125 time=0.863 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2384 ttl=125 time=0.879 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2384 ttl=125 time=0.894 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2385 ttl=125 time=0.715 ms
+64 bytes from 172.19.2.250: icmp_seq=2385 ttl=125 time=0.753 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2385 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2385 ttl=125 time=0.780 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2386 ttl=125 time=0.609 ms
+64 bytes from 172.19.2.250: icmp_seq=2386 ttl=125 time=0.688 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2386 ttl=125 time=0.703 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2386 ttl=125 time=0.725 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2387 ttl=125 time=0.749 ms
+64 bytes from 172.19.2.250: icmp_seq=2387 ttl=125 time=0.794 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2387 ttl=125 time=0.811 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2387 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2388 ttl=125 time=0.670 ms
+64 bytes from 172.19.2.250: icmp_seq=2388 ttl=125 time=0.709 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2388 ttl=125 time=0.723 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2388 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2389 ttl=125 time=0.767 ms
+64 bytes from 172.19.2.250: icmp_seq=2389 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2389 ttl=125 time=0.832 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2389 ttl=125 time=0.853 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2390 ttl=125 time=0.580 ms
+64 bytes from 172.19.2.250: icmp_seq=2390 ttl=125 time=0.619 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2390 ttl=125 time=0.655 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2390 ttl=125 time=0.675 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2391 ttl=125 time=0.589 ms
+64 bytes from 172.19.2.250: icmp_seq=2391 ttl=125 time=0.614 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2391 ttl=125 time=0.623 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2391 ttl=125 time=0.635 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2392 ttl=125 time=0.644 ms
+64 bytes from 172.19.2.250: icmp_seq=2392 ttl=125 time=0.678 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2392 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2392 ttl=125 time=0.701 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2393 ttl=125 time=0.701 ms
+64 bytes from 172.19.2.250: icmp_seq=2393 ttl=125 time=0.748 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2393 ttl=125 time=0.766 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2393 ttl=125 time=0.783 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2394 ttl=125 time=0.667 ms
+64 bytes from 172.19.2.250: icmp_seq=2394 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2394 ttl=125 time=0.728 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2394 ttl=125 time=0.747 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2395 ttl=125 time=0.512 ms
+64 bytes from 172.19.2.250: icmp_seq=2395 ttl=125 time=0.542 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2395 ttl=125 time=0.549 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2395 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2396 ttl=125 time=0.523 ms
+64 bytes from 172.19.2.250: icmp_seq=2396 ttl=125 time=0.546 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2396 ttl=125 time=0.551 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2396 ttl=125 time=0.563 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2397 ttl=125 time=0.580 ms
+64 bytes from 172.19.2.250: icmp_seq=2397 ttl=125 time=0.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2397 ttl=125 time=0.632 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2397 ttl=125 time=0.640 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2398 ttl=125 time=0.677 ms
+64 bytes from 172.19.2.250: icmp_seq=2398 ttl=125 time=0.708 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2398 ttl=125 time=0.716 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2398 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2399 ttl=125 time=0.516 ms
+64 bytes from 172.19.2.250: icmp_seq=2399 ttl=125 time=0.537 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2399 ttl=125 time=0.547 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2399 ttl=125 time=0.554 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2400 ttl=125 time=0.516 ms
+64 bytes from 172.19.2.250: icmp_seq=2400 ttl=125 time=0.566 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2400 ttl=125 time=0.589 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2400 ttl=125 time=0.609 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2401 ttl=125 time=0.604 ms
+64 bytes from 172.19.2.250: icmp_seq=2401 ttl=125 time=0.663 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2401 ttl=125 time=0.672 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2401 ttl=125 time=0.700 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2402 ttl=125 time=0.527 ms
+64 bytes from 172.19.2.250: icmp_seq=2402 ttl=125 time=0.594 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2402 ttl=125 time=0.613 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2402 ttl=125 time=0.656 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2403 ttl=125 time=0.609 ms
+64 bytes from 172.19.2.250: icmp_seq=2403 ttl=125 time=0.656 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2403 ttl=125 time=0.675 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2403 ttl=125 time=0.692 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2404 ttl=125 time=0.808 ms
+64 bytes from 172.19.2.250: icmp_seq=2404 ttl=125 time=0.871 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2404 ttl=125 time=0.889 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2404 ttl=125 time=1.016 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2405 ttl=125 time=0.795 ms
+64 bytes from 172.19.2.250: icmp_seq=2405 ttl=125 time=0.847 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2405 ttl=125 time=0.866 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2405 ttl=125 time=0.891 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2406 ttl=125 time=0.600 ms
+64 bytes from 172.19.2.250: icmp_seq=2406 ttl=125 time=0.650 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2406 ttl=125 time=0.676 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2406 ttl=125 time=0.696 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2407 ttl=125 time=0.563 ms
+64 bytes from 172.19.2.250: icmp_seq=2407 ttl=125 time=0.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2407 ttl=125 time=0.636 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2407 ttl=125 time=0.653 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2408 ttl=125 time=0.517 ms
+64 bytes from 172.19.2.250: icmp_seq=2408 ttl=125 time=0.562 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2408 ttl=125 time=0.578 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2408 ttl=125 time=0.600 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2409 ttl=125 time=0.560 ms
+64 bytes from 172.19.2.250: icmp_seq=2409 ttl=125 time=0.590 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2409 ttl=125 time=0.599 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2409 ttl=125 time=0.610 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2410 ttl=125 time=0.656 ms
+64 bytes from 172.19.2.250: icmp_seq=2410 ttl=125 time=0.700 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2410 ttl=125 time=0.723 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2410 ttl=125 time=1.187 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2411 ttl=125 time=0.557 ms
+64 bytes from 172.19.2.250: icmp_seq=2411 ttl=125 time=0.600 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2411 ttl=125 time=0.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2411 ttl=125 time=0.636 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2412 ttl=125 time=0.654 ms
+64 bytes from 172.19.2.250: icmp_seq=2412 ttl=125 time=0.703 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2412 ttl=125 time=0.721 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2412 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2413 ttl=125 time=0.577 ms
+64 bytes from 172.19.2.250: icmp_seq=2413 ttl=125 time=0.623 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2413 ttl=125 time=0.640 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2413 ttl=125 time=0.656 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2414 ttl=125 time=0.636 ms
+64 bytes from 172.19.2.250: icmp_seq=2414 ttl=125 time=0.704 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2414 ttl=125 time=0.848 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2414 ttl=125 time=0.977 ms (DUP!)
+Request timeout for icmp_seq 2417
+Request timeout for icmp_seq 2418
+Request timeout for icmp_seq 2419
+Request timeout for icmp_seq 2420
+Request timeout for icmp_seq 2421
+Request timeout for icmp_seq 2422
+Request timeout for icmp_seq 2423
+Request timeout for icmp_seq 2424
+Request timeout for icmp_seq 2425
+Request timeout for icmp_seq 2426
+Request timeout for icmp_seq 2427
+Request timeout for icmp_seq 2428
+64 bytes from 172.19.2.250: icmp_seq=2418 ttl=125 time=11554.061 ms
+64 bytes from 172.19.2.250: icmp_seq=2418 ttl=125 time=11554.109 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2418 ttl=125 time=11554.124 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2419 ttl=125 time=10549.021 ms
+64 bytes from 172.19.2.250: icmp_seq=2419 ttl=125 time=10549.042 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2418 ttl=125 time=11554.175 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2419 ttl=125 time=10549.074 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2419 ttl=125 time=10549.256 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2430 ttl=125 time=0.570 ms
+64 bytes from 172.19.2.250: icmp_seq=2430 ttl=125 time=0.615 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2430 ttl=125 time=0.634 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2430 ttl=125 time=1.773 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2431 ttl=125 time=0.519 ms
+64 bytes from 172.19.2.250: icmp_seq=2431 ttl=125 time=0.563 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2431 ttl=125 time=0.576 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2431 ttl=125 time=0.973 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2432 ttl=125 time=0.754 ms
+64 bytes from 172.19.2.250: icmp_seq=2432 ttl=125 time=0.820 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2432 ttl=125 time=0.838 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2432 ttl=125 time=0.920 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2433 ttl=125 time=0.496 ms
+64 bytes from 172.19.2.250: icmp_seq=2433 ttl=125 time=0.605 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2433 ttl=125 time=0.633 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2433 ttl=125 time=0.649 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2434 ttl=125 time=0.785 ms
+64 bytes from 172.19.2.250: icmp_seq=2434 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2434 ttl=125 time=0.849 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2434 ttl=125 time=2.363 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2435 ttl=125 time=0.807 ms
+64 bytes from 172.19.2.250: icmp_seq=2435 ttl=125 time=0.852 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2435 ttl=125 time=1.038 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2435 ttl=125 time=2.126 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2436 ttl=125 time=0.586 ms
+64 bytes from 172.19.2.250: icmp_seq=2436 ttl=125 time=0.664 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2436 ttl=125 time=0.693 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2436 ttl=125 time=0.707 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2437 ttl=125 time=0.556 ms
+64 bytes from 172.19.2.250: icmp_seq=2437 ttl=125 time=0.599 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2437 ttl=125 time=0.618 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2437 ttl=125 time=0.963 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2438 ttl=125 time=0.692 ms
+64 bytes from 172.19.2.250: icmp_seq=2438 ttl=125 time=0.733 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2438 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2438 ttl=125 time=0.777 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2439 ttl=125 time=0.689 ms
+64 bytes from 172.19.2.250: icmp_seq=2439 ttl=125 time=0.739 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2439 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2439 ttl=125 time=0.777 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2440 ttl=125 time=0.740 ms
+64 bytes from 172.19.2.250: icmp_seq=2440 ttl=125 time=0.785 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2440 ttl=125 time=0.804 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2440 ttl=125 time=0.828 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2441 ttl=125 time=0.695 ms
+64 bytes from 172.19.2.250: icmp_seq=2441 ttl=125 time=0.743 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2441 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2441 ttl=125 time=1.547 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2442 ttl=125 time=0.687 ms
+64 bytes from 172.19.2.250: icmp_seq=2442 ttl=125 time=0.730 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2442 ttl=125 time=0.751 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2442 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2443 ttl=125 time=0.670 ms
+64 bytes from 172.19.2.250: icmp_seq=2443 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2443 ttl=125 time=0.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2443 ttl=125 time=0.753 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2444 ttl=125 time=0.669 ms
+64 bytes from 172.19.2.250: icmp_seq=2444 ttl=125 time=0.711 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2444 ttl=125 time=0.727 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2444 ttl=125 time=0.742 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2445 ttl=125 time=0.796 ms
+64 bytes from 172.19.2.250: icmp_seq=2445 ttl=125 time=0.854 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2445 ttl=125 time=0.871 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2445 ttl=125 time=0.886 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2446 ttl=125 time=0.840 ms
+64 bytes from 172.19.2.250: icmp_seq=2446 ttl=125 time=0.889 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2446 ttl=125 time=0.914 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2446 ttl=125 time=0.937 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2447 ttl=125 time=0.780 ms
+64 bytes from 172.19.2.250: icmp_seq=2447 ttl=125 time=0.834 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2447 ttl=125 time=0.854 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2447 ttl=125 time=0.886 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2448 ttl=125 time=0.649 ms
+64 bytes from 172.19.2.250: icmp_seq=2448 ttl=125 time=0.697 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2448 ttl=125 time=0.714 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2448 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2449 ttl=125 time=0.695 ms
+64 bytes from 172.19.2.250: icmp_seq=2449 ttl=125 time=0.738 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2449 ttl=125 time=0.754 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2449 ttl=125 time=0.773 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2450 ttl=125 time=0.530 ms
+64 bytes from 172.19.2.250: icmp_seq=2450 ttl=125 time=0.568 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2450 ttl=125 time=0.582 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2450 ttl=125 time=0.599 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2451 ttl=125 time=0.646 ms
+64 bytes from 172.19.2.250: icmp_seq=2451 ttl=125 time=0.693 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2451 ttl=125 time=0.709 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2451 ttl=125 time=0.722 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2452 ttl=125 time=0.645 ms
+64 bytes from 172.19.2.250: icmp_seq=2452 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2452 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2452 ttl=125 time=0.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2453 ttl=125 time=0.786 ms
+64 bytes from 172.19.2.250: icmp_seq=2453 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2453 ttl=125 time=0.860 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2453 ttl=125 time=0.877 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2454 ttl=125 time=0.636 ms
+64 bytes from 172.19.2.250: icmp_seq=2454 ttl=125 time=0.666 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2454 ttl=125 time=0.674 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2454 ttl=125 time=0.682 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2455 ttl=125 time=0.765 ms
+64 bytes from 172.19.2.250: icmp_seq=2455 ttl=125 time=0.810 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2455 ttl=125 time=0.828 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2455 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2456 ttl=125 time=0.672 ms
+64 bytes from 172.19.2.250: icmp_seq=2456 ttl=125 time=0.722 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2456 ttl=125 time=0.739 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2456 ttl=125 time=0.755 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2457 ttl=125 time=0.535 ms
+64 bytes from 172.19.2.250: icmp_seq=2457 ttl=125 time=0.561 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2457 ttl=125 time=0.568 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2457 ttl=125 time=0.603 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2458 ttl=125 time=0.688 ms
+64 bytes from 172.19.2.250: icmp_seq=2458 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2458 ttl=125 time=0.751 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2458 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2459 ttl=125 time=0.789 ms
+64 bytes from 172.19.2.250: icmp_seq=2459 ttl=125 time=0.842 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2459 ttl=125 time=0.858 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2459 ttl=125 time=0.876 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2460 ttl=125 time=0.653 ms
+64 bytes from 172.19.2.250: icmp_seq=2460 ttl=125 time=0.685 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2460 ttl=125 time=0.695 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2460 ttl=125 time=0.704 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2461 ttl=125 time=0.651 ms
+64 bytes from 172.19.2.250: icmp_seq=2461 ttl=125 time=0.687 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2461 ttl=125 time=0.748 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2461 ttl=125 time=0.766 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2462 ttl=125 time=0.688 ms
+64 bytes from 172.19.2.250: icmp_seq=2462 ttl=125 time=0.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2462 ttl=125 time=0.755 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2462 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2463 ttl=125 time=0.789 ms
+64 bytes from 172.19.2.250: icmp_seq=2463 ttl=125 time=0.834 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2463 ttl=125 time=0.853 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2463 ttl=125 time=0.869 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2464 ttl=125 time=0.773 ms
+64 bytes from 172.19.2.250: icmp_seq=2464 ttl=125 time=0.822 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2464 ttl=125 time=0.839 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2464 ttl=125 time=0.853 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2465 ttl=125 time=0.654 ms
+64 bytes from 172.19.2.250: icmp_seq=2465 ttl=125 time=0.694 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2465 ttl=125 time=0.706 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2465 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2466 ttl=125 time=0.768 ms
+64 bytes from 172.19.2.250: icmp_seq=2466 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2466 ttl=125 time=0.835 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2466 ttl=125 time=0.860 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2467 ttl=125 time=0.709 ms
+64 bytes from 172.19.2.250: icmp_seq=2467 ttl=125 time=0.756 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2467 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2467 ttl=125 time=0.912 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2468 ttl=125 time=0.594 ms
+64 bytes from 172.19.2.250: icmp_seq=2468 ttl=125 time=0.642 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2468 ttl=125 time=0.682 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2468 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2469 ttl=125 time=0.771 ms
+64 bytes from 172.19.2.250: icmp_seq=2469 ttl=125 time=0.824 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2469 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2469 ttl=125 time=0.864 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2470 ttl=125 time=0.644 ms
+64 bytes from 172.19.2.250: icmp_seq=2470 ttl=125 time=0.716 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2470 ttl=125 time=0.799 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2470 ttl=125 time=0.824 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2471 ttl=125 time=0.695 ms
+64 bytes from 172.19.2.250: icmp_seq=2471 ttl=125 time=0.743 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2471 ttl=125 time=0.760 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2471 ttl=125 time=0.778 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2472 ttl=125 time=0.737 ms
+64 bytes from 172.19.2.250: icmp_seq=2472 ttl=125 time=0.796 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2472 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2472 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2473 ttl=125 time=0.681 ms
+64 bytes from 172.19.2.250: icmp_seq=2473 ttl=125 time=0.729 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2473 ttl=125 time=0.746 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2473 ttl=125 time=0.920 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2474 ttl=125 time=0.641 ms
+64 bytes from 172.19.2.250: icmp_seq=2474 ttl=125 time=0.688 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2474 ttl=125 time=0.706 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2474 ttl=125 time=0.724 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2475 ttl=125 time=0.740 ms
+64 bytes from 172.19.2.250: icmp_seq=2475 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2475 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2475 ttl=125 time=0.825 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2476 ttl=125 time=0.704 ms
+64 bytes from 172.19.2.250: icmp_seq=2476 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2476 ttl=125 time=0.769 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2476 ttl=125 time=0.784 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2477 ttl=125 time=0.618 ms
+64 bytes from 172.19.2.250: icmp_seq=2477 ttl=125 time=0.652 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2477 ttl=125 time=0.664 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2477 ttl=125 time=0.674 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2478 ttl=125 time=0.630 ms
+64 bytes from 172.19.2.250: icmp_seq=2478 ttl=125 time=0.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2478 ttl=125 time=0.774 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2478 ttl=125 time=0.789 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2479 ttl=125 time=0.713 ms
+64 bytes from 172.19.2.250: icmp_seq=2479 ttl=125 time=0.754 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2479 ttl=125 time=0.774 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2479 ttl=125 time=0.791 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2480 ttl=125 time=0.739 ms
+64 bytes from 172.19.2.250: icmp_seq=2480 ttl=125 time=0.793 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2480 ttl=125 time=0.810 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2480 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2481 ttl=125 time=0.649 ms
+64 bytes from 172.19.2.250: icmp_seq=2481 ttl=125 time=0.730 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2481 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2481 ttl=125 time=0.762 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2482 ttl=125 time=0.689 ms
+64 bytes from 172.19.2.250: icmp_seq=2482 ttl=125 time=0.740 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2482 ttl=125 time=0.756 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2482 ttl=125 time=1.038 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2483 ttl=125 time=0.545 ms
+64 bytes from 172.19.2.250: icmp_seq=2483 ttl=125 time=0.601 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2483 ttl=125 time=0.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2483 ttl=125 time=0.669 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2484 ttl=125 time=0.816 ms
+64 bytes from 172.19.2.250: icmp_seq=2484 ttl=125 time=0.867 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2484 ttl=125 time=0.887 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2484 ttl=125 time=0.905 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2485 ttl=125 time=0.825 ms
+64 bytes from 172.19.2.250: icmp_seq=2485 ttl=125 time=0.871 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2485 ttl=125 time=0.900 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2485 ttl=125 time=0.919 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2486 ttl=125 time=0.748 ms
+64 bytes from 172.19.2.250: icmp_seq=2486 ttl=125 time=0.793 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2486 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2486 ttl=125 time=2.050 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2487 ttl=125 time=0.805 ms
+64 bytes from 172.19.2.250: icmp_seq=2487 ttl=125 time=0.855 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2487 ttl=125 time=0.875 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2487 ttl=125 time=0.903 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2488 ttl=125 time=0.794 ms
+64 bytes from 172.19.2.250: icmp_seq=2488 ttl=125 time=0.836 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2488 ttl=125 time=0.860 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2488 ttl=125 time=0.875 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2489 ttl=125 time=0.463 ms
+64 bytes from 172.19.2.250: icmp_seq=2489 ttl=125 time=0.478 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2489 ttl=125 time=0.496 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2489 ttl=125 time=0.636 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2490 ttl=125 time=0.710 ms
+64 bytes from 172.19.2.250: icmp_seq=2490 ttl=125 time=0.763 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2490 ttl=125 time=0.783 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2490 ttl=125 time=0.803 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2491 ttl=125 time=0.675 ms
+64 bytes from 172.19.2.250: icmp_seq=2491 ttl=125 time=0.722 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2491 ttl=125 time=0.739 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2491 ttl=125 time=1.170 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2492 ttl=125 time=0.671 ms
+64 bytes from 172.19.2.250: icmp_seq=2492 ttl=125 time=0.720 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2492 ttl=125 time=0.739 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2492 ttl=125 time=0.899 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2493 ttl=125 time=0.811 ms
+64 bytes from 172.19.2.250: icmp_seq=2493 ttl=125 time=0.856 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2493 ttl=125 time=0.874 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2493 ttl=125 time=0.893 ms (DUP!)
+Request timeout for icmp_seq 2495
+Request timeout for icmp_seq 2496
+Request timeout for icmp_seq 2497
+Request timeout for icmp_seq 2498
+Request timeout for icmp_seq 2499
+Request timeout for icmp_seq 2500
+Request timeout for icmp_seq 2501
+Request timeout for icmp_seq 2502
+Request timeout for icmp_seq 2503
+Request timeout for icmp_seq 2504
+Request timeout for icmp_seq 2505
+Request timeout for icmp_seq 2506
+Request timeout for icmp_seq 2507
+64 bytes from 172.19.2.250: icmp_seq=2494 ttl=125 time=14175.294 ms
+64 bytes from 172.19.2.250: icmp_seq=2494 ttl=125 time=14175.343 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2494 ttl=125 time=14175.401 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2494 ttl=125 time=14175.468 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2495 ttl=125 time=13173.942 ms
+64 bytes from 172.19.2.250: icmp_seq=2495 ttl=125 time=13174.036 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2495 ttl=125 time=13174.061 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2495 ttl=125 time=13174.075 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2496 ttl=125 time=12169.002 ms
+64 bytes from 172.19.2.250: icmp_seq=2496 ttl=125 time=12169.076 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2496 ttl=125 time=12169.093 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2496 ttl=125 time=12169.103 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2497 ttl=125 time=11163.970 ms
+64 bytes from 172.19.2.250: icmp_seq=2497 ttl=125 time=11164.075 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2497 ttl=125 time=11164.122 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2497 ttl=125 time=11164.169 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2498 ttl=125 time=10159.052 ms
+64 bytes from 172.19.2.250: icmp_seq=2498 ttl=125 time=10159.106 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2498 ttl=125 time=10159.118 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2498 ttl=125 time=10159.130 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2509 ttl=125 time=0.747 ms
+64 bytes from 172.19.2.250: icmp_seq=2509 ttl=125 time=0.780 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2509 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2509 ttl=125 time=0.801 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2510 ttl=125 time=0.619 ms
+64 bytes from 172.19.2.250: icmp_seq=2510 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2510 ttl=125 time=0.689 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2510 ttl=125 time=0.708 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2511 ttl=125 time=0.669 ms
+64 bytes from 172.19.2.250: icmp_seq=2511 ttl=125 time=0.762 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2511 ttl=125 time=0.786 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2511 ttl=125 time=0.806 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2512 ttl=125 time=0.644 ms
+64 bytes from 172.19.2.250: icmp_seq=2512 ttl=125 time=0.696 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2512 ttl=125 time=0.713 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2512 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2513 ttl=125 time=0.611 ms
+64 bytes from 172.19.2.250: icmp_seq=2513 ttl=125 time=0.651 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2513 ttl=125 time=0.701 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2513 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2514 ttl=125 time=0.699 ms
+64 bytes from 172.19.2.250: icmp_seq=2514 ttl=125 time=0.756 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2514 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2514 ttl=125 time=0.796 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2515 ttl=125 time=0.625 ms
+64 bytes from 172.19.2.250: icmp_seq=2515 ttl=125 time=0.658 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2515 ttl=125 time=0.667 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2515 ttl=125 time=0.751 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2516 ttl=125 time=0.688 ms
+64 bytes from 172.19.2.250: icmp_seq=2516 ttl=125 time=0.729 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2516 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2516 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2517 ttl=125 time=0.708 ms
+64 bytes from 172.19.2.250: icmp_seq=2517 ttl=125 time=0.760 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2517 ttl=125 time=0.781 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2517 ttl=125 time=0.797 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2518 ttl=125 time=0.626 ms
+64 bytes from 172.19.2.250: icmp_seq=2518 ttl=125 time=0.672 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2518 ttl=125 time=0.689 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2518 ttl=125 time=1.168 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2519 ttl=125 time=0.383 ms
+64 bytes from 172.19.2.250: icmp_seq=2519 ttl=125 time=0.412 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2519 ttl=125 time=0.418 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2519 ttl=125 time=0.505 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2520 ttl=125 time=0.771 ms
+64 bytes from 172.19.2.250: icmp_seq=2520 ttl=125 time=0.831 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2520 ttl=125 time=0.849 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2520 ttl=125 time=2.729 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2521 ttl=125 time=0.774 ms
+64 bytes from 172.19.2.250: icmp_seq=2521 ttl=125 time=0.819 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2521 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2521 ttl=125 time=2.254 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2522 ttl=125 time=0.785 ms
+64 bytes from 172.19.2.250: icmp_seq=2522 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2522 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2522 ttl=125 time=0.886 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2523 ttl=125 time=0.619 ms
+64 bytes from 172.19.2.250: icmp_seq=2523 ttl=125 time=0.651 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2523 ttl=125 time=0.659 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2523 ttl=125 time=0.754 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2524 ttl=125 time=0.415 ms
+64 bytes from 172.19.2.250: icmp_seq=2524 ttl=125 time=0.507 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2524 ttl=125 time=0.597 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2524 ttl=125 time=0.788 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2525 ttl=125 time=0.769 ms
+64 bytes from 172.19.2.250: icmp_seq=2525 ttl=125 time=0.813 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2525 ttl=125 time=0.833 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2525 ttl=125 time=0.847 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2526 ttl=125 time=0.708 ms
+64 bytes from 172.19.2.250: icmp_seq=2526 ttl=125 time=0.755 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2526 ttl=125 time=0.774 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2526 ttl=125 time=1.677 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2527 ttl=125 time=0.694 ms
+64 bytes from 172.19.2.250: icmp_seq=2527 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2527 ttl=125 time=0.784 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2527 ttl=125 time=0.844 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2528 ttl=125 time=0.531 ms
+64 bytes from 172.19.2.250: icmp_seq=2528 ttl=125 time=0.565 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2528 ttl=125 time=0.571 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2528 ttl=125 time=0.580 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2529 ttl=125 time=0.671 ms
+64 bytes from 172.19.2.250: icmp_seq=2529 ttl=125 time=0.717 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2529 ttl=125 time=0.736 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2529 ttl=125 time=0.751 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2530 ttl=125 time=0.662 ms
+64 bytes from 172.19.2.250: icmp_seq=2530 ttl=125 time=0.689 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2530 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2530 ttl=125 time=1.030 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2531 ttl=125 time=0.760 ms
+64 bytes from 172.19.2.250: icmp_seq=2531 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2531 ttl=125 time=0.829 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2531 ttl=125 time=0.852 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2532 ttl=125 time=0.583 ms
+64 bytes from 172.19.2.250: icmp_seq=2532 ttl=125 time=0.629 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2532 ttl=125 time=0.651 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2532 ttl=125 time=0.667 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2533 ttl=125 time=0.687 ms
+64 bytes from 172.19.2.250: icmp_seq=2533 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2533 ttl=125 time=0.965 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2533 ttl=125 time=1.133 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2534 ttl=125 time=0.710 ms
+64 bytes from 172.19.2.250: icmp_seq=2534 ttl=125 time=0.759 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2534 ttl=125 time=0.775 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2534 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2535 ttl=125 time=0.591 ms
+64 bytes from 172.19.2.250: icmp_seq=2535 ttl=125 time=0.630 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2535 ttl=125 time=0.781 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2535 ttl=125 time=0.892 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2536 ttl=125 time=0.659 ms
+64 bytes from 172.19.2.250: icmp_seq=2536 ttl=125 time=0.706 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2536 ttl=125 time=0.723 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2536 ttl=125 time=0.890 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2537 ttl=125 time=0.798 ms
+64 bytes from 172.19.2.250: icmp_seq=2537 ttl=125 time=0.847 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2537 ttl=125 time=0.867 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2537 ttl=125 time=0.882 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2538 ttl=125 time=0.623 ms
+64 bytes from 172.19.2.250: icmp_seq=2538 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2538 ttl=125 time=0.687 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2538 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2539 ttl=125 time=0.727 ms
+64 bytes from 172.19.2.250: icmp_seq=2539 ttl=125 time=0.772 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2539 ttl=125 time=0.795 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2539 ttl=125 time=0.812 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2540 ttl=125 time=0.706 ms
+64 bytes from 172.19.2.250: icmp_seq=2540 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2540 ttl=125 time=0.789 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2540 ttl=125 time=0.889 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2541 ttl=125 time=0.751 ms
+64 bytes from 172.19.2.250: icmp_seq=2541 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2541 ttl=125 time=0.824 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2541 ttl=125 time=0.839 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2542 ttl=125 time=0.748 ms
+64 bytes from 172.19.2.250: icmp_seq=2542 ttl=125 time=0.795 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2542 ttl=125 time=0.811 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2542 ttl=125 time=0.831 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2543 ttl=125 time=0.710 ms
+64 bytes from 172.19.2.250: icmp_seq=2543 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2543 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2543 ttl=125 time=0.798 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2544 ttl=125 time=0.658 ms
+64 bytes from 172.19.2.250: icmp_seq=2544 ttl=125 time=0.702 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2544 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2544 ttl=125 time=1.121 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2545 ttl=125 time=0.729 ms
+64 bytes from 172.19.2.250: icmp_seq=2545 ttl=125 time=0.787 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2545 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2545 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2546 ttl=125 time=0.754 ms
+64 bytes from 172.19.2.250: icmp_seq=2546 ttl=125 time=0.801 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2546 ttl=125 time=0.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2546 ttl=125 time=0.835 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2547 ttl=125 time=0.772 ms
+64 bytes from 172.19.2.250: icmp_seq=2547 ttl=125 time=0.819 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2547 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2547 ttl=125 time=0.858 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2548 ttl=125 time=0.812 ms
+64 bytes from 172.19.2.250: icmp_seq=2548 ttl=125 time=0.855 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2548 ttl=125 time=0.921 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2548 ttl=125 time=0.943 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2549 ttl=125 time=0.684 ms
+64 bytes from 172.19.2.250: icmp_seq=2549 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2549 ttl=125 time=0.746 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2549 ttl=125 time=0.759 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2550 ttl=125 time=0.673 ms
+64 bytes from 172.19.2.250: icmp_seq=2550 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2550 ttl=125 time=0.741 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2550 ttl=125 time=0.758 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2551 ttl=125 time=0.702 ms
+64 bytes from 172.19.2.250: icmp_seq=2551 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2551 ttl=125 time=0.770 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2551 ttl=125 time=0.946 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2552 ttl=125 time=0.696 ms
+64 bytes from 172.19.2.250: icmp_seq=2552 ttl=125 time=0.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2552 ttl=125 time=0.763 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2552 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2553 ttl=125 time=0.786 ms
+64 bytes from 172.19.2.250: icmp_seq=2553 ttl=125 time=0.835 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2553 ttl=125 time=0.852 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2553 ttl=125 time=0.874 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2554 ttl=125 time=0.743 ms
+64 bytes from 172.19.2.250: icmp_seq=2554 ttl=125 time=0.791 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2554 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2554 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2555 ttl=125 time=0.711 ms
+64 bytes from 172.19.2.250: icmp_seq=2555 ttl=125 time=0.767 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2555 ttl=125 time=0.787 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2555 ttl=125 time=1.205 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2556 ttl=125 time=0.734 ms
+64 bytes from 172.19.2.250: icmp_seq=2556 ttl=125 time=0.785 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2556 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2556 ttl=125 time=0.828 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2557 ttl=125 time=0.836 ms
+64 bytes from 172.19.2.250: icmp_seq=2557 ttl=125 time=0.887 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2557 ttl=125 time=0.906 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2557 ttl=125 time=1.221 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2558 ttl=125 time=0.772 ms
+64 bytes from 172.19.2.250: icmp_seq=2558 ttl=125 time=0.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2558 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2558 ttl=125 time=0.855 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2559 ttl=125 time=0.692 ms
+64 bytes from 172.19.2.250: icmp_seq=2559 ttl=125 time=0.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2559 ttl=125 time=0.762 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2559 ttl=125 time=0.783 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2560 ttl=125 time=0.640 ms
+64 bytes from 172.19.2.250: icmp_seq=2560 ttl=125 time=0.679 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2560 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2560 ttl=125 time=0.864 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2561 ttl=125 time=0.795 ms
+64 bytes from 172.19.2.250: icmp_seq=2561 ttl=125 time=0.845 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2561 ttl=125 time=0.864 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2561 ttl=125 time=0.881 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2562 ttl=125 time=0.778 ms
+64 bytes from 172.19.2.250: icmp_seq=2562 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2562 ttl=125 time=0.846 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2562 ttl=125 time=1.026 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2563 ttl=125 time=0.611 ms
+64 bytes from 172.19.2.250: icmp_seq=2563 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2563 ttl=125 time=0.724 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2563 ttl=125 time=0.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2564 ttl=125 time=0.686 ms
+64 bytes from 172.19.2.250: icmp_seq=2564 ttl=125 time=0.734 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2564 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2564 ttl=125 time=1.361 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2565 ttl=125 time=0.777 ms
+64 bytes from 172.19.2.250: icmp_seq=2565 ttl=125 time=0.825 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2565 ttl=125 time=0.845 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2565 ttl=125 time=0.867 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2566 ttl=125 time=0.770 ms
+64 bytes from 172.19.2.250: icmp_seq=2566 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2566 ttl=125 time=0.872 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2566 ttl=125 time=0.894 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2567 ttl=125 time=0.594 ms
+64 bytes from 172.19.2.250: icmp_seq=2567 ttl=125 time=0.669 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2567 ttl=125 time=0.702 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2567 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2568 ttl=125 time=0.735 ms
+64 bytes from 172.19.2.250: icmp_seq=2568 ttl=125 time=0.785 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2568 ttl=125 time=0.803 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2568 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2569 ttl=125 time=0.759 ms
+64 bytes from 172.19.2.250: icmp_seq=2569 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2569 ttl=125 time=0.824 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2569 ttl=125 time=0.843 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2570 ttl=125 time=0.677 ms
+64 bytes from 172.19.2.250: icmp_seq=2570 ttl=125 time=0.726 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2570 ttl=125 time=0.743 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2570 ttl=125 time=0.769 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2571 ttl=125 time=0.608 ms
+64 bytes from 172.19.2.250: icmp_seq=2571 ttl=125 time=0.650 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2571 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2571 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2572 ttl=125 time=0.594 ms
+64 bytes from 172.19.2.250: icmp_seq=2572 ttl=125 time=0.626 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2572 ttl=125 time=0.635 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2572 ttl=125 time=0.834 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2573 ttl=125 time=0.769 ms
+64 bytes from 172.19.2.250: icmp_seq=2573 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2573 ttl=125 time=0.833 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2573 ttl=125 time=0.852 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2574 ttl=125 time=0.662 ms
+64 bytes from 172.19.2.250: icmp_seq=2574 ttl=125 time=0.698 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2574 ttl=125 time=0.710 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2574 ttl=125 time=0.789 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2575 ttl=125 time=0.747 ms
+64 bytes from 172.19.2.250: icmp_seq=2575 ttl=125 time=0.797 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2575 ttl=125 time=0.822 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2575 ttl=125 time=0.842 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2576 ttl=125 time=0.718 ms
+64 bytes from 172.19.2.250: icmp_seq=2576 ttl=125 time=0.761 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2576 ttl=125 time=0.778 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2576 ttl=125 time=0.798 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2577 ttl=125 time=0.801 ms
+64 bytes from 172.19.2.250: icmp_seq=2577 ttl=125 time=0.852 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2577 ttl=125 time=0.871 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2577 ttl=125 time=3.363 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2578 ttl=125 time=0.622 ms
+64 bytes from 172.19.2.250: icmp_seq=2578 ttl=125 time=0.656 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2578 ttl=125 time=0.665 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2578 ttl=125 time=0.917 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2579 ttl=125 time=0.679 ms
+64 bytes from 172.19.2.250: icmp_seq=2579 ttl=125 time=0.716 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2579 ttl=125 time=0.724 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2579 ttl=125 time=0.734 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2580 ttl=125 time=0.491 ms
+64 bytes from 172.19.2.250: icmp_seq=2580 ttl=125 time=0.542 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2580 ttl=125 time=0.553 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2580 ttl=125 time=0.570 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2581 ttl=125 time=0.856 ms
+64 bytes from 172.19.2.250: icmp_seq=2581 ttl=125 time=0.910 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2581 ttl=125 time=0.927 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2581 ttl=125 time=1.471 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2582 ttl=125 time=0.724 ms
+64 bytes from 172.19.2.250: icmp_seq=2582 ttl=125 time=0.773 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2582 ttl=125 time=0.792 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2582 ttl=125 time=0.815 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2583 ttl=125 time=0.665 ms
+64 bytes from 172.19.2.250: icmp_seq=2583 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2583 ttl=125 time=0.733 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2583 ttl=125 time=0.822 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2584 ttl=125 time=0.611 ms
+64 bytes from 172.19.2.250: icmp_seq=2584 ttl=125 time=0.659 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2584 ttl=125 time=0.674 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2584 ttl=125 time=0.688 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2585 ttl=125 time=0.721 ms
+64 bytes from 172.19.2.250: icmp_seq=2585 ttl=125 time=0.771 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2585 ttl=125 time=0.791 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2585 ttl=125 time=0.806 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2586 ttl=125 time=0.702 ms
+64 bytes from 172.19.2.250: icmp_seq=2586 ttl=125 time=0.748 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2586 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2586 ttl=125 time=0.820 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2587 ttl=125 time=0.667 ms
+64 bytes from 172.19.2.250: icmp_seq=2587 ttl=125 time=0.706 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2587 ttl=125 time=0.718 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2587 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2588 ttl=125 time=0.472 ms
+64 bytes from 172.19.2.250: icmp_seq=2588 ttl=125 time=0.510 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2588 ttl=125 time=0.517 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2588 ttl=125 time=0.523 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2589 ttl=125 time=0.716 ms
+64 bytes from 172.19.2.250: icmp_seq=2589 ttl=125 time=0.770 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2589 ttl=125 time=0.792 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2589 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2590 ttl=125 time=0.666 ms
+64 bytes from 172.19.2.250: icmp_seq=2590 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2590 ttl=125 time=0.742 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2590 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2591 ttl=125 time=0.750 ms
+64 bytes from 172.19.2.250: icmp_seq=2591 ttl=125 time=0.800 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2591 ttl=125 time=0.820 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2591 ttl=125 time=0.836 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2592 ttl=125 time=0.757 ms
+64 bytes from 172.19.2.250: icmp_seq=2592 ttl=125 time=0.803 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2592 ttl=125 time=0.825 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2592 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2593 ttl=125 time=0.688 ms
+64 bytes from 172.19.2.250: icmp_seq=2593 ttl=125 time=0.721 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2593 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2593 ttl=125 time=0.741 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2594 ttl=125 time=0.781 ms
+64 bytes from 172.19.2.250: icmp_seq=2594 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2594 ttl=125 time=0.843 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2594 ttl=125 time=0.863 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2595 ttl=125 time=0.795 ms
+64 bytes from 172.19.2.250: icmp_seq=2595 ttl=125 time=0.849 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2595 ttl=125 time=0.873 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2595 ttl=125 time=0.888 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2596 ttl=125 time=0.815 ms
+64 bytes from 172.19.2.250: icmp_seq=2596 ttl=125 time=0.871 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2596 ttl=125 time=0.889 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2596 ttl=125 time=0.906 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2597 ttl=125 time=0.728 ms
+64 bytes from 172.19.2.250: icmp_seq=2597 ttl=125 time=0.766 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2597 ttl=125 time=0.789 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2597 ttl=125 time=0.801 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2598 ttl=125 time=0.702 ms
+64 bytes from 172.19.2.250: icmp_seq=2598 ttl=125 time=0.748 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2598 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2598 ttl=125 time=0.784 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2599 ttl=125 time=0.772 ms
+64 bytes from 172.19.2.250: icmp_seq=2599 ttl=125 time=0.822 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2599 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2599 ttl=125 time=0.855 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2600 ttl=125 time=0.643 ms
+64 bytes from 172.19.2.250: icmp_seq=2600 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2600 ttl=125 time=0.747 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2600 ttl=125 time=0.769 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2601 ttl=125 time=0.813 ms
+64 bytes from 172.19.2.250: icmp_seq=2601 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2601 ttl=125 time=0.877 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2601 ttl=125 time=0.896 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2602 ttl=125 time=0.696 ms
+64 bytes from 172.19.2.250: icmp_seq=2602 ttl=125 time=0.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2602 ttl=125 time=0.761 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2602 ttl=125 time=0.777 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2603 ttl=125 time=0.741 ms
+64 bytes from 172.19.2.250: icmp_seq=2603 ttl=125 time=0.788 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2603 ttl=125 time=0.833 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2603 ttl=125 time=0.912 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2604 ttl=125 time=0.755 ms
+64 bytes from 172.19.2.250: icmp_seq=2604 ttl=125 time=0.801 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2604 ttl=125 time=0.819 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2604 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2605 ttl=125 time=0.771 ms
+64 bytes from 172.19.2.250: icmp_seq=2605 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2605 ttl=125 time=0.909 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2605 ttl=125 time=0.936 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2606 ttl=125 time=0.656 ms
+64 bytes from 172.19.2.250: icmp_seq=2606 ttl=125 time=0.708 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2606 ttl=125 time=0.727 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2606 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2607 ttl=125 time=0.742 ms
+64 bytes from 172.19.2.250: icmp_seq=2607 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2607 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2607 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2608 ttl=125 time=0.653 ms
+64 bytes from 172.19.2.250: icmp_seq=2608 ttl=125 time=0.700 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2608 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2608 ttl=125 time=0.863 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2609 ttl=125 time=0.701 ms
+64 bytes from 172.19.2.250: icmp_seq=2609 ttl=125 time=0.740 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2609 ttl=125 time=0.753 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2609 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2610 ttl=125 time=0.661 ms
+64 bytes from 172.19.2.250: icmp_seq=2610 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2610 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2610 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2611 ttl=125 time=0.577 ms
+64 bytes from 172.19.2.250: icmp_seq=2611 ttl=125 time=0.606 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2611 ttl=125 time=0.616 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2611 ttl=125 time=1.120 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2612 ttl=125 time=0.630 ms
+64 bytes from 172.19.2.250: icmp_seq=2612 ttl=125 time=0.680 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2612 ttl=125 time=0.704 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2612 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2613 ttl=125 time=0.651 ms
+64 bytes from 172.19.2.250: icmp_seq=2613 ttl=125 time=0.692 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2613 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2613 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2614 ttl=125 time=0.641 ms
+64 bytes from 172.19.2.250: icmp_seq=2614 ttl=125 time=0.685 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2614 ttl=125 time=0.789 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2614 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2615 ttl=125 time=0.566 ms
+64 bytes from 172.19.2.250: icmp_seq=2615 ttl=125 time=0.609 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2615 ttl=125 time=0.629 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2615 ttl=125 time=1.005 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2616 ttl=125 time=0.645 ms
+64 bytes from 172.19.2.250: icmp_seq=2616 ttl=125 time=0.692 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2616 ttl=125 time=0.710 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2616 ttl=125 time=0.730 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2617 ttl=125 time=0.601 ms
+64 bytes from 172.19.2.250: icmp_seq=2617 ttl=125 time=0.645 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2617 ttl=125 time=0.668 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2617 ttl=125 time=0.688 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2618 ttl=125 time=0.598 ms
+64 bytes from 172.19.2.250: icmp_seq=2618 ttl=125 time=0.631 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2618 ttl=125 time=0.647 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2618 ttl=125 time=0.665 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2619 ttl=125 time=0.693 ms
+64 bytes from 172.19.2.250: icmp_seq=2619 ttl=125 time=0.784 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2619 ttl=125 time=0.797 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2619 ttl=125 time=0.819 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2620 ttl=125 time=0.477 ms
+64 bytes from 172.19.2.250: icmp_seq=2620 ttl=125 time=0.511 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2620 ttl=125 time=0.531 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2620 ttl=125 time=0.633 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2621 ttl=125 time=0.533 ms
+64 bytes from 172.19.2.250: icmp_seq=2621 ttl=125 time=0.568 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2621 ttl=125 time=0.772 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2621 ttl=125 time=0.800 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2622 ttl=125 time=0.771 ms
+64 bytes from 172.19.2.250: icmp_seq=2622 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2622 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2622 ttl=125 time=0.857 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2623 ttl=125 time=0.377 ms
+64 bytes from 172.19.2.250: icmp_seq=2623 ttl=125 time=0.392 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2623 ttl=125 time=0.435 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2623 ttl=125 time=0.562 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2624 ttl=125 time=0.472 ms
+64 bytes from 172.19.2.250: icmp_seq=2624 ttl=125 time=0.504 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2624 ttl=125 time=0.520 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2624 ttl=125 time=1.057 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2625 ttl=125 time=0.543 ms
+64 bytes from 172.19.2.250: icmp_seq=2625 ttl=125 time=0.575 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2625 ttl=125 time=0.585 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2625 ttl=125 time=0.593 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2626 ttl=125 time=0.656 ms
+64 bytes from 172.19.2.250: icmp_seq=2626 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2626 ttl=125 time=0.698 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2626 ttl=125 time=0.709 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2627 ttl=125 time=0.727 ms
+64 bytes from 172.19.2.250: icmp_seq=2627 ttl=125 time=0.775 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2627 ttl=125 time=0.800 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2627 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2628 ttl=125 time=0.586 ms
+64 bytes from 172.19.2.250: icmp_seq=2628 ttl=125 time=0.633 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2628 ttl=125 time=0.658 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2628 ttl=125 time=0.676 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2629 ttl=125 time=0.630 ms
+64 bytes from 172.19.2.250: icmp_seq=2629 ttl=125 time=0.678 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2629 ttl=125 time=0.697 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2629 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2630 ttl=125 time=0.740 ms
+64 bytes from 172.19.2.250: icmp_seq=2630 ttl=125 time=0.782 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2630 ttl=125 time=0.806 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2630 ttl=125 time=0.825 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2631 ttl=125 time=0.584 ms
+64 bytes from 172.19.2.250: icmp_seq=2631 ttl=125 time=0.635 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2631 ttl=125 time=0.649 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2631 ttl=125 time=0.669 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2632 ttl=125 time=0.678 ms
+64 bytes from 172.19.2.250: icmp_seq=2632 ttl=125 time=0.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2632 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2632 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2633 ttl=125 time=0.719 ms
+64 bytes from 172.19.2.250: icmp_seq=2633 ttl=125 time=0.767 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2633 ttl=125 time=0.788 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2633 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2634 ttl=125 time=0.633 ms
+64 bytes from 172.19.2.250: icmp_seq=2634 ttl=125 time=0.669 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2634 ttl=125 time=0.679 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2634 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2635 ttl=125 time=0.814 ms
+64 bytes from 172.19.2.250: icmp_seq=2635 ttl=125 time=0.866 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2635 ttl=125 time=0.880 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2635 ttl=125 time=0.952 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2636 ttl=125 time=0.559 ms
+64 bytes from 172.19.2.250: icmp_seq=2636 ttl=125 time=0.582 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2636 ttl=125 time=0.636 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2636 ttl=125 time=0.644 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2637 ttl=125 time=0.551 ms
+64 bytes from 172.19.2.250: icmp_seq=2637 ttl=125 time=0.584 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2637 ttl=125 time=0.605 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2637 ttl=125 time=0.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2638 ttl=125 time=0.508 ms
+64 bytes from 172.19.2.250: icmp_seq=2638 ttl=125 time=0.580 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2638 ttl=125 time=0.629 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2638 ttl=125 time=0.643 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2639 ttl=125 time=0.628 ms
+64 bytes from 172.19.2.250: icmp_seq=2639 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2639 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2639 ttl=125 time=0.854 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2640 ttl=125 time=0.670 ms
+64 bytes from 172.19.2.250: icmp_seq=2640 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2640 ttl=125 time=0.728 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2640 ttl=125 time=0.741 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2641 ttl=125 time=0.779 ms
+64 bytes from 172.19.2.250: icmp_seq=2641 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2641 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2641 ttl=125 time=0.938 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2642 ttl=125 time=0.673 ms
+64 bytes from 172.19.2.250: icmp_seq=2642 ttl=125 time=0.729 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2642 ttl=125 time=0.746 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2642 ttl=125 time=0.816 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2643 ttl=125 time=0.665 ms
+64 bytes from 172.19.2.250: icmp_seq=2643 ttl=125 time=0.736 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2643 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2643 ttl=125 time=0.769 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2644 ttl=125 time=0.521 ms
+64 bytes from 172.19.2.250: icmp_seq=2644 ttl=125 time=0.579 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2644 ttl=125 time=0.600 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2644 ttl=125 time=0.703 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2645 ttl=125 time=0.716 ms
+64 bytes from 172.19.2.250: icmp_seq=2645 ttl=125 time=0.762 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2645 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2645 ttl=125 time=0.930 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2646 ttl=125 time=0.614 ms
+64 bytes from 172.19.2.250: icmp_seq=2646 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2646 ttl=125 time=0.741 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2646 ttl=125 time=0.862 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2647 ttl=125 time=0.569 ms
+64 bytes from 172.19.2.250: icmp_seq=2647 ttl=125 time=0.610 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2647 ttl=125 time=0.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2647 ttl=125 time=0.629 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2648 ttl=125 time=0.609 ms
+64 bytes from 172.19.2.250: icmp_seq=2648 ttl=125 time=0.644 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2648 ttl=125 time=0.653 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2648 ttl=125 time=0.660 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2649 ttl=125 time=0.708 ms
+64 bytes from 172.19.2.250: icmp_seq=2649 ttl=125 time=0.741 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2649 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2649 ttl=125 time=0.758 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2650 ttl=125 time=0.653 ms
+64 bytes from 172.19.2.250: icmp_seq=2650 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2650 ttl=125 time=0.706 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2650 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2651 ttl=125 time=0.470 ms
+64 bytes from 172.19.2.250: icmp_seq=2651 ttl=125 time=0.487 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2651 ttl=125 time=0.534 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2651 ttl=125 time=0.577 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2652 ttl=125 time=0.570 ms
+64 bytes from 172.19.2.250: icmp_seq=2652 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2652 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2652 ttl=125 time=0.735 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2653 ttl=125 time=0.703 ms
+64 bytes from 172.19.2.250: icmp_seq=2653 ttl=125 time=0.777 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2653 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2653 ttl=125 time=1.034 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2654 ttl=125 time=0.731 ms
+64 bytes from 172.19.2.250: icmp_seq=2654 ttl=125 time=0.780 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2654 ttl=125 time=0.797 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2654 ttl=125 time=0.815 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2655 ttl=125 time=0.540 ms
+64 bytes from 172.19.2.250: icmp_seq=2655 ttl=125 time=0.585 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2655 ttl=125 time=0.602 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2655 ttl=125 time=0.621 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2656 ttl=125 time=0.455 ms
+64 bytes from 172.19.2.250: icmp_seq=2656 ttl=125 time=0.525 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2656 ttl=125 time=0.535 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2656 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2657 ttl=125 time=0.434 ms
+64 bytes from 172.19.2.250: icmp_seq=2657 ttl=125 time=0.458 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2657 ttl=125 time=0.464 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2657 ttl=125 time=0.478 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2658 ttl=125 time=0.464 ms
+64 bytes from 172.19.2.250: icmp_seq=2658 ttl=125 time=0.501 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2658 ttl=125 time=0.508 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2658 ttl=125 time=0.520 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2659 ttl=125 time=0.524 ms
+64 bytes from 172.19.2.250: icmp_seq=2659 ttl=125 time=0.557 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2659 ttl=125 time=0.568 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2659 ttl=125 time=0.676 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2660 ttl=125 time=0.538 ms
+64 bytes from 172.19.2.250: icmp_seq=2660 ttl=125 time=0.599 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2660 ttl=125 time=0.621 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2660 ttl=125 time=0.649 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2661 ttl=125 time=0.758 ms
+64 bytes from 172.19.2.250: icmp_seq=2661 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2661 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2661 ttl=125 time=0.849 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2662 ttl=125 time=0.517 ms
+64 bytes from 172.19.2.250: icmp_seq=2662 ttl=125 time=0.564 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2662 ttl=125 time=0.588 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2662 ttl=125 time=0.608 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2663 ttl=125 time=0.738 ms
+64 bytes from 172.19.2.250: icmp_seq=2663 ttl=125 time=0.786 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2663 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2663 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2664 ttl=125 time=0.741 ms
+64 bytes from 172.19.2.250: icmp_seq=2664 ttl=125 time=0.793 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2664 ttl=125 time=0.810 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2664 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2665 ttl=125 time=0.626 ms
+64 bytes from 172.19.2.250: icmp_seq=2665 ttl=125 time=0.660 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2665 ttl=125 time=0.669 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2665 ttl=125 time=0.679 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2666 ttl=125 time=0.546 ms
+64 bytes from 172.19.2.250: icmp_seq=2666 ttl=125 time=0.582 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2666 ttl=125 time=0.604 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2666 ttl=125 time=0.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2667 ttl=125 time=0.584 ms
+64 bytes from 172.19.2.250: icmp_seq=2667 ttl=125 time=0.624 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2667 ttl=125 time=0.635 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2667 ttl=125 time=0.640 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2668 ttl=125 time=0.728 ms
+64 bytes from 172.19.2.250: icmp_seq=2668 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2668 ttl=125 time=0.787 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2668 ttl=125 time=2.663 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2669 ttl=125 time=0.509 ms
+64 bytes from 172.19.2.250: icmp_seq=2669 ttl=125 time=0.535 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2669 ttl=125 time=0.543 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2669 ttl=125 time=0.550 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2670 ttl=125 time=0.636 ms
+64 bytes from 172.19.2.250: icmp_seq=2670 ttl=125 time=0.670 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2670 ttl=125 time=0.678 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2670 ttl=125 time=0.685 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2671 ttl=125 time=0.733 ms
+64 bytes from 172.19.2.250: icmp_seq=2671 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2671 ttl=125 time=0.792 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2671 ttl=125 time=0.970 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2672 ttl=125 time=0.559 ms
+64 bytes from 172.19.2.250: icmp_seq=2672 ttl=125 time=0.606 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2672 ttl=125 time=0.626 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2672 ttl=125 time=0.642 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2673 ttl=125 time=0.583 ms
+64 bytes from 172.19.2.250: icmp_seq=2673 ttl=125 time=0.632 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2673 ttl=125 time=0.649 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2673 ttl=125 time=0.664 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2674 ttl=125 time=0.532 ms
+64 bytes from 172.19.2.250: icmp_seq=2674 ttl=125 time=0.570 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2674 ttl=125 time=0.585 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2674 ttl=125 time=0.603 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2675 ttl=125 time=0.757 ms
+64 bytes from 172.19.2.250: icmp_seq=2675 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2675 ttl=125 time=0.853 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2675 ttl=125 time=0.900 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2676 ttl=125 time=0.801 ms
+64 bytes from 172.19.2.250: icmp_seq=2676 ttl=125 time=0.848 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2676 ttl=125 time=0.865 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2676 ttl=125 time=0.887 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2677 ttl=125 time=0.523 ms
+64 bytes from 172.19.2.250: icmp_seq=2677 ttl=125 time=0.564 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2677 ttl=125 time=0.581 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2677 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2678 ttl=125 time=0.616 ms
+64 bytes from 172.19.2.250: icmp_seq=2678 ttl=125 time=0.654 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2678 ttl=125 time=0.664 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2678 ttl=125 time=0.676 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2679 ttl=125 time=0.815 ms
+64 bytes from 172.19.2.250: icmp_seq=2679 ttl=125 time=0.860 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2679 ttl=125 time=0.986 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2679 ttl=125 time=1.221 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2680 ttl=125 time=0.753 ms
+64 bytes from 172.19.2.250: icmp_seq=2680 ttl=125 time=0.797 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2680 ttl=125 time=0.812 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2680 ttl=125 time=3.078 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2681 ttl=125 time=0.671 ms
+64 bytes from 172.19.2.250: icmp_seq=2681 ttl=125 time=0.716 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2681 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2681 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2682 ttl=125 time=1.585 ms
+64 bytes from 172.19.2.250: icmp_seq=2682 ttl=125 time=1.620 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2682 ttl=125 time=1.628 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2682 ttl=125 time=1.637 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2683 ttl=125 time=0.640 ms
+64 bytes from 172.19.2.250: icmp_seq=2683 ttl=125 time=0.670 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2683 ttl=125 time=0.682 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2683 ttl=125 time=0.695 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2684 ttl=125 time=0.678 ms
+64 bytes from 172.19.2.250: icmp_seq=2684 ttl=125 time=0.727 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2684 ttl=125 time=0.747 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2684 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2685 ttl=125 time=0.629 ms
+64 bytes from 172.19.2.250: icmp_seq=2685 ttl=125 time=0.666 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2685 ttl=125 time=0.681 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2685 ttl=125 time=0.700 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2686 ttl=125 time=0.511 ms
+64 bytes from 172.19.2.250: icmp_seq=2686 ttl=125 time=0.554 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2686 ttl=125 time=0.832 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2686 ttl=125 time=1.597 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2687 ttl=125 time=0.750 ms
+64 bytes from 172.19.2.250: icmp_seq=2687 ttl=125 time=0.798 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2687 ttl=125 time=0.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2687 ttl=125 time=29.663 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2688 ttl=125 time=0.771 ms
+64 bytes from 172.19.2.250: icmp_seq=2688 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2688 ttl=125 time=0.844 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2688 ttl=125 time=0.860 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2689 ttl=125 time=0.396 ms
+64 bytes from 172.19.2.250: icmp_seq=2689 ttl=125 time=0.441 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2689 ttl=125 time=0.513 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2689 ttl=125 time=0.524 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2690 ttl=125 time=0.726 ms
+64 bytes from 172.19.2.250: icmp_seq=2690 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2690 ttl=125 time=0.792 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2690 ttl=125 time=0.811 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2691 ttl=125 time=0.644 ms
+64 bytes from 172.19.2.250: icmp_seq=2691 ttl=125 time=0.683 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2691 ttl=125 time=0.694 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2691 ttl=125 time=0.835 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2692 ttl=125 time=0.669 ms
+64 bytes from 172.19.2.250: icmp_seq=2692 ttl=125 time=0.750 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2692 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2692 ttl=125 time=0.798 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2693 ttl=125 time=0.663 ms
+64 bytes from 172.19.2.250: icmp_seq=2693 ttl=125 time=0.709 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2693 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2693 ttl=125 time=0.747 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2694 ttl=125 time=0.557 ms
+64 bytes from 172.19.2.250: icmp_seq=2694 ttl=125 time=0.586 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2694 ttl=125 time=0.634 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2694 ttl=125 time=0.758 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2695 ttl=125 time=0.606 ms
+64 bytes from 172.19.2.250: icmp_seq=2695 ttl=125 time=0.676 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2695 ttl=125 time=0.705 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2695 ttl=125 time=0.720 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2696 ttl=125 time=0.695 ms
+64 bytes from 172.19.2.250: icmp_seq=2696 ttl=125 time=0.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2696 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2696 ttl=125 time=0.771 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2697 ttl=125 time=0.747 ms
+64 bytes from 172.19.2.250: icmp_seq=2697 ttl=125 time=0.800 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2697 ttl=125 time=0.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2697 ttl=125 time=1.031 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2698 ttl=125 time=0.563 ms
+64 bytes from 172.19.2.250: icmp_seq=2698 ttl=125 time=0.604 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2698 ttl=125 time=0.624 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2698 ttl=125 time=0.641 ms (DUP!)
+Request timeout for icmp_seq 2703
+Request timeout for icmp_seq 2704
+Request timeout for icmp_seq 2705
+Request timeout for icmp_seq 2706
+Request timeout for icmp_seq 2707
+Request timeout for icmp_seq 2708
+Request timeout for icmp_seq 2709
+Request timeout for icmp_seq 2710
+Request timeout for icmp_seq 2711
+Request timeout for icmp_seq 2712
+64 bytes from 172.19.2.250: icmp_seq=2699 ttl=125 time=14653.295 ms
+64 bytes from 172.19.2.250: icmp_seq=2699 ttl=125 time=14653.341 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2700 ttl=125 time=13648.245 ms
+64 bytes from 172.19.2.250: icmp_seq=2699 ttl=125 time=14653.422 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2700 ttl=125 time=13648.276 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2701 ttl=125 time=12643.167 ms
+64 bytes from 172.19.2.250: icmp_seq=2700 ttl=125 time=13648.362 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2701 ttl=125 time=12643.306 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2699 ttl=125 time=14653.604 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2701 ttl=125 time=12643.395 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2702 ttl=125 time=11638.407 ms
+64 bytes from 172.19.2.250: icmp_seq=2702 ttl=125 time=11638.423 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2702 ttl=125 time=11638.509 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2703 ttl=125 time=10634.280 ms
+64 bytes from 172.19.2.250: icmp_seq=2700 ttl=125 time=13648.785 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2703 ttl=125 time=10634.361 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2703 ttl=125 time=10634.375 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2701 ttl=125 time=12643.705 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2702 ttl=125 time=11638.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2703 ttl=125 time=10634.621 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2714 ttl=125 time=0.674 ms
+64 bytes from 172.19.2.250: icmp_seq=2714 ttl=125 time=0.725 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2714 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2714 ttl=125 time=0.765 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2715 ttl=125 time=0.650 ms
+64 bytes from 172.19.2.250: icmp_seq=2715 ttl=125 time=0.699 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2715 ttl=125 time=0.720 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2715 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2716 ttl=125 time=0.566 ms
+64 bytes from 172.19.2.250: icmp_seq=2716 ttl=125 time=0.603 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2716 ttl=125 time=0.617 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2716 ttl=125 time=0.685 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2717 ttl=125 time=0.706 ms
+64 bytes from 172.19.2.250: icmp_seq=2717 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2717 ttl=125 time=0.775 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2717 ttl=125 time=0.794 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2718 ttl=125 time=0.736 ms
+64 bytes from 172.19.2.250: icmp_seq=2718 ttl=125 time=0.791 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2718 ttl=125 time=0.810 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2718 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2719 ttl=125 time=0.554 ms
+64 bytes from 172.19.2.250: icmp_seq=2719 ttl=125 time=0.598 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2719 ttl=125 time=0.615 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2719 ttl=125 time=0.638 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2720 ttl=125 time=0.672 ms
+64 bytes from 172.19.2.250: icmp_seq=2720 ttl=125 time=0.727 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2720 ttl=125 time=0.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2720 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2721 ttl=125 time=0.753 ms
+64 bytes from 172.19.2.250: icmp_seq=2721 ttl=125 time=0.800 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2721 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2721 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2722 ttl=125 time=0.707 ms
+64 bytes from 172.19.2.250: icmp_seq=2722 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2722 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2722 ttl=125 time=0.839 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2723 ttl=125 time=0.675 ms
+64 bytes from 172.19.2.250: icmp_seq=2723 ttl=125 time=0.708 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2723 ttl=125 time=0.726 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2723 ttl=125 time=0.742 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2724 ttl=125 time=0.510 ms
+64 bytes from 172.19.2.250: icmp_seq=2724 ttl=125 time=0.535 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2724 ttl=125 time=0.543 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2724 ttl=125 time=0.555 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2725 ttl=125 time=0.693 ms
+64 bytes from 172.19.2.250: icmp_seq=2725 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2725 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2725 ttl=125 time=0.756 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2726 ttl=125 time=0.660 ms
+64 bytes from 172.19.2.250: icmp_seq=2726 ttl=125 time=0.691 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2726 ttl=125 time=0.705 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2726 ttl=125 time=0.716 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2727 ttl=125 time=0.669 ms
+64 bytes from 172.19.2.250: icmp_seq=2727 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2727 ttl=125 time=0.736 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2727 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2728 ttl=125 time=0.623 ms
+64 bytes from 172.19.2.250: icmp_seq=2728 ttl=125 time=0.657 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2728 ttl=125 time=0.665 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2728 ttl=125 time=0.675 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2729 ttl=125 time=0.540 ms
+64 bytes from 172.19.2.250: icmp_seq=2729 ttl=125 time=0.580 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2729 ttl=125 time=0.598 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2729 ttl=125 time=2.016 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2730 ttl=125 time=0.675 ms
+64 bytes from 172.19.2.250: icmp_seq=2730 ttl=125 time=0.726 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2730 ttl=125 time=0.751 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2730 ttl=125 time=0.770 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2731 ttl=125 time=0.782 ms
+64 bytes from 172.19.2.250: icmp_seq=2731 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2731 ttl=125 time=0.847 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2731 ttl=125 time=0.865 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2732 ttl=125 time=0.796 ms
+64 bytes from 172.19.2.250: icmp_seq=2732 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2732 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2732 ttl=125 time=1.496 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2733 ttl=125 time=0.592 ms
+64 bytes from 172.19.2.250: icmp_seq=2733 ttl=125 time=0.639 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2733 ttl=125 time=0.655 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2733 ttl=125 time=1.041 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2734 ttl=125 time=0.576 ms
+64 bytes from 172.19.2.250: icmp_seq=2734 ttl=125 time=0.618 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2734 ttl=125 time=0.667 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2734 ttl=125 time=0.685 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2735 ttl=125 time=0.685 ms
+64 bytes from 172.19.2.250: icmp_seq=2735 ttl=125 time=0.733 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2735 ttl=125 time=0.750 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2735 ttl=125 time=1.630 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2736 ttl=125 time=0.647 ms
+64 bytes from 172.19.2.250: icmp_seq=2736 ttl=125 time=0.690 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2736 ttl=125 time=0.709 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2736 ttl=125 time=0.730 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2737 ttl=125 time=0.625 ms
+64 bytes from 172.19.2.250: icmp_seq=2737 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2737 ttl=125 time=0.689 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2737 ttl=125 time=0.708 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2738 ttl=125 time=0.723 ms
+64 bytes from 172.19.2.250: icmp_seq=2738 ttl=125 time=0.770 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2738 ttl=125 time=0.791 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2738 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2739 ttl=125 time=0.757 ms
+64 bytes from 172.19.2.250: icmp_seq=2739 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2739 ttl=125 time=0.820 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2739 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2740 ttl=125 time=0.815 ms
+64 bytes from 172.19.2.250: icmp_seq=2740 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2740 ttl=125 time=1.065 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2740 ttl=125 time=1.616 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2741 ttl=125 time=0.780 ms
+64 bytes from 172.19.2.250: icmp_seq=2741 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2741 ttl=125 time=0.856 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2741 ttl=125 time=0.874 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2742 ttl=125 time=0.617 ms
+64 bytes from 172.19.2.250: icmp_seq=2742 ttl=125 time=0.669 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2742 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2742 ttl=125 time=0.702 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2743 ttl=125 time=0.747 ms
+64 bytes from 172.19.2.250: icmp_seq=2743 ttl=125 time=0.795 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2743 ttl=125 time=0.819 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2743 ttl=125 time=0.835 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2744 ttl=125 time=0.619 ms
+64 bytes from 172.19.2.250: icmp_seq=2744 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2744 ttl=125 time=0.705 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2744 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2745 ttl=125 time=0.637 ms
+64 bytes from 172.19.2.250: icmp_seq=2745 ttl=125 time=0.682 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2745 ttl=125 time=0.702 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2745 ttl=125 time=0.718 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2746 ttl=125 time=0.736 ms
+64 bytes from 172.19.2.250: icmp_seq=2746 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2746 ttl=125 time=0.809 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2746 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2747 ttl=125 time=0.670 ms
+64 bytes from 172.19.2.250: icmp_seq=2747 ttl=125 time=0.718 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2747 ttl=125 time=0.736 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2747 ttl=125 time=0.754 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2748 ttl=125 time=0.726 ms
+64 bytes from 172.19.2.250: icmp_seq=2748 ttl=125 time=0.774 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2748 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2748 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2749 ttl=125 time=0.547 ms
+64 bytes from 172.19.2.250: icmp_seq=2749 ttl=125 time=0.614 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2749 ttl=125 time=0.680 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2749 ttl=125 time=1.465 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2750 ttl=125 time=0.749 ms
+64 bytes from 172.19.2.250: icmp_seq=2750 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2750 ttl=125 time=0.829 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2750 ttl=125 time=0.917 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2751 ttl=125 time=0.689 ms
+64 bytes from 172.19.2.250: icmp_seq=2751 ttl=125 time=0.733 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2751 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2751 ttl=125 time=0.770 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2752 ttl=125 time=0.653 ms
+64 bytes from 172.19.2.250: icmp_seq=2752 ttl=125 time=0.697 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2752 ttl=125 time=0.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2752 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2753 ttl=125 time=0.807 ms
+64 bytes from 172.19.2.250: icmp_seq=2753 ttl=125 time=0.860 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2753 ttl=125 time=0.877 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2753 ttl=125 time=0.896 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2754 ttl=125 time=0.448 ms
+64 bytes from 172.19.2.250: icmp_seq=2754 ttl=125 time=0.487 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2754 ttl=125 time=0.493 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2754 ttl=125 time=0.594 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2755 ttl=125 time=0.698 ms
+64 bytes from 172.19.2.250: icmp_seq=2755 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2755 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2755 ttl=125 time=0.753 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2756 ttl=125 time=0.612 ms
+64 bytes from 172.19.2.250: icmp_seq=2756 ttl=125 time=0.646 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2756 ttl=125 time=0.698 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2756 ttl=125 time=1.786 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2757 ttl=125 time=0.611 ms
+64 bytes from 172.19.2.250: icmp_seq=2757 ttl=125 time=0.654 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2757 ttl=125 time=0.662 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2757 ttl=125 time=0.674 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2758 ttl=125 time=0.801 ms
+64 bytes from 172.19.2.250: icmp_seq=2758 ttl=125 time=0.850 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2758 ttl=125 time=0.868 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2758 ttl=125 time=0.884 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2759 ttl=125 time=0.698 ms
+64 bytes from 172.19.2.250: icmp_seq=2759 ttl=125 time=0.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2759 ttl=125 time=0.804 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2759 ttl=125 time=0.867 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2760 ttl=125 time=0.695 ms
+64 bytes from 172.19.2.250: icmp_seq=2760 ttl=125 time=0.736 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2760 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2760 ttl=125 time=0.765 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2761 ttl=125 time=0.774 ms
+64 bytes from 172.19.2.250: icmp_seq=2761 ttl=125 time=0.833 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2761 ttl=125 time=0.853 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2761 ttl=125 time=0.973 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2762 ttl=125 time=0.580 ms
+64 bytes from 172.19.2.250: icmp_seq=2762 ttl=125 time=0.617 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2762 ttl=125 time=0.634 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2762 ttl=125 time=0.649 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2763 ttl=125 time=0.743 ms
+64 bytes from 172.19.2.250: icmp_seq=2763 ttl=125 time=0.799 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2763 ttl=125 time=0.821 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2763 ttl=125 time=0.924 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2764 ttl=125 time=0.642 ms
+64 bytes from 172.19.2.250: icmp_seq=2764 ttl=125 time=0.686 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2764 ttl=125 time=0.707 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2764 ttl=125 time=0.725 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2765 ttl=125 time=0.521 ms
+64 bytes from 172.19.2.250: icmp_seq=2765 ttl=125 time=0.552 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2765 ttl=125 time=0.560 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2765 ttl=125 time=0.658 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2766 ttl=125 time=0.709 ms
+64 bytes from 172.19.2.250: icmp_seq=2766 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2766 ttl=125 time=0.773 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2766 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2767 ttl=125 time=0.749 ms
+64 bytes from 172.19.2.250: icmp_seq=2767 ttl=125 time=0.795 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2767 ttl=125 time=0.812 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2767 ttl=125 time=0.831 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2768 ttl=125 time=0.663 ms
+64 bytes from 172.19.2.250: icmp_seq=2768 ttl=125 time=0.698 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2768 ttl=125 time=0.732 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2768 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2769 ttl=125 time=0.455 ms
+64 bytes from 172.19.2.250: icmp_seq=2769 ttl=125 time=0.473 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2769 ttl=125 time=0.491 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2769 ttl=125 time=0.525 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2770 ttl=125 time=0.667 ms
+64 bytes from 172.19.2.250: icmp_seq=2770 ttl=125 time=0.710 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2770 ttl=125 time=0.727 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2770 ttl=125 time=0.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2771 ttl=125 time=0.762 ms
+64 bytes from 172.19.2.250: icmp_seq=2771 ttl=125 time=0.857 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2771 ttl=125 time=0.888 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2771 ttl=125 time=0.902 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2772 ttl=125 time=0.736 ms
+64 bytes from 172.19.2.250: icmp_seq=2772 ttl=125 time=0.785 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2772 ttl=125 time=0.803 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2772 ttl=125 time=0.943 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2773 ttl=125 time=0.749 ms
+64 bytes from 172.19.2.250: icmp_seq=2773 ttl=125 time=0.800 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2773 ttl=125 time=0.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2773 ttl=125 time=0.836 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2774 ttl=125 time=0.764 ms
+64 bytes from 172.19.2.250: icmp_seq=2774 ttl=125 time=0.808 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2774 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2774 ttl=125 time=0.848 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2775 ttl=125 time=0.701 ms
+64 bytes from 172.19.2.250: icmp_seq=2775 ttl=125 time=0.743 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2775 ttl=125 time=0.762 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2775 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2776 ttl=125 time=0.652 ms
+64 bytes from 172.19.2.250: icmp_seq=2776 ttl=125 time=0.698 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2776 ttl=125 time=0.721 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2776 ttl=125 time=0.744 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2777 ttl=125 time=0.714 ms
+64 bytes from 172.19.2.250: icmp_seq=2777 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2777 ttl=125 time=0.784 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2777 ttl=125 time=0.802 ms (DUP!)
+Request timeout for icmp_seq 2782
+Request timeout for icmp_seq 2783
+Request timeout for icmp_seq 2784
+Request timeout for icmp_seq 2785
+Request timeout for icmp_seq 2786
+64 bytes from 172.19.2.250: icmp_seq=2778 ttl=125 time=9207.600 ms
+64 bytes from 172.19.2.250: icmp_seq=2778 ttl=125 time=9207.640 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2778 ttl=125 time=9207.655 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2779 ttl=125 time=8203.685 ms
+64 bytes from 172.19.2.250: icmp_seq=2779 ttl=125 time=8203.712 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2778 ttl=125 time=9207.819 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2779 ttl=125 time=8203.740 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2780 ttl=125 time=7198.730 ms
+64 bytes from 172.19.2.250: icmp_seq=2780 ttl=125 time=7198.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2780 ttl=125 time=7198.812 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2781 ttl=125 time=6194.272 ms
+64 bytes from 172.19.2.250: icmp_seq=2779 ttl=125 time=8203.917 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2781 ttl=125 time=6194.297 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2782 ttl=125 time=5191.670 ms
+64 bytes from 172.19.2.250: icmp_seq=2781 ttl=125 time=6194.398 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2782 ttl=125 time=5191.702 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2780 ttl=125 time=7198.984 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2782 ttl=125 time=5191.818 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2781 ttl=125 time=6194.539 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2782 ttl=125 time=5191.877 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2788 ttl=125 time=0.582 ms
+64 bytes from 172.19.2.250: icmp_seq=2788 ttl=125 time=0.623 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2788 ttl=125 time=0.635 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2788 ttl=125 time=0.675 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2789 ttl=125 time=0.523 ms
+64 bytes from 172.19.2.250: icmp_seq=2789 ttl=125 time=0.551 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2789 ttl=125 time=0.585 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2789 ttl=125 time=0.606 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2790 ttl=125 time=0.683 ms
+64 bytes from 172.19.2.250: icmp_seq=2790 ttl=125 time=0.739 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2790 ttl=125 time=0.762 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2790 ttl=125 time=0.813 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2791 ttl=125 time=0.778 ms
+64 bytes from 172.19.2.250: icmp_seq=2791 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2791 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2791 ttl=125 time=0.877 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2792 ttl=125 time=0.710 ms
+64 bytes from 172.19.2.250: icmp_seq=2792 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2792 ttl=125 time=0.765 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2792 ttl=125 time=0.782 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2793 ttl=125 time=0.709 ms
+64 bytes from 172.19.2.250: icmp_seq=2793 ttl=125 time=0.756 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2793 ttl=125 time=0.772 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2793 ttl=125 time=0.793 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2794 ttl=125 time=0.759 ms
+64 bytes from 172.19.2.250: icmp_seq=2794 ttl=125 time=0.811 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2794 ttl=125 time=0.831 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2794 ttl=125 time=1.080 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2795 ttl=125 time=0.701 ms
+64 bytes from 172.19.2.250: icmp_seq=2795 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2795 ttl=125 time=0.769 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2795 ttl=125 time=0.788 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2796 ttl=125 time=0.715 ms
+64 bytes from 172.19.2.250: icmp_seq=2796 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2796 ttl=125 time=0.783 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2796 ttl=125 time=0.927 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2797 ttl=125 time=0.712 ms
+64 bytes from 172.19.2.250: icmp_seq=2797 ttl=125 time=0.758 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2797 ttl=125 time=0.771 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2797 ttl=125 time=0.786 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2798 ttl=125 time=0.748 ms
+64 bytes from 172.19.2.250: icmp_seq=2798 ttl=125 time=0.796 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2798 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2798 ttl=125 time=0.829 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2799 ttl=125 time=0.740 ms
+64 bytes from 172.19.2.250: icmp_seq=2799 ttl=125 time=0.787 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2799 ttl=125 time=0.806 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2799 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2800 ttl=125 time=0.724 ms
+64 bytes from 172.19.2.250: icmp_seq=2800 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2800 ttl=125 time=0.801 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2800 ttl=125 time=2.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2801 ttl=125 time=0.775 ms
+64 bytes from 172.19.2.250: icmp_seq=2801 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2801 ttl=125 time=0.842 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2801 ttl=125 time=1.598 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2802 ttl=125 time=0.815 ms
+64 bytes from 172.19.2.250: icmp_seq=2802 ttl=125 time=0.868 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2802 ttl=125 time=0.892 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2802 ttl=125 time=0.909 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2803 ttl=125 time=0.722 ms
+64 bytes from 172.19.2.250: icmp_seq=2803 ttl=125 time=0.772 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2803 ttl=125 time=0.847 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2803 ttl=125 time=0.872 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2804 ttl=125 time=0.699 ms
+64 bytes from 172.19.2.250: icmp_seq=2804 ttl=125 time=0.753 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2804 ttl=125 time=0.771 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2804 ttl=125 time=0.891 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2805 ttl=125 time=0.754 ms
+64 bytes from 172.19.2.250: icmp_seq=2805 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2805 ttl=125 time=0.820 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2805 ttl=125 time=0.843 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2806 ttl=125 time=0.716 ms
+64 bytes from 172.19.2.250: icmp_seq=2806 ttl=125 time=0.763 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2806 ttl=125 time=0.781 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2806 ttl=125 time=0.803 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2807 ttl=125 time=0.775 ms
+64 bytes from 172.19.2.250: icmp_seq=2807 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2807 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2807 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2808 ttl=125 time=0.831 ms
+64 bytes from 172.19.2.250: icmp_seq=2808 ttl=125 time=0.879 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2808 ttl=125 time=0.899 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2808 ttl=125 time=2.228 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2809 ttl=125 time=0.602 ms
+64 bytes from 172.19.2.250: icmp_seq=2809 ttl=125 time=0.658 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2809 ttl=125 time=0.675 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2809 ttl=125 time=0.695 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2810 ttl=125 time=0.774 ms
+64 bytes from 172.19.2.250: icmp_seq=2810 ttl=125 time=0.831 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2810 ttl=125 time=0.852 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2810 ttl=125 time=0.870 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2811 ttl=125 time=0.743 ms
+64 bytes from 172.19.2.250: icmp_seq=2811 ttl=125 time=0.792 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2811 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2811 ttl=125 time=0.937 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2812 ttl=125 time=0.729 ms
+64 bytes from 172.19.2.250: icmp_seq=2812 ttl=125 time=0.783 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2812 ttl=125 time=0.801 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2812 ttl=125 time=0.821 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2813 ttl=125 time=0.647 ms
+64 bytes from 172.19.2.250: icmp_seq=2813 ttl=125 time=0.683 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2813 ttl=125 time=0.699 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2813 ttl=125 time=1.112 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2814 ttl=125 time=0.778 ms
+64 bytes from 172.19.2.250: icmp_seq=2814 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2814 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2814 ttl=125 time=0.859 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2815 ttl=125 time=0.619 ms
+64 bytes from 172.19.2.250: icmp_seq=2815 ttl=125 time=0.665 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2815 ttl=125 time=0.688 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2815 ttl=125 time=0.979 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2816 ttl=125 time=0.650 ms
+64 bytes from 172.19.2.250: icmp_seq=2816 ttl=125 time=0.697 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2816 ttl=125 time=0.714 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2816 ttl=125 time=0.742 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2817 ttl=125 time=0.626 ms
+64 bytes from 172.19.2.250: icmp_seq=2817 ttl=125 time=0.675 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2817 ttl=125 time=0.693 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2817 ttl=125 time=0.713 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2818 ttl=125 time=0.673 ms
+64 bytes from 172.19.2.250: icmp_seq=2818 ttl=125 time=0.716 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2818 ttl=125 time=0.734 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2818 ttl=125 time=0.894 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2819 ttl=125 time=0.761 ms
+64 bytes from 172.19.2.250: icmp_seq=2819 ttl=125 time=0.809 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2819 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2819 ttl=125 time=0.854 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2820 ttl=125 time=0.762 ms
+64 bytes from 172.19.2.250: icmp_seq=2820 ttl=125 time=0.809 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2820 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2820 ttl=125 time=0.843 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2821 ttl=125 time=0.700 ms
+64 bytes from 172.19.2.250: icmp_seq=2821 ttl=125 time=0.746 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2821 ttl=125 time=0.765 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2821 ttl=125 time=1.115 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2822 ttl=125 time=0.763 ms
+64 bytes from 172.19.2.250: icmp_seq=2822 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2822 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2822 ttl=125 time=0.845 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2823 ttl=125 time=0.795 ms
+64 bytes from 172.19.2.250: icmp_seq=2823 ttl=125 time=0.847 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2823 ttl=125 time=0.868 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2823 ttl=125 time=1.352 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2824 ttl=125 time=0.616 ms
+64 bytes from 172.19.2.250: icmp_seq=2824 ttl=125 time=0.645 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2824 ttl=125 time=0.654 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2824 ttl=125 time=0.662 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2825 ttl=125 time=0.531 ms
+64 bytes from 172.19.2.250: icmp_seq=2825 ttl=125 time=0.553 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2825 ttl=125 time=0.559 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2825 ttl=125 time=0.601 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2826 ttl=125 time=0.637 ms
+64 bytes from 172.19.2.250: icmp_seq=2826 ttl=125 time=0.681 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2826 ttl=125 time=1.017 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2826 ttl=125 time=1.047 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2827 ttl=125 time=0.459 ms
+64 bytes from 172.19.2.250: icmp_seq=2827 ttl=125 time=0.473 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2827 ttl=125 time=0.478 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2827 ttl=125 time=0.512 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2828 ttl=125 time=0.685 ms
+64 bytes from 172.19.2.250: icmp_seq=2828 ttl=125 time=0.722 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2828 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2828 ttl=125 time=0.956 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2829 ttl=125 time=0.580 ms
+64 bytes from 172.19.2.250: icmp_seq=2829 ttl=125 time=0.614 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2829 ttl=125 time=0.659 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2829 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2830 ttl=125 time=0.823 ms
+64 bytes from 172.19.2.250: icmp_seq=2830 ttl=125 time=0.878 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2830 ttl=125 time=0.901 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2830 ttl=125 time=0.918 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2831 ttl=125 time=0.805 ms
+64 bytes from 172.19.2.250: icmp_seq=2831 ttl=125 time=0.854 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2831 ttl=125 time=0.870 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2831 ttl=125 time=0.888 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2832 ttl=125 time=0.681 ms
+64 bytes from 172.19.2.250: icmp_seq=2832 ttl=125 time=0.729 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2832 ttl=125 time=0.746 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2832 ttl=125 time=0.763 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2833 ttl=125 time=0.599 ms
+64 bytes from 172.19.2.250: icmp_seq=2833 ttl=125 time=0.645 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2833 ttl=125 time=0.685 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2833 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2834 ttl=125 time=0.715 ms
+64 bytes from 172.19.2.250: icmp_seq=2834 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2834 ttl=125 time=0.783 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2834 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2835 ttl=125 time=0.429 ms
+64 bytes from 172.19.2.250: icmp_seq=2835 ttl=125 time=0.450 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2835 ttl=125 time=0.471 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2835 ttl=125 time=0.546 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2836 ttl=125 time=0.604 ms
+64 bytes from 172.19.2.250: icmp_seq=2836 ttl=125 time=0.637 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2836 ttl=125 time=0.692 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2836 ttl=125 time=0.726 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2837 ttl=125 time=0.702 ms
+64 bytes from 172.19.2.250: icmp_seq=2837 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2837 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2837 ttl=125 time=0.788 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2838 ttl=125 time=0.591 ms
+64 bytes from 172.19.2.250: icmp_seq=2838 ttl=125 time=0.637 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2838 ttl=125 time=0.656 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2838 ttl=125 time=0.682 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2839 ttl=125 time=0.726 ms
+64 bytes from 172.19.2.250: icmp_seq=2839 ttl=125 time=0.777 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2839 ttl=125 time=0.797 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2839 ttl=125 time=0.816 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2840 ttl=125 time=0.801 ms
+64 bytes from 172.19.2.250: icmp_seq=2840 ttl=125 time=0.849 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2840 ttl=125 time=0.868 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2840 ttl=125 time=1.101 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2841 ttl=125 time=0.747 ms
+64 bytes from 172.19.2.250: icmp_seq=2841 ttl=125 time=0.791 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2841 ttl=125 time=0.838 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2841 ttl=125 time=0.864 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2842 ttl=125 time=0.790 ms
+64 bytes from 172.19.2.250: icmp_seq=2842 ttl=125 time=0.850 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2842 ttl=125 time=0.870 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2842 ttl=125 time=0.888 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2843 ttl=125 time=0.768 ms
+64 bytes from 172.19.2.250: icmp_seq=2843 ttl=125 time=0.828 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2843 ttl=125 time=0.841 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2843 ttl=125 time=0.861 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2844 ttl=125 time=0.689 ms
+64 bytes from 172.19.2.250: icmp_seq=2844 ttl=125 time=0.737 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2844 ttl=125 time=0.758 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2844 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2845 ttl=125 time=0.784 ms
+64 bytes from 172.19.2.250: icmp_seq=2845 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2845 ttl=125 time=0.855 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2845 ttl=125 time=0.871 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2846 ttl=125 time=0.591 ms
+64 bytes from 172.19.2.250: icmp_seq=2846 ttl=125 time=0.626 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2846 ttl=125 time=0.637 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2846 ttl=125 time=0.731 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2847 ttl=125 time=0.724 ms
+64 bytes from 172.19.2.250: icmp_seq=2847 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2847 ttl=125 time=0.789 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2847 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2848 ttl=125 time=0.735 ms
+64 bytes from 172.19.2.250: icmp_seq=2848 ttl=125 time=0.781 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2848 ttl=125 time=0.799 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2848 ttl=125 time=0.916 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2849 ttl=125 time=0.694 ms
+64 bytes from 172.19.2.250: icmp_seq=2849 ttl=125 time=0.740 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2849 ttl=125 time=0.759 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2849 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2850 ttl=125 time=0.768 ms
+64 bytes from 172.19.2.250: icmp_seq=2850 ttl=125 time=0.814 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2850 ttl=125 time=0.831 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2850 ttl=125 time=0.849 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2851 ttl=125 time=0.734 ms
+64 bytes from 172.19.2.250: icmp_seq=2851 ttl=125 time=0.781 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2851 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2851 ttl=125 time=0.822 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2852 ttl=125 time=0.688 ms
+64 bytes from 172.19.2.250: icmp_seq=2852 ttl=125 time=0.742 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2852 ttl=125 time=0.757 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2852 ttl=125 time=0.777 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2853 ttl=125 time=0.696 ms
+64 bytes from 172.19.2.250: icmp_seq=2853 ttl=125 time=0.749 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2853 ttl=125 time=0.768 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2853 ttl=125 time=0.785 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2854 ttl=125 time=0.549 ms
+64 bytes from 172.19.2.250: icmp_seq=2854 ttl=125 time=0.591 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2854 ttl=125 time=0.612 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2854 ttl=125 time=0.629 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2855 ttl=125 time=0.733 ms
+64 bytes from 172.19.2.250: icmp_seq=2855 ttl=125 time=0.794 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2855 ttl=125 time=0.806 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2855 ttl=125 time=0.914 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2856 ttl=125 time=0.659 ms
+64 bytes from 172.19.2.250: icmp_seq=2856 ttl=125 time=0.704 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2856 ttl=125 time=0.720 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2856 ttl=125 time=0.741 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2857 ttl=125 time=0.763 ms
+64 bytes from 172.19.2.250: icmp_seq=2857 ttl=125 time=0.811 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2857 ttl=125 time=0.830 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2857 ttl=125 time=0.855 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2858 ttl=125 time=0.730 ms
+64 bytes from 172.19.2.250: icmp_seq=2858 ttl=125 time=0.776 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2858 ttl=125 time=0.795 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2858 ttl=125 time=0.812 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2859 ttl=125 time=0.652 ms
+64 bytes from 172.19.2.250: icmp_seq=2859 ttl=125 time=0.698 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2859 ttl=125 time=0.715 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2859 ttl=125 time=0.735 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2860 ttl=125 time=0.699 ms
+64 bytes from 172.19.2.250: icmp_seq=2860 ttl=125 time=0.752 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2860 ttl=125 time=0.773 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2860 ttl=125 time=0.792 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2861 ttl=125 time=0.618 ms
+64 bytes from 172.19.2.250: icmp_seq=2861 ttl=125 time=0.668 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2861 ttl=125 time=0.689 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2861 ttl=125 time=0.708 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2862 ttl=125 time=0.724 ms
+64 bytes from 172.19.2.250: icmp_seq=2862 ttl=125 time=0.770 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2862 ttl=125 time=0.789 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2862 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2863 ttl=125 time=0.751 ms
+64 bytes from 172.19.2.250: icmp_seq=2863 ttl=125 time=0.804 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2863 ttl=125 time=0.822 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2863 ttl=125 time=0.840 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2864 ttl=125 time=0.788 ms
+64 bytes from 172.19.2.250: icmp_seq=2864 ttl=125 time=0.847 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2864 ttl=125 time=0.867 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2864 ttl=125 time=0.885 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2865 ttl=125 time=0.774 ms
+64 bytes from 172.19.2.250: icmp_seq=2865 ttl=125 time=0.824 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2865 ttl=125 time=0.842 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2865 ttl=125 time=0.858 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2866 ttl=125 time=0.620 ms
+64 bytes from 172.19.2.250: icmp_seq=2866 ttl=125 time=0.697 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2866 ttl=125 time=0.719 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2866 ttl=125 time=2.761 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2867 ttl=125 time=0.723 ms
+64 bytes from 172.19.2.250: icmp_seq=2867 ttl=125 time=0.781 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2867 ttl=125 time=0.803 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2867 ttl=125 time=0.822 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2868 ttl=125 time=0.733 ms
+64 bytes from 172.19.2.250: icmp_seq=2868 ttl=125 time=0.779 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2868 ttl=125 time=0.802 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2868 ttl=125 time=0.992 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2869 ttl=125 time=0.584 ms
+64 bytes from 172.19.2.250: icmp_seq=2869 ttl=125 time=0.628 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2869 ttl=125 time=0.648 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2869 ttl=125 time=0.670 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2870 ttl=125 time=0.615 ms
+64 bytes from 172.19.2.250: icmp_seq=2870 ttl=125 time=0.656 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2870 ttl=125 time=0.671 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2870 ttl=125 time=0.682 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2871 ttl=125 time=0.720 ms
+64 bytes from 172.19.2.250: icmp_seq=2871 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2871 ttl=125 time=0.810 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2871 ttl=125 time=0.869 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2872 ttl=125 time=0.650 ms
+64 bytes from 172.19.2.250: icmp_seq=2872 ttl=125 time=0.699 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2872 ttl=125 time=0.718 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2872 ttl=125 time=0.735 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2873 ttl=125 time=0.665 ms
+64 bytes from 172.19.2.250: icmp_seq=2873 ttl=125 time=0.707 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2873 ttl=125 time=0.721 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2873 ttl=125 time=0.754 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2874 ttl=125 time=0.687 ms
+64 bytes from 172.19.2.250: icmp_seq=2874 ttl=125 time=0.730 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2874 ttl=125 time=0.748 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2874 ttl=125 time=0.762 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2875 ttl=125 time=0.641 ms
+64 bytes from 172.19.2.250: icmp_seq=2875 ttl=125 time=0.677 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2875 ttl=125 time=0.689 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2875 ttl=125 time=0.740 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2876 ttl=125 time=0.675 ms
+64 bytes from 172.19.2.250: icmp_seq=2876 ttl=125 time=0.713 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2876 ttl=125 time=0.723 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2876 ttl=125 time=0.735 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2877 ttl=125 time=0.700 ms
+64 bytes from 172.19.2.250: icmp_seq=2877 ttl=125 time=0.735 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2877 ttl=125 time=0.745 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2877 ttl=125 time=0.764 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2878 ttl=125 time=0.736 ms
+64 bytes from 172.19.2.250: icmp_seq=2878 ttl=125 time=0.804 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2878 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2878 ttl=125 time=0.858 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2879 ttl=125 time=0.744 ms
+64 bytes from 172.19.2.250: icmp_seq=2879 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2879 ttl=125 time=0.810 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2879 ttl=125 time=0.827 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2880 ttl=125 time=0.755 ms
+64 bytes from 172.19.2.250: icmp_seq=2880 ttl=125 time=0.803 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2880 ttl=125 time=0.823 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2880 ttl=125 time=0.919 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2881 ttl=125 time=0.741 ms
+64 bytes from 172.19.2.250: icmp_seq=2881 ttl=125 time=0.790 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2881 ttl=125 time=0.807 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2881 ttl=125 time=0.826 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2882 ttl=125 time=0.791 ms
+64 bytes from 172.19.2.250: icmp_seq=2882 ttl=125 time=0.857 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2882 ttl=125 time=0.875 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2882 ttl=125 time=0.938 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2883 ttl=125 time=0.750 ms
+64 bytes from 172.19.2.250: icmp_seq=2883 ttl=125 time=0.799 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2883 ttl=125 time=0.817 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2883 ttl=125 time=0.837 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2884 ttl=125 time=0.724 ms
+64 bytes from 172.19.2.250: icmp_seq=2884 ttl=125 time=0.767 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2884 ttl=125 time=0.787 ms (DUP!)
+64 bytes from 172.19.2.250: icmp_seq=2884 ttl=125 time=0.807 ms (DUP!)
