@@ -2303,3 +2303,28 @@ PING STOPPED google.com
 Tue Apr 30 14:10:41 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+↓
+Tue Apr 30 15:04:35 IST 2024
+============================
+
+PING google.com (142.250.77.206): 56 data bytes
+64 bytes from 142.250.77.206: icmp_seq=0 ttl=115 time=19.907 ms
+64 bytes from 142.250.77.206: icmp_seq=1 ttl=115 time=18.343 ms
+64 bytes from 142.250.77.206: icmp_seq=2 ttl=115 time=18.176 ms
+64 bytes from 142.250.77.206: icmp_seq=3 ttl=115 time=18.222 ms
+64 bytes from 142.250.77.206: icmp_seq=4 ttl=115 time=18.456 ms
+64 bytes from 142.250.77.206: icmp_seq=5 ttl=115 time=18.374 ms
+64 bytes from 142.250.77.206: icmp_seq=6 ttl=115 time=18.442 ms
+64 bytes from 142.250.77.206: icmp_seq=7 ttl=115 time=18.476 ms
+64 bytes from 142.250.77.206: icmp_seq=8 ttl=115 time=18.421 ms
+64 bytes from 142.250.77.206: icmp_seq=9 ttl=115 time=18.404 ms
+
+============================
+PING STOPPED google.com
+↓
+Tue Apr 30 15:04:45 IST 2024
+============================
+
