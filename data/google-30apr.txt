@@ -1858,3 +1858,80 @@ PING google.com (142.250.193.206): 56 data bytes
 64 bytes from 142.250.193.206: icmp_seq=100 ttl=115 time=17.999 ms
 64 bytes from 142.250.193.206: icmp_seq=101 ttl=115 time=18.107 ms
 64 bytes from 142.250.193.206: icmp_seq=102 ttl=115 time=17.972 ms
+64 bytes from 142.250.193.206: icmp_seq=103 ttl=115 time=17.883 ms
+64 bytes from 142.250.193.206: icmp_seq=104 ttl=115 time=18.011 ms
+64 bytes from 142.250.193.206: icmp_seq=105 ttl=115 time=17.989 ms
+64 bytes from 142.250.193.206: icmp_seq=106 ttl=115 time=18.503 ms
+64 bytes from 142.250.193.206: icmp_seq=107 ttl=115 time=18.135 ms
+64 bytes from 142.250.193.206: icmp_seq=108 ttl=115 time=17.922 ms
+64 bytes from 142.250.193.206: icmp_seq=109 ttl=115 time=18.082 ms
+64 bytes from 142.250.193.206: icmp_seq=110 ttl=115 time=17.940 ms
+64 bytes from 142.250.193.206: icmp_seq=111 ttl=115 time=18.607 ms
+64 bytes from 142.250.193.206: icmp_seq=112 ttl=115 time=17.895 ms
+64 bytes from 142.250.193.206: icmp_seq=113 ttl=115 time=17.921 ms
+64 bytes from 142.250.193.206: icmp_seq=114 ttl=115 time=18.024 ms
+64 bytes from 142.250.193.206: icmp_seq=115 ttl=115 time=17.874 ms
+64 bytes from 142.250.193.206: icmp_seq=116 ttl=115 time=18.103 ms
+64 bytes from 142.250.193.206: icmp_seq=117 ttl=115 time=17.972 ms
+64 bytes from 142.250.193.206: icmp_seq=118 ttl=115 time=17.862 ms
+64 bytes from 142.250.193.206: icmp_seq=119 ttl=115 time=18.113 ms
+
+============================
+PING STOPPED google.com
+↓
+Tue Apr 30 12:51:47 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Tue Apr 30 12:52:02 IST 2024
+============================
+
+PING google.com (142.250.207.206): 56 data bytes
+64 bytes from 142.250.207.206: icmp_seq=0 ttl=115 time=17.941 ms
+64 bytes from 142.250.207.206: icmp_seq=1 ttl=115 time=18.061 ms
+64 bytes from 142.250.207.206: icmp_seq=2 ttl=115 time=18.178 ms
+64 bytes from 142.250.207.206: icmp_seq=3 ttl=115 time=18.066 ms
+64 bytes from 142.250.207.206: icmp_seq=4 ttl=115 time=18.141 ms
+64 bytes from 142.250.207.206: icmp_seq=5 ttl=115 time=18.158 ms
+64 bytes from 142.250.207.206: icmp_seq=6 ttl=115 time=18.248 ms
+64 bytes from 142.250.207.206: icmp_seq=7 ttl=115 time=18.220 ms
+64 bytes from 142.250.207.206: icmp_seq=8 ttl=115 time=18.037 ms
+64 bytes from 142.250.207.206: icmp_seq=9 ttl=115 time=18.101 ms
+64 bytes from 142.250.207.206: icmp_seq=10 ttl=115 time=18.892 ms
+64 bytes from 142.250.207.206: icmp_seq=11 ttl=115 time=18.048 ms
+64 bytes from 142.250.207.206: icmp_seq=12 ttl=115 time=18.089 ms
+64 bytes from 142.250.207.206: icmp_seq=13 ttl=115 time=17.929 ms
+
+============================
+PING STOPPED google.com
+↓
+Tue Apr 30 12:52:15 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Tue Apr 30 12:52:59 IST 2024
+============================
+
+PING google.com (142.250.207.206): 56 data bytes
+64 bytes from 142.250.207.206: icmp_seq=0 ttl=115 time=18.199 ms
+64 bytes from 142.250.207.206: icmp_seq=1 ttl=115 time=18.473 ms
+64 bytes from 142.250.207.206: icmp_seq=2 ttl=115 time=18.044 ms
+64 bytes from 142.250.207.206: icmp_seq=3 ttl=115 time=18.013 ms
+64 bytes from 142.250.207.206: icmp_seq=4 ttl=115 time=18.333 ms
+64 bytes from 142.250.207.206: icmp_seq=5 ttl=115 time=18.175 ms
+64 bytes from 142.250.207.206: icmp_seq=6 ttl=115 time=18.140 ms
+64 bytes from 142.250.207.206: icmp_seq=7 ttl=115 time=18.133 ms
+64 bytes from 142.250.207.206: icmp_seq=8 ttl=115 time=18.014 ms
+
+============================
+PING STOPPED google.com
+↓
+Tue Apr 30 12:53:08 IST 2024
+============================
+

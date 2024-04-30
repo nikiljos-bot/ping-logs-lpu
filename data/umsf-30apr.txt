@@ -84,3 +84,80 @@ Request timeout for icmp_seq 63
 64 bytes from 172.19.2.250: icmp_seq=75 ttl=125 time=0.560 ms
 64 bytes from 172.19.2.250: icmp_seq=76 ttl=125 time=0.685 ms
 64 bytes from 172.19.2.250: icmp_seq=77 ttl=125 time=0.776 ms
+64 bytes from 172.19.2.250: icmp_seq=78 ttl=125 time=0.583 ms
+64 bytes from 172.19.2.250: icmp_seq=79 ttl=125 time=0.523 ms
+64 bytes from 172.19.2.250: icmp_seq=80 ttl=125 time=0.709 ms
+64 bytes from 172.19.2.250: icmp_seq=81 ttl=125 time=0.606 ms
+64 bytes from 172.19.2.250: icmp_seq=82 ttl=125 time=0.682 ms
+64 bytes from 172.19.2.250: icmp_seq=83 ttl=125 time=0.751 ms
+64 bytes from 172.19.2.250: icmp_seq=84 ttl=125 time=0.705 ms
+64 bytes from 172.19.2.250: icmp_seq=85 ttl=125 time=0.467 ms
+64 bytes from 172.19.2.250: icmp_seq=86 ttl=125 time=0.653 ms
+64 bytes from 172.19.2.250: icmp_seq=87 ttl=125 time=0.571 ms
+64 bytes from 172.19.2.250: icmp_seq=88 ttl=125 time=0.571 ms
+64 bytes from 172.19.2.250: icmp_seq=89 ttl=125 time=0.699 ms
+64 bytes from 172.19.2.250: icmp_seq=90 ttl=125 time=0.540 ms
+64 bytes from 172.19.2.250: icmp_seq=91 ttl=125 time=0.725 ms
+64 bytes from 172.19.2.250: icmp_seq=92 ttl=125 time=0.680 ms
+64 bytes from 172.19.2.250: icmp_seq=93 ttl=125 time=0.575 ms
+64 bytes from 172.19.2.250: icmp_seq=94 ttl=125 time=0.686 ms
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Tue Apr 30 12:51:47 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+↓
+Tue Apr 30 12:52:02 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+64 bytes from 172.19.2.250: icmp_seq=0 ttl=125 time=0.456 ms
+64 bytes from 172.19.2.250: icmp_seq=1 ttl=125 time=0.725 ms
+64 bytes from 172.19.2.250: icmp_seq=2 ttl=125 time=0.754 ms
+64 bytes from 172.19.2.250: icmp_seq=3 ttl=125 time=0.722 ms
+64 bytes from 172.19.2.250: icmp_seq=4 ttl=125 time=0.602 ms
+64 bytes from 172.19.2.250: icmp_seq=5 ttl=125 time=0.640 ms
+64 bytes from 172.19.2.250: icmp_seq=6 ttl=125 time=0.780 ms
+64 bytes from 172.19.2.250: icmp_seq=7 ttl=125 time=0.787 ms
+64 bytes from 172.19.2.250: icmp_seq=8 ttl=125 time=0.703 ms
+64 bytes from 172.19.2.250: icmp_seq=9 ttl=125 time=0.827 ms
+64 bytes from 172.19.2.250: icmp_seq=10 ttl=125 time=0.720 ms
+64 bytes from 172.19.2.250: icmp_seq=11 ttl=125 time=0.751 ms
+64 bytes from 172.19.2.250: icmp_seq=12 ttl=125 time=0.546 ms
+64 bytes from 172.19.2.250: icmp_seq=13 ttl=125 time=0.678 ms
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Tue Apr 30 12:52:15 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+↓
+Tue Apr 30 12:52:59 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+64 bytes from 172.19.2.250: icmp_seq=0 ttl=125 time=0.456 ms
+64 bytes from 172.19.2.250: icmp_seq=1 ttl=125 time=0.545 ms
+64 bytes from 172.19.2.250: icmp_seq=2 ttl=125 time=0.661 ms
+64 bytes from 172.19.2.250: icmp_seq=3 ttl=125 time=0.557 ms
+64 bytes from 172.19.2.250: icmp_seq=4 ttl=125 time=0.567 ms
+64 bytes from 172.19.2.250: icmp_seq=5 ttl=125 time=0.725 ms
+64 bytes from 172.19.2.250: icmp_seq=6 ttl=125 time=0.892 ms
+64 bytes from 172.19.2.250: icmp_seq=7 ttl=125 time=0.824 ms
+64 bytes from 172.19.2.250: icmp_seq=8 ttl=125 time=0.791 ms
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Tue Apr 30 12:53:08 IST 2024
+============================
+
