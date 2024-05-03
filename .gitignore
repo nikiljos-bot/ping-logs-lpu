@@ -1,2 +1,3 @@
 ums-*
 test-*
+!**/breaks/ums-*
