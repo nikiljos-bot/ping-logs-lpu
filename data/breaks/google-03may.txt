@@ -121,3 +121,10 @@ Request timeout for icmp_seq 1965
 Request timeout for icmp_seq 1966
 Request timeout for icmp_seq 1967
 Request timeout for icmp_seq 1968
+
+============================
+PING STOPPED google.com
+Room-26-402
+Fri May  3 15:55:49 IST 2024
+============================
+

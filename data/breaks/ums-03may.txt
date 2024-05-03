@@ -137,3 +137,10 @@ Request timeout for icmp_seq 2168
 Request timeout for icmp_seq 2169
 Request timeout for icmp_seq 2170
 Request timeout for icmp_seq 2171
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Fri May  3 15:55:49 IST 2024
+============================
+
