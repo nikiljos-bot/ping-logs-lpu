@@ -3320,3 +3320,34 @@ Request timeout for icmp_seq 1960
 Request timeout for icmp_seq 1961
 Request timeout for icmp_seq 1962
 Request timeout for icmp_seq 1963
+Request timeout for icmp_seq 1964
+Request timeout for icmp_seq 1965
+Request timeout for icmp_seq 1966
+Request timeout for icmp_seq 1967
+Request timeout for icmp_seq 1968
+64 bytes from 142.250.193.206: icmp_seq=1958 ttl=115 time=11893.777 ms
+64 bytes from 142.250.193.206: icmp_seq=1959 ttl=115 time=10889.795 ms
+64 bytes from 142.250.193.206: icmp_seq=1970 ttl=115 time=12.785 ms
+64 bytes from 142.250.193.206: icmp_seq=1971 ttl=115 time=11.322 ms
+64 bytes from 142.250.193.206: icmp_seq=1972 ttl=115 time=12.014 ms
+64 bytes from 142.250.193.206: icmp_seq=1973 ttl=115 time=11.307 ms
+64 bytes from 142.250.193.206: icmp_seq=1974 ttl=115 time=11.550 ms
+64 bytes from 142.250.193.206: icmp_seq=1975 ttl=115 time=11.292 ms
+64 bytes from 142.250.193.206: icmp_seq=1976 ttl=115 time=11.030 ms
+64 bytes from 142.250.193.206: icmp_seq=1977 ttl=115 time=12.944 ms
+64 bytes from 142.250.193.206: icmp_seq=1978 ttl=115 time=11.380 ms
+64 bytes from 142.250.193.206: icmp_seq=1979 ttl=115 time=11.301 ms
+64 bytes from 142.250.193.206: icmp_seq=1980 ttl=115 time=11.544 ms
+64 bytes from 142.250.193.206: icmp_seq=1981 ttl=115 time=11.041 ms
+64 bytes from 142.250.193.206: icmp_seq=1982 ttl=115 time=39.781 ms
+64 bytes from 142.250.193.206: icmp_seq=1983 ttl=115 time=11.394 ms
+64 bytes from 142.250.193.206: icmp_seq=1984 ttl=115 time=12.391 ms
+64 bytes from 142.250.193.206: icmp_seq=1985 ttl=115 time=12.242 ms
+64 bytes from 142.250.193.206: icmp_seq=1986 ttl=115 time=11.225 ms
+64 bytes from 142.250.193.206: icmp_seq=1987 ttl=115 time=12.821 ms
+64 bytes from 142.250.193.206: icmp_seq=1988 ttl=115 time=12.390 ms
+64 bytes from 142.250.193.206: icmp_seq=1989 ttl=115 time=12.964 ms
+64 bytes from 142.250.193.206: icmp_seq=1990 ttl=115 time=11.256 ms
+64 bytes from 142.250.193.206: icmp_seq=1991 ttl=115 time=11.270 ms
+64 bytes from 142.250.193.206: icmp_seq=1992 ttl=115 time=12.542 ms
+64 bytes from 142.250.193.206: icmp_seq=1993 ttl=115 time=11.390 ms
