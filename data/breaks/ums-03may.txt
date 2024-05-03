@@ -222,3 +222,12 @@ Fri May  3 16:45:47 IST 2024
 ============================
 
 PING ums.lpu.in (172.19.2.250): 56 data bytes
+Request timeout for icmp_seq 462
+Request timeout for icmp_seq 463
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Fri May  3 16:55:18 IST 2024
+============================
+
