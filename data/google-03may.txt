@@ -7066,3 +7066,56 @@ Room-26-402
 Fri May  3 16:55:18 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+Room-26-402
+Fri May  3 17:55:23 IST 2024
+============================
+
+PING google.com (142.250.194.238): 56 data bytes
+64 bytes from 142.250.194.238: icmp_seq=0 ttl=115 time=11.270 ms
+64 bytes from 142.250.194.238: icmp_seq=1 ttl=115 time=11.245 ms
+64 bytes from 142.250.194.238: icmp_seq=2 ttl=115 time=11.481 ms
+64 bytes from 142.250.194.238: icmp_seq=3 ttl=115 time=11.178 ms
+64 bytes from 142.250.194.238: icmp_seq=4 ttl=115 time=11.218 ms
+64 bytes from 142.250.194.238: icmp_seq=5 ttl=115 time=11.847 ms
+64 bytes from 142.250.194.238: icmp_seq=6 ttl=115 time=11.814 ms
+64 bytes from 142.250.194.238: icmp_seq=7 ttl=115 time=11.445 ms
+64 bytes from 142.250.194.238: icmp_seq=8 ttl=115 time=11.230 ms
+64 bytes from 142.250.194.238: icmp_seq=9 ttl=115 time=11.288 ms
+64 bytes from 142.250.194.238: icmp_seq=10 ttl=115 time=11.423 ms
+64 bytes from 142.250.194.238: icmp_seq=11 ttl=115 time=11.278 ms
+64 bytes from 142.250.194.238: icmp_seq=12 ttl=115 time=11.359 ms
+64 bytes from 142.250.194.238: icmp_seq=13 ttl=115 time=11.488 ms
+64 bytes from 142.250.194.238: icmp_seq=14 ttl=115 time=11.404 ms
+64 bytes from 142.250.194.238: icmp_seq=15 ttl=115 time=11.202 ms
+64 bytes from 142.250.194.238: icmp_seq=16 ttl=115 time=11.256 ms
+64 bytes from 142.250.194.238: icmp_seq=17 ttl=115 time=11.345 ms
+64 bytes from 142.250.194.238: icmp_seq=18 ttl=115 time=11.545 ms
+64 bytes from 142.250.194.238: icmp_seq=19 ttl=115 time=11.510 ms
+64 bytes from 142.250.194.238: icmp_seq=20 ttl=115 time=11.455 ms
+64 bytes from 142.250.194.238: icmp_seq=21 ttl=115 time=11.607 ms
+64 bytes from 142.250.194.238: icmp_seq=22 ttl=115 time=11.575 ms
+64 bytes from 142.250.194.238: icmp_seq=23 ttl=115 time=11.422 ms
+64 bytes from 142.250.194.238: icmp_seq=24 ttl=115 time=11.580 ms
+64 bytes from 142.250.194.238: icmp_seq=25 ttl=115 time=11.282 ms
+64 bytes from 142.250.194.238: icmp_seq=26 ttl=115 time=11.425 ms
+64 bytes from 142.250.194.238: icmp_seq=27 ttl=115 time=11.457 ms
+64 bytes from 142.250.194.238: icmp_seq=28 ttl=115 time=11.214 ms
+64 bytes from 142.250.194.238: icmp_seq=29 ttl=115 time=11.155 ms
+64 bytes from 142.250.194.238: icmp_seq=30 ttl=115 time=11.191 ms
+64 bytes from 142.250.194.238: icmp_seq=31 ttl=115 time=11.443 ms
+64 bytes from 142.250.194.238: icmp_seq=32 ttl=115 time=11.371 ms
+64 bytes from 142.250.194.238: icmp_seq=33 ttl=115 time=11.250 ms
+64 bytes from 142.250.194.238: icmp_seq=34 ttl=115 time=11.343 ms
+64 bytes from 142.250.194.238: icmp_seq=35 ttl=115 time=11.462 ms
+64 bytes from 142.250.194.238: icmp_seq=36 ttl=115 time=11.658 ms
+64 bytes from 142.250.194.238: icmp_seq=37 ttl=115 time=11.298 ms
+
+============================
+PING STOPPED google.com
+Room-26-402
+Fri May  3 17:56:01 IST 2024
+============================
+

@@ -1,0 +1,32 @@
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Sat May  4 10:05:47 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+Request timeout for icmp_seq 419
+Request timeout for icmp_seq 420
+Request timeout for icmp_seq 994
+Request timeout for icmp_seq 995
+Request timeout for icmp_seq 996
+Request timeout for icmp_seq 997
+Request timeout for icmp_seq 1117
+Request timeout for icmp_seq 1477
+Request timeout for icmp_seq 1478
+Request timeout for icmp_seq 1479
+Request timeout for icmp_seq 1480
+Request timeout for icmp_seq 1481
+Request timeout for icmp_seq 1482
+Request timeout for icmp_seq 1483
+Request timeout for icmp_seq 1484
+Request timeout for icmp_seq 1485
+Request timeout for icmp_seq 1486
+Request timeout for icmp_seq 1487
+Request timeout for icmp_seq 1488
+Request timeout for icmp_seq 2121
+Request timeout for icmp_seq 2122
+Request timeout for icmp_seq 2123
+Request timeout for icmp_seq 2124
+Request timeout for icmp_seq 2125
