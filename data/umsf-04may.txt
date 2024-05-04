@@ -2672,3 +2672,18 @@ Request timeout for icmp_seq 2125
 64 bytes from 172.19.2.250: icmp_seq=2661 ttl=125 time=0.436 ms
 64 bytes from 172.19.2.250: icmp_seq=2662 ttl=125 time=0.507 ms
 64 bytes from 172.19.2.250: icmp_seq=2663 ttl=125 time=0.458 ms
+64 bytes from 172.19.2.250: icmp_seq=2664 ttl=125 time=0.507 ms
+64 bytes from 172.19.2.250: icmp_seq=2665 ttl=125 time=0.512 ms
+64 bytes from 172.19.2.250: icmp_seq=2666 ttl=125 time=0.455 ms
+64 bytes from 172.19.2.250: icmp_seq=2667 ttl=125 time=0.581 ms
+64 bytes from 172.19.2.250: icmp_seq=2668 ttl=125 time=0.529 ms
+64 bytes from 172.19.2.250: icmp_seq=2669 ttl=125 time=0.464 ms
+64 bytes from 172.19.2.250: icmp_seq=2670 ttl=125 time=0.433 ms
+64 bytes from 172.19.2.250: icmp_seq=2671 ttl=125 time=0.547 ms
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Sat May  4 10:50:30 IST 2024
+============================
+

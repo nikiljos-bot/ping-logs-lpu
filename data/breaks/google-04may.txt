@@ -31,3 +31,10 @@ Request timeout for icmp_seq 2122
 Request timeout for icmp_seq 2123
 Request timeout for icmp_seq 2124
 Request timeout for icmp_seq 2125
+
+============================
+PING STOPPED google.com
+Room-26-402
+Sat May  4 10:50:30 IST 2024
+============================
+

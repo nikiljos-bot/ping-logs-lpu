@@ -2672,3 +2672,18 @@ Request timeout for icmp_seq 2125
 64 bytes from 142.250.194.206: icmp_seq=2661 ttl=115 time=11.237 ms
 64 bytes from 142.250.194.206: icmp_seq=2662 ttl=115 time=11.255 ms
 64 bytes from 142.250.194.206: icmp_seq=2663 ttl=115 time=11.319 ms
+64 bytes from 142.250.194.206: icmp_seq=2664 ttl=115 time=11.276 ms
+64 bytes from 142.250.194.206: icmp_seq=2665 ttl=115 time=11.323 ms
+64 bytes from 142.250.194.206: icmp_seq=2666 ttl=115 time=11.337 ms
+64 bytes from 142.250.194.206: icmp_seq=2667 ttl=115 time=11.237 ms
+64 bytes from 142.250.194.206: icmp_seq=2668 ttl=115 time=11.165 ms
+64 bytes from 142.250.194.206: icmp_seq=2669 ttl=115 time=11.355 ms
+64 bytes from 142.250.194.206: icmp_seq=2670 ttl=115 time=11.177 ms
+64 bytes from 142.250.194.206: icmp_seq=2671 ttl=115 time=11.415 ms
+
+============================
+PING STOPPED google.com
+Room-26-402
+Sat May  4 10:50:30 IST 2024
+============================
+
