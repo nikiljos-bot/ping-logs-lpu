@@ -45,3 +45,41 @@ Sat May  4 15:23:45 IST 2024
 ============================
 
 PING ums.lpu.in (172.19.2.250): 56 data bytes
+Request timeout for icmp_seq 113
+Request timeout for icmp_seq 114
+Request timeout for icmp_seq 115
+Request timeout for icmp_seq 116
+Request timeout for icmp_seq 117
+Request timeout for icmp_seq 118
+Request timeout for icmp_seq 119
+Request timeout for icmp_seq 120
+Request timeout for icmp_seq 121
+Request timeout for icmp_seq 122
+Request timeout for icmp_seq 123
+Request timeout for icmp_seq 124
+Request timeout for icmp_seq 125
+Request timeout for icmp_seq 126
+Request timeout for icmp_seq 213
+Request timeout for icmp_seq 214
+Request timeout for icmp_seq 244
+Request timeout for icmp_seq 245
+Request timeout for icmp_seq 246
+Request timeout for icmp_seq 247
+Request timeout for icmp_seq 248
+Request timeout for icmp_seq 249
+Request timeout for icmp_seq 250
+Request timeout for icmp_seq 251
+Request timeout for icmp_seq 252
+Request timeout for icmp_seq 253
+Request timeout for icmp_seq 254
+Request timeout for icmp_seq 255
+Request timeout for icmp_seq 472
+Request timeout for icmp_seq 473
+Request timeout for icmp_seq 474
+Request timeout for icmp_seq 475
+Request timeout for icmp_seq 476
+Request timeout for icmp_seq 477
+Request timeout for icmp_seq 478
+Request timeout for icmp_seq 479
+Request timeout for icmp_seq 480
+Request timeout for icmp_seq 481
