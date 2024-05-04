@@ -2687,3 +2687,15 @@ Room-26-402
 Sat May  4 10:50:30 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+Room-26-402
+Sat May  4 15:23:45 IST 2024
+============================
+
+PING google.com (142.250.192.46): 56 data bytes
+64 bytes from 142.250.192.46: icmp_seq=0 ttl=114 time=32.735 ms
+64 bytes from 142.250.192.46: icmp_seq=1 ttl=114 time=32.892 ms
+64 bytes from 142.250.192.46: icmp_seq=2 ttl=114 time=32.982 ms
+64 bytes from 142.250.192.46: icmp_seq=3 ttl=114 time=34.443 ms

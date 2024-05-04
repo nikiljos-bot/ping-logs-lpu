@@ -2687,3 +2687,15 @@ Room-26-402
 Sat May  4 10:50:30 IST 2024
 ============================
 
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Sat May  4 15:23:45 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+64 bytes from 172.19.2.250: icmp_seq=0 ttl=125 time=0.554 ms
+64 bytes from 172.19.2.250: icmp_seq=1 ttl=125 time=0.772 ms
+64 bytes from 172.19.2.250: icmp_seq=2 ttl=125 time=0.583 ms
+64 bytes from 172.19.2.250: icmp_seq=3 ttl=125 time=0.600 ms
