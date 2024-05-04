@@ -107,3 +107,55 @@ Request timeout for icmp_seq 740
 Request timeout for icmp_seq 741
 Request timeout for icmp_seq 742
 Request timeout for icmp_seq 743
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Sat May  4 15:47:08 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Sat May  4 15:47:09 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Sat May  4 15:47:14 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Sat May  4 15:47:52 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+Request timeout for icmp_seq 216
+Request timeout for icmp_seq 217
+Request timeout for icmp_seq 1690
+Request timeout for icmp_seq 1691
+Request timeout for icmp_seq 2946
+Request timeout for icmp_seq 2947
+Request timeout for icmp_seq 3444
+Request timeout for icmp_seq 3445
+Request timeout for icmp_seq 3446
+Request timeout for icmp_seq 3447
+Request timeout for icmp_seq 3448
+Request timeout for icmp_seq 3571
+Request timeout for icmp_seq 3572
+Request timeout for icmp_seq 3573
+Request timeout for icmp_seq 3574
+Request timeout for icmp_seq 3575
+Request timeout for icmp_seq 3576
+Request timeout for icmp_seq 3577
+Request timeout for icmp_seq 3578
+Request timeout for icmp_seq 3579
+Request timeout for icmp_seq 3580
+Request timeout for icmp_seq 3581
