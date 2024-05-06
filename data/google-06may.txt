@@ -1,0 +1,41 @@
+
+============================
+PING STARTED google.com
+↓
+Mon May  6 10:55:06 IST 2024
+============================
+
+PING google.com (216.58.200.206): 56 data bytes
+64 bytes from 216.58.200.206: icmp_seq=0 ttl=115 time=12.329 ms
+64 bytes from 216.58.200.206: icmp_seq=1 ttl=115 time=12.540 ms
+64 bytes from 216.58.200.206: icmp_seq=2 ttl=115 time=12.466 ms
+64 bytes from 216.58.200.206: icmp_seq=3 ttl=115 time=12.214 ms
+64 bytes from 216.58.200.206: icmp_seq=4 ttl=115 time=12.429 ms
+64 bytes from 216.58.200.206: icmp_seq=5 ttl=115 time=12.332 ms
+64 bytes from 216.58.200.206: icmp_seq=6 ttl=115 time=12.575 ms
+64 bytes from 216.58.200.206: icmp_seq=7 ttl=115 time=13.076 ms
+64 bytes from 216.58.200.206: icmp_seq=8 ttl=115 time=12.348 ms
+64 bytes from 216.58.200.206: icmp_seq=9 ttl=115 time=12.254 ms
+64 bytes from 216.58.200.206: icmp_seq=10 ttl=115 time=12.342 ms
+64 bytes from 216.58.200.206: icmp_seq=11 ttl=115 time=12.347 ms
+64 bytes from 216.58.200.206: icmp_seq=12 ttl=115 time=12.413 ms
+64 bytes from 216.58.200.206: icmp_seq=13 ttl=115 time=12.394 ms
+64 bytes from 216.58.200.206: icmp_seq=14 ttl=115 time=12.446 ms
+64 bytes from 216.58.200.206: icmp_seq=15 ttl=115 time=12.389 ms
+64 bytes from 216.58.200.206: icmp_seq=16 ttl=115 time=12.229 ms
+64 bytes from 216.58.200.206: icmp_seq=17 ttl=115 time=12.597 ms
+64 bytes from 216.58.200.206: icmp_seq=18 ttl=115 time=12.382 ms
+64 bytes from 216.58.200.206: icmp_seq=19 ttl=115 time=12.289 ms
+64 bytes from 216.58.200.206: icmp_seq=20 ttl=115 time=12.508 ms
+64 bytes from 216.58.200.206: icmp_seq=21 ttl=115 time=14.409 ms
+64 bytes from 216.58.200.206: icmp_seq=22 ttl=115 time=12.200 ms
+64 bytes from 216.58.200.206: icmp_seq=23 ttl=115 time=12.753 ms
+64 bytes from 216.58.200.206: icmp_seq=24 ttl=115 time=17.372 ms
+64 bytes from 216.58.200.206: icmp_seq=25 ttl=115 time=12.355 ms
+64 bytes from 216.58.200.206: icmp_seq=26 ttl=115 time=12.536 ms
+64 bytes from 216.58.200.206: icmp_seq=27 ttl=115 time=12.226 ms
+64 bytes from 216.58.200.206: icmp_seq=28 ttl=115 time=12.203 ms
+64 bytes from 216.58.200.206: icmp_seq=29 ttl=115 time=12.274 ms
+64 bytes from 216.58.200.206: icmp_seq=30 ttl=115 time=13.365 ms
+64 bytes from 216.58.200.206: icmp_seq=31 ttl=115 time=12.274 ms
+64 bytes from 216.58.200.206: icmp_seq=32 ttl=115 time=12.375 ms

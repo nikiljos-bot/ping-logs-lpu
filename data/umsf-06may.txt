@@ -1,0 +1,41 @@
+
+============================
+PING STARTED ums.lpu.in
+↓
+Mon May  6 10:55:06 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+64 bytes from 172.19.2.250: icmp_seq=0 ttl=125 time=0.424 ms
+64 bytes from 172.19.2.250: icmp_seq=1 ttl=125 time=0.743 ms
+64 bytes from 172.19.2.250: icmp_seq=2 ttl=125 time=0.762 ms
+64 bytes from 172.19.2.250: icmp_seq=3 ttl=125 time=0.563 ms
+64 bytes from 172.19.2.250: icmp_seq=4 ttl=125 time=0.753 ms
+64 bytes from 172.19.2.250: icmp_seq=5 ttl=125 time=0.503 ms
+64 bytes from 172.19.2.250: icmp_seq=6 ttl=125 time=0.771 ms
+64 bytes from 172.19.2.250: icmp_seq=7 ttl=125 time=0.767 ms
+64 bytes from 172.19.2.250: icmp_seq=8 ttl=125 time=0.598 ms
+64 bytes from 172.19.2.250: icmp_seq=9 ttl=125 time=0.552 ms
+64 bytes from 172.19.2.250: icmp_seq=10 ttl=125 time=0.546 ms
+64 bytes from 172.19.2.250: icmp_seq=11 ttl=125 time=0.579 ms
+64 bytes from 172.19.2.250: icmp_seq=12 ttl=125 time=0.631 ms
+64 bytes from 172.19.2.250: icmp_seq=13 ttl=125 time=0.623 ms
+64 bytes from 172.19.2.250: icmp_seq=14 ttl=125 time=0.639 ms
+64 bytes from 172.19.2.250: icmp_seq=15 ttl=125 time=0.585 ms
+64 bytes from 172.19.2.250: icmp_seq=16 ttl=125 time=0.557 ms
+64 bytes from 172.19.2.250: icmp_seq=17 ttl=125 time=0.607 ms
+64 bytes from 172.19.2.250: icmp_seq=18 ttl=125 time=0.660 ms
+64 bytes from 172.19.2.250: icmp_seq=19 ttl=125 time=0.487 ms
+64 bytes from 172.19.2.250: icmp_seq=20 ttl=125 time=0.544 ms
+64 bytes from 172.19.2.250: icmp_seq=21 ttl=125 time=0.713 ms
+64 bytes from 172.19.2.250: icmp_seq=22 ttl=125 time=0.603 ms
+64 bytes from 172.19.2.250: icmp_seq=23 ttl=125 time=0.607 ms
+64 bytes from 172.19.2.250: icmp_seq=24 ttl=125 time=0.571 ms
+64 bytes from 172.19.2.250: icmp_seq=25 ttl=125 time=0.567 ms
+64 bytes from 172.19.2.250: icmp_seq=26 ttl=125 time=0.446 ms
+64 bytes from 172.19.2.250: icmp_seq=27 ttl=125 time=0.559 ms
+64 bytes from 172.19.2.250: icmp_seq=28 ttl=125 time=0.552 ms
+64 bytes from 172.19.2.250: icmp_seq=29 ttl=125 time=0.586 ms
+64 bytes from 172.19.2.250: icmp_seq=30 ttl=125 time=0.594 ms
+64 bytes from 172.19.2.250: icmp_seq=31 ttl=125 time=0.506 ms
+64 bytes from 172.19.2.250: icmp_seq=32 ttl=125 time=0.601 ms
