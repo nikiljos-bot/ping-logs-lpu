@@ -8788,3 +8788,21 @@ PING STOPPED google.com
 Mon May  6 13:22:03 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+↓
+Mon May  6 14:13:11 IST 2024
+============================
+
+PING google.com (142.251.42.110): 56 data bytes
+64 bytes from 142.251.42.110: icmp_seq=0 ttl=114 time=39.903 ms
+64 bytes from 142.251.42.110: icmp_seq=1 ttl=114 time=39.031 ms
+64 bytes from 142.251.42.110: icmp_seq=2 ttl=114 time=39.974 ms
+64 bytes from 142.251.42.110: icmp_seq=3 ttl=114 time=38.187 ms
+64 bytes from 142.251.42.110: icmp_seq=4 ttl=114 time=39.020 ms
+64 bytes from 142.251.42.110: icmp_seq=5 ttl=114 time=39.938 ms
+64 bytes from 142.251.42.110: icmp_seq=6 ttl=114 time=39.744 ms
+64 bytes from 142.251.42.110: icmp_seq=7 ttl=114 time=38.201 ms
+64 bytes from 142.251.42.110: icmp_seq=8 ttl=114 time=38.304 ms
+64 bytes from 142.251.42.110: icmp_seq=9 ttl=114 time=38.475 ms

@@ -8789,3 +8789,21 @@ PING STOPPED ums.lpu.in
 Mon May  6 13:22:03 IST 2024
 ============================
 
+
+============================
+PING STARTED ums.lpu.in
+↓
+Mon May  6 14:13:11 IST 2024
+============================
+
+PING ums.lpu.in (172.19.2.250): 56 data bytes
+64 bytes from 172.19.2.250: icmp_seq=0 ttl=125 time=0.526 ms
+64 bytes from 172.19.2.250: icmp_seq=1 ttl=125 time=0.707 ms
+64 bytes from 172.19.2.250: icmp_seq=2 ttl=125 time=0.541 ms
+64 bytes from 172.19.2.250: icmp_seq=3 ttl=125 time=0.557 ms
+64 bytes from 172.19.2.250: icmp_seq=4 ttl=125 time=0.649 ms
+64 bytes from 172.19.2.250: icmp_seq=5 ttl=125 time=0.663 ms
+64 bytes from 172.19.2.250: icmp_seq=6 ttl=125 time=0.497 ms
+64 bytes from 172.19.2.250: icmp_seq=7 ttl=125 time=0.506 ms
+64 bytes from 172.19.2.250: icmp_seq=8 ttl=125 time=0.528 ms
+64 bytes from 172.19.2.250: icmp_seq=9 ttl=125 time=0.842 ms

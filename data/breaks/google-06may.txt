@@ -446,3 +446,11 @@ PING STOPPED google.com
 Mon May  6 13:22:03 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+↓
+Mon May  6 14:13:11 IST 2024
+============================
+
+PING google.com (142.251.42.110): 56 data bytes
