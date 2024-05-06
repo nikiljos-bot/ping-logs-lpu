@@ -455,3 +455,7 @@ Mon May  6 14:28:40 IST 2024
 ============================
 
 2024-05-06 14:28:40 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+2024-05-06 14:34:40 | Request timeout for icmp_seq 358
+2024-05-06 14:34:41 | Request timeout for icmp_seq 359
+2024-05-06 14:34:42 | Request timeout for icmp_seq 360
+2024-05-06 14:34:43 | Request timeout for icmp_seq 361
