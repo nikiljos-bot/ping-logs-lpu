@@ -15186,3 +15186,18 @@ Mon May  6 15:36:26 IST 2024
 2024-05-06 16:33:17 | 64 bytes from 172.19.2.250: icmp_seq=3399 ttl=125 time=0.663 ms
 2024-05-06 16:33:18 | 64 bytes from 172.19.2.250: icmp_seq=3400 ttl=125 time=0.501 ms
 2024-05-06 16:33:19 | 64 bytes from 172.19.2.250: icmp_seq=3401 ttl=125 time=0.853 ms
+2024-05-06 16:33:20 | 64 bytes from 172.19.2.250: icmp_seq=3402 ttl=125 time=0.666 ms
+2024-05-06 16:33:21 | 64 bytes from 172.19.2.250: icmp_seq=3403 ttl=125 time=0.656 ms
+2024-05-06 16:33:22 | 64 bytes from 172.19.2.250: icmp_seq=3404 ttl=125 time=0.677 ms
+2024-05-06 16:33:23 | 64 bytes from 172.19.2.250: icmp_seq=3405 ttl=125 time=0.685 ms
+2024-05-06 16:33:24 | 64 bytes from 172.19.2.250: icmp_seq=3406 ttl=125 time=0.654 ms
+2024-05-06 16:33:25 | 64 bytes from 172.19.2.250: icmp_seq=3407 ttl=125 time=0.569 ms
+2024-05-06 16:33:26 | 64 bytes from 172.19.2.250: icmp_seq=3408 ttl=125 time=0.811 ms
+2024-05-06 16:33:27 | 64 bytes from 172.19.2.250: icmp_seq=3409 ttl=125 time=0.625 ms
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Mon May  6 16:33:27 IST 2024
+============================
+
