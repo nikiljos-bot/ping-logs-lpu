@@ -512,3 +512,21 @@ PING STOPPED google.com
 Mon May  6 16:33:27 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+↓
+Mon May  6 17:40:52 IST 2024
+============================
+
+2024-05-06 17:40:52 | PING google.com (142.250.77.206): 56 data bytes
+2024-05-06 17:43:08 | Request timeout for icmp_seq 134
+2024-05-06 17:59:17 | Request timeout for icmp_seq 1100
+2024-05-06 18:03:12 | Request timeout for icmp_seq 1334
+
+============================
+PING STOPPED google.com
+↓
+Mon May  6 18:08:09 IST 2024
+============================
+
