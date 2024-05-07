@@ -167,3 +167,12 @@ Tue May  7 14:29:09 IST 2024
 ============================
 
 2024-05-07 14:29:09 | PING google.com (142.250.194.142): 56 data bytes
+2024-05-07 14:29:27 | Request timeout for icmp_seq 17
+2024-05-07 14:29:28 | Request timeout for icmp_seq 18
+2024-05-07 14:29:29 | Request timeout for icmp_seq 19
+2024-05-07 14:29:30 | Request timeout for icmp_seq 20
+2024-05-07 14:29:31 | Request timeout for icmp_seq 21
+2024-05-07 14:29:32 | Request timeout for icmp_seq 22
+2024-05-07 14:29:33 | Request timeout for icmp_seq 23
+2024-05-07 14:29:34 | Request timeout for icmp_seq 24
+2024-05-07 14:29:35 | Request timeout for icmp_seq 25
