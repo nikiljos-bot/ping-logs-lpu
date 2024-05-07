@@ -393,3 +393,12 @@ PING STOPPED google.com
 Tue May  7 16:33:16 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+Room-26-402
+Tue May  7 17:35:48 IST 2024
+============================
+
+2024-05-07 17:35:48 | PING google.com (216.58.200.206): 56 data bytes
+2024-05-07 17:44:26 | Request timeout for icmp_seq 515

@@ -355,3 +355,11 @@ PING STOPPED ums.lpu.in
 Tue May  7 16:33:16 IST 2024
 ============================
 
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Tue May  7 17:35:48 IST 2024
+============================
+
+2024-05-07 17:35:48 | PING ums.lpu.in (172.19.2.250): 56 data bytes
