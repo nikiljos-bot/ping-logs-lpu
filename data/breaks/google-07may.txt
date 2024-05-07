@@ -128,3 +128,42 @@ Tue May  7 13:17:43 IST 2024
 2024-05-07 14:17:40 | Request timeout for icmp_seq 3585
 2024-05-07 14:17:41 | Request timeout for icmp_seq 3586
 2024-05-07 14:17:42 | Request timeout for icmp_seq 3587
+2024-05-07 14:19:54 | Request timeout for icmp_seq 3718
+2024-05-07 14:19:55 | Request timeout for icmp_seq 3719
+2024-05-07 14:19:56 | Request timeout for icmp_seq 3720
+2024-05-07 14:19:57 | Request timeout for icmp_seq 3721
+2024-05-07 14:19:58 | Request timeout for icmp_seq 3722
+2024-05-07 14:19:59 | Request timeout for icmp_seq 3723
+2024-05-07 14:20:00 | Request timeout for icmp_seq 3724
+2024-05-07 14:20:01 | Request timeout for icmp_seq 3725
+2024-05-07 14:20:02 | Request timeout for icmp_seq 3726
+2024-05-07 14:20:03 | Request timeout for icmp_seq 3727
+2024-05-07 14:20:04 | Request timeout for icmp_seq 3728
+2024-05-07 14:21:29 | Request timeout for icmp_seq 3811
+2024-05-07 14:21:30 | Request timeout for icmp_seq 3812
+2024-05-07 14:21:31 | Request timeout for icmp_seq 3813
+2024-05-07 14:21:32 | Request timeout for icmp_seq 3814
+2024-05-07 14:21:33 | Request timeout for icmp_seq 3815
+2024-05-07 14:21:34 | Request timeout for icmp_seq 3816
+2024-05-07 14:21:35 | Request timeout for icmp_seq 3817
+2024-05-07 14:21:36 | Request timeout for icmp_seq 3818
+2024-05-07 14:21:37 | Request timeout for icmp_seq 3819
+2024-05-07 14:21:38 | Request timeout for icmp_seq 3820
+2024-05-07 14:21:39 | Request timeout for icmp_seq 3821
+2024-05-07 14:21:40 | Request timeout for icmp_seq 3822
+2024-05-07 14:21:55 | Request timeout for icmp_seq 3837
+
+============================
+PING STOPPED google.com
+↓
+Tue May  7 14:27:27 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Tue May  7 14:29:09 IST 2024
+============================
+
+2024-05-07 14:29:09 | PING google.com (142.250.194.142): 56 data bytes
