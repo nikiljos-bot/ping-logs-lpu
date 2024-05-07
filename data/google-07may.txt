@@ -1,0 +1,31 @@
+
+============================
+PING STARTED google.com
+↓
+Tue May  7 13:17:43 IST 2024
+============================
+
+2024-05-07 13:17:43 | PING google.com (142.250.194.238): 56 data bytes
+2024-05-07 13:17:43 | 64 bytes from 142.250.194.238: icmp_seq=0 ttl=115 time=16.096 ms
+2024-05-07 13:17:44 | 64 bytes from 142.250.194.238: icmp_seq=1 ttl=115 time=14.791 ms
+2024-05-07 13:17:45 | 64 bytes from 142.250.194.238: icmp_seq=2 ttl=115 time=14.482 ms
+2024-05-07 13:17:46 | 64 bytes from 142.250.194.238: icmp_seq=3 ttl=115 time=14.714 ms
+2024-05-07 13:17:47 | 64 bytes from 142.250.194.238: icmp_seq=4 ttl=115 time=14.295 ms
+2024-05-07 13:17:48 | 64 bytes from 142.250.194.238: icmp_seq=5 ttl=115 time=14.732 ms
+2024-05-07 13:17:49 | 64 bytes from 142.250.194.238: icmp_seq=6 ttl=115 time=14.636 ms
+2024-05-07 13:17:50 | 64 bytes from 142.250.194.238: icmp_seq=7 ttl=115 time=14.547 ms
+2024-05-07 13:17:51 | 64 bytes from 142.250.194.238: icmp_seq=8 ttl=115 time=14.571 ms
+2024-05-07 13:17:52 | 64 bytes from 142.250.194.238: icmp_seq=9 ttl=115 time=14.293 ms
+2024-05-07 13:17:53 | 64 bytes from 142.250.194.238: icmp_seq=10 ttl=115 time=14.393 ms
+2024-05-07 13:17:54 | 64 bytes from 142.250.194.238: icmp_seq=11 ttl=115 time=14.550 ms
+2024-05-07 13:17:55 | 64 bytes from 142.250.194.238: icmp_seq=12 ttl=115 time=14.588 ms
+2024-05-07 13:17:56 | 64 bytes from 142.250.194.238: icmp_seq=13 ttl=115 time=14.539 ms
+2024-05-07 13:17:57 | 64 bytes from 142.250.194.238: icmp_seq=14 ttl=115 time=14.576 ms
+2024-05-07 13:17:58 | 64 bytes from 142.250.194.238: icmp_seq=15 ttl=115 time=14.489 ms
+2024-05-07 13:17:59 | 64 bytes from 142.250.194.238: icmp_seq=16 ttl=115 time=14.453 ms
+2024-05-07 13:18:00 | 64 bytes from 142.250.194.238: icmp_seq=17 ttl=115 time=14.287 ms
+2024-05-07 13:18:01 | 64 bytes from 142.250.194.238: icmp_seq=18 ttl=115 time=14.684 ms
+2024-05-07 13:18:02 | 64 bytes from 142.250.194.238: icmp_seq=19 ttl=115 time=15.396 ms
+2024-05-07 13:18:03 | 64 bytes from 142.250.194.238: icmp_seq=20 ttl=115 time=14.348 ms
+2024-05-07 13:18:04 | 64 bytes from 142.250.194.238: icmp_seq=21 ttl=115 time=14.702 ms
+2024-05-07 13:18:05 | 64 bytes from 142.250.194.238: icmp_seq=22 ttl=115 time=14.640 ms
