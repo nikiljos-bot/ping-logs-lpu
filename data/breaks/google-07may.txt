@@ -402,3 +402,10 @@ Tue May  7 17:35:48 IST 2024
 
 2024-05-07 17:35:48 | PING google.com (216.58.200.206): 56 data bytes
 2024-05-07 17:44:26 | Request timeout for icmp_seq 515
+
+============================
+PING STOPPED google.com
+Room-26-402
+Tue May  7 18:12:18 IST 2024
+============================
+
