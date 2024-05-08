@@ -8,6 +8,13 @@
 | From | 2024-05-08 14:11:48 |
 | To | 2024-05-08 14:12:31 |
 
+| Average Downtime | 8.01s |
+| ---- | ---- |
+| No. of Drop Sequences | 100 |
+| Total Downtime | 13m 21s |
+| No. of Packets missed | 797 |
+
+
 ---------
 
 Status | Start | End | Duration | Packets
