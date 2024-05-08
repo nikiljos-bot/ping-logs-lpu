@@ -968,3 +968,40 @@ Room-26-402
 Wed May  8 16:54:46 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+Room-26-402
+Wed May  8 17:31:16 IST 2024
+============================
+
+2024-05-08 17:31:16 | PING google.com (142.250.77.206): 56 data bytes
+2024-05-08 17:35:19 | Request timeout for icmp_seq 241
+2024-05-08 17:45:10 | Request timeout for icmp_seq 830
+2024-05-08 17:55:06 | Request timeout for icmp_seq 1424
+
+============================
+PING STOPPED google.com
+Room-26-402
+Wed May  8 18:03:56 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+Room-26-402
+Wed May  8 18:20:09 IST 2024
+============================
+
+2024-05-08 18:20:09 | PING google.com (216.58.200.206): 56 data bytes
+2024-05-08 18:22:28 | Request timeout for icmp_seq 138
+2024-05-08 18:30:31 | Request timeout for icmp_seq 619
+2024-05-08 18:38:13 | Request timeout for icmp_seq 1080
+2024-05-08 18:44:41 | Request timeout for icmp_seq 1467
+
+============================
+PING STOPPED google.com
+Room-26-402
+Wed May  8 18:50:02 IST 2024
+============================
+
