@@ -588,3 +588,35 @@ Wed May  8 12:58:07 IST 2024
 2024-05-08 14:22:01 | Request timeout for icmp_seq 5016
 2024-05-08 14:22:02 | Request timeout for icmp_seq 5017
 2024-05-08 14:22:03 | Request timeout for icmp_seq 5018
+2024-05-08 14:24:19 | Request timeout for icmp_seq 5154
+2024-05-08 14:24:20 | Request timeout for icmp_seq 5155
+2024-05-08 14:24:21 | Request timeout for icmp_seq 5156
+2024-05-08 14:24:22 | Request timeout for icmp_seq 5157
+2024-05-08 14:24:23 | Request timeout for icmp_seq 5158
+2024-05-08 14:24:24 | Request timeout for icmp_seq 5159
+2024-05-08 14:24:25 | Request timeout for icmp_seq 5160
+2024-05-08 14:24:26 | Request timeout for icmp_seq 5161
+2024-05-08 14:24:27 | Request timeout for icmp_seq 5162
+2024-05-08 14:24:28 | Request timeout for icmp_seq 5163
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Wed May  8 14:25:45 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Wed May  8 14:25:52 IST 2024
+============================
+
+2024-05-08 14:25:52 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Wed May  8 14:25:54 IST 2024
+============================
+
