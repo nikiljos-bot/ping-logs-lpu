@@ -1,20 +1,21 @@
 
 ## 07may - google
 
-### Longest Drop
+### Longest Downtime
 
 | Duration | 58s |
 | ---- | ---- |
 | From | 2024-05-07 16:19:05 |
 | To | 2024-05-07 16:20:02 |
 
-### Overall Downtime
+### Overall Stats
 
 | Average Downtime | 8.36s |
 | ---- | ---- |
 | No. of Drop Sequences | 42 |
-| Total Downtime | 5m 51s |
 | No. of Packets missed | 351 |
+| Total Downtime | 5m 51s |
+| Total Log Duration | 3h 49m 21s |
 
 
 ---------

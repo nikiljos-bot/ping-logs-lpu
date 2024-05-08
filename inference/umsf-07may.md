@@ -1,20 +1,21 @@
 
 ## 07may - umsf
 
-### Longest Drop
+### Longest Downtime
 
 | Duration | 22s |
 | ---- | ---- |
 | From | 2024-05-07 16:18:17 |
 | To | 2024-05-07 16:18:38 |
 
-### Overall Downtime
+### Overall Stats
 
 | Average Downtime | 7.85s |
 | ---- | ---- |
 | No. of Drop Sequences | 40 |
-| Total Downtime | 5m 14s |
 | No. of Packets missed | 312 |
+| Total Downtime | 5m 14s |
+| Total Log Duration | 3h 49m 9s |
 
 
 ---------
