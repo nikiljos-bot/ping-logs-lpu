@@ -10,7 +10,7 @@
 
 ### Overall Downtime
 
-| Average Downtime | 9.162790697674419s |
+| Average Downtime | 9.2s |
 | ---- | ---- |
 | No. of Drop Sequences | 86 |
 | Total Downtime | 13m 8s |
