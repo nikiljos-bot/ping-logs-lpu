@@ -960,3 +960,11 @@ Wed May  8 16:22:05 IST 2024
 2024-05-08 16:35:14 | Request timeout for icmp_seq 782
 2024-05-08 16:37:17 | Request timeout for icmp_seq 905
 2024-05-08 16:39:53 | Request timeout for icmp_seq 1061
+2024-05-08 16:45:48 | Request timeout for icmp_seq 1414
+
+============================
+PING STOPPED google.com
+Room-26-402
+Wed May  8 16:54:46 IST 2024
+============================
+
