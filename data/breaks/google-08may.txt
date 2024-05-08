@@ -760,3 +760,76 @@ Wed May  8 14:59:42 IST 2024
 ============================
 
 2024-05-08 14:59:42 | PING google.com (142.250.192.206): 56 data bytes
+2024-05-08 15:01:08 | Request timeout for icmp_seq 84
+2024-05-08 15:02:28 | Request timeout for icmp_seq 164
+2024-05-08 15:02:29 | Request timeout for icmp_seq 165
+2024-05-08 15:02:30 | Request timeout for icmp_seq 166
+2024-05-08 15:02:31 | Request timeout for icmp_seq 167
+2024-05-08 15:02:32 | Request timeout for icmp_seq 168
+2024-05-08 15:02:33 | Request timeout for icmp_seq 169
+2024-05-08 15:02:34 | Request timeout for icmp_seq 170
+2024-05-08 15:02:35 | Request timeout for icmp_seq 171
+2024-05-08 15:02:36 | Request timeout for icmp_seq 172
+2024-05-08 15:02:37 | Request timeout for icmp_seq 173
+2024-05-08 15:02:38 | Request timeout for icmp_seq 174
+2024-05-08 15:02:39 | Request timeout for icmp_seq 175
+2024-05-08 15:02:40 | Request timeout for icmp_seq 176
+
+============================
+PING STOPPED google.com
+Room-26-402
+Wed May  8 15:03:29 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+Room-26-402
+Wed May  8 15:05:15 IST 2024
+============================
+
+2024-05-08 15:05:15 | PING google.com (142.250.195.14): 56 data bytes
+2024-05-08 15:08:21 | Request timeout for icmp_seq 184
+2024-05-08 15:08:22 | Request timeout for icmp_seq 185
+2024-05-08 15:08:23 | Request timeout for icmp_seq 186
+2024-05-08 15:08:24 | Request timeout for icmp_seq 187
+2024-05-08 15:08:25 | Request timeout for icmp_seq 188
+2024-05-08 15:08:26 | Request timeout for icmp_seq 189
+2024-05-08 15:08:27 | Request timeout for icmp_seq 190
+2024-05-08 15:08:28 | Request timeout for icmp_seq 191
+2024-05-08 15:08:29 | Request timeout for icmp_seq 192
+2024-05-08 15:08:30 | Request timeout for icmp_seq 193
+2024-05-08 15:08:31 | Request timeout for icmp_seq 194
+2024-05-08 15:08:32 | Request timeout for icmp_seq 195
+2024-05-08 15:08:33 | Request timeout for icmp_seq 196
+
+============================
+PING STOPPED google.com
+Room-26-402
+Wed May  8 15:10:27 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+Room-26-402
+Wed May  8 15:10:53 IST 2024
+============================
+
+2024-05-08 15:10:53 | PING google.com (142.250.183.142): 56 data bytes
+2024-05-08 15:13:41 | Request timeout for icmp_seq 167
+2024-05-08 15:16:52 | Request timeout for icmp_seq 357
+2024-05-08 15:16:53 | Request timeout for icmp_seq 358
+2024-05-08 15:16:54 | Request timeout for icmp_seq 359
+2024-05-08 15:21:01 | Request timeout for icmp_seq 605
+2024-05-08 15:21:02 | Request timeout for icmp_seq 606
+2024-05-08 15:21:03 | Request timeout for icmp_seq 607
+2024-05-08 15:21:04 | Request timeout for icmp_seq 608
+2024-05-08 15:21:05 | Request timeout for icmp_seq 609
+2024-05-08 15:21:06 | Request timeout for icmp_seq 610
+2024-05-08 15:21:07 | Request timeout for icmp_seq 611
+2024-05-08 15:21:08 | Request timeout for icmp_seq 612
+2024-05-08 15:21:09 | Request timeout for icmp_seq 613
+2024-05-08 15:21:10 | Request timeout for icmp_seq 614
+2024-05-08 15:21:11 | Request timeout for icmp_seq 615
+2024-05-08 15:21:12 | Request timeout for icmp_seq 616
