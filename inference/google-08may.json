@@ -752,7 +752,97 @@
   {
     "start": "2024-05-08 14:34:14 | 64 bytes from 216.58.196.110: icmp_seq=117 ttl=115 time=11009.718 ms",
     "startIndex": 10139,
-    "end": "2024-05-08 14:34:23 | 64 bytes from 216.58.196.110: icmp_seq=137 ttl=115 time=17.825 ms",
-    "endIndex": 10153
+    "end": "2024-05-08 14:35:41 | 64 bytes from 216.58.196.110: icmp_seq=214 ttl=115 time=18.029 ms",
+    "endIndex": 10228
+  },
+  {
+    "start": "2024-05-08 14:35:45 | Request timeout for icmp_seq 217",
+    "startIndex": 10229,
+    "end": "2024-05-08 14:35:56 | Request timeout for icmp_seq 228",
+    "endIndex": 10240
+  },
+  {
+    "start": "2024-05-08 14:35:56 | 64 bytes from 216.58.196.110: icmp_seq=218 ttl=115 time=11161.636 ms",
+    "startIndex": 10241,
+    "end": "2024-05-08 14:38:16 | 64 bytes from 216.58.196.110: icmp_seq=369 ttl=115 time=17.449 ms",
+    "endIndex": 10382
+  },
+  {
+    "start": "2024-05-08 14:38:19 | Request timeout for icmp_seq 371",
+    "startIndex": 10383,
+    "end": "2024-05-08 14:38:30 | Request timeout for icmp_seq 382",
+    "endIndex": 10394
+  },
+  {
+    "start": "2024-05-08 14:38:31 | 64 bytes from 216.58.196.110: icmp_seq=371 ttl=115 time=12821.591 ms",
+    "startIndex": 10395,
+    "end": "2024-05-08 14:39:55 | 64 bytes from 216.58.196.110: icmp_seq=468 ttl=115 time=16.313 ms",
+    "endIndex": 10481
+  },
+  {
+    "start": "2024-05-08 14:39:58 | Request timeout for icmp_seq 470",
+    "startIndex": 10482,
+    "end": "2024-05-08 14:40:10 | Request timeout for icmp_seq 481",
+    "endIndex": 10493
+  },
+  {
+    "start": "2024-05-08 14:40:10 | 64 bytes from 216.58.196.110: icmp_seq=471 ttl=115 time=11630.144 ms",
+    "startIndex": 10494,
+    "end": "2024-05-08 14:42:11 | 64 bytes from 216.58.196.110: icmp_seq=603 ttl=115 time=17.555 ms",
+    "endIndex": 10617
+  },
+  {
+    "start": "2024-05-08 14:42:15 | Request timeout for icmp_seq 606",
+    "startIndex": 10618,
+    "end": "2024-05-08 14:42:25 | Request timeout for icmp_seq 616",
+    "endIndex": 10628
+  },
+  {
+    "start": "2024-05-08 14:42:26 | 64 bytes from 216.58.196.110: icmp_seq=604 ttl=115 time=13656.014 ms",
+    "startIndex": 10629,
+    "end": "2024-05-08 14:43:50 | 64 bytes from 216.58.196.110: icmp_seq=702 ttl=115 time=17.831 ms",
+    "endIndex": 10717
+  },
+  {
+    "start": "2024-05-08 14:43:55 | Request timeout for icmp_seq 706",
+    "startIndex": 10718,
+    "end": "2024-05-08 14:44:05 | Request timeout for icmp_seq 716",
+    "endIndex": 10728
+  },
+  {
+    "start": "2024-05-08 14:44:06 | 64 bytes from 216.58.196.110: icmp_seq=705 ttl=115 time=12337.086 ms",
+    "startIndex": 10729,
+    "end": "2024-05-08 14:45:31 | 64 bytes from 216.58.196.110: icmp_seq=802 ttl=115 time=16.227 ms",
+    "endIndex": 10815
+  },
+  {
+    "start": "2024-05-08 14:45:34 | Request timeout for icmp_seq 804",
+    "startIndex": 10816,
+    "end": "2024-05-08 14:45:46 | Request timeout for icmp_seq 816",
+    "endIndex": 10828
+  },
+  {
+    "start": "2024-05-08 14:45:46 | 64 bytes from 216.58.196.110: icmp_seq=804 ttl=115 time=13862.543 ms",
+    "startIndex": 10829,
+    "end": "2024-05-08 14:48:26 | 64 bytes from 216.58.196.110: icmp_seq=977 ttl=115 time=17.974 ms",
+    "endIndex": 10992
+  },
+  {
+    "start": "2024-05-08 14:48:31 | Request timeout for icmp_seq 981",
+    "startIndex": 10993,
+    "end": "2024-05-08 14:48:33 | Request timeout for icmp_seq 983",
+    "endIndex": 10995
+  },
+  {
+    "start": "2024-05-08 14:48:34 | 64 bytes from 216.58.196.110: icmp_seq=979 ttl=115 time=5547.912 ms",
+    "startIndex": 10996,
+    "end": "2024-05-08 14:50:41 | 64 bytes from 216.58.196.110: icmp_seq=1111 ttl=115 time=16.161 ms",
+    "endIndex": 11125
+  },
+  {
+    "start": "2024-05-08 14:59:42 | 64 bytes from 142.250.192.206: icmp_seq=0 ttl=115 time=18.067 ms",
+    "startIndex": 11130,
+    "end": "2024-05-08 14:59:52 | 64 bytes from 142.250.192.206: icmp_seq=10 ttl=115 time=17.735 ms",
+    "endIndex": 11140
   }
 ]

@@ -648,3 +648,92 @@ Wed May  8 14:32:06 IST 2024
 2024-05-08 14:34:11 | Request timeout for icmp_seq 124
 2024-05-08 14:34:12 | Request timeout for icmp_seq 125
 2024-05-08 14:34:13 | Request timeout for icmp_seq 126
+2024-05-08 14:35:47 | Request timeout for icmp_seq 219
+2024-05-08 14:35:48 | Request timeout for icmp_seq 220
+2024-05-08 14:35:49 | Request timeout for icmp_seq 221
+2024-05-08 14:35:50 | Request timeout for icmp_seq 222
+2024-05-08 14:35:51 | Request timeout for icmp_seq 223
+2024-05-08 14:35:52 | Request timeout for icmp_seq 224
+2024-05-08 14:35:53 | Request timeout for icmp_seq 225
+2024-05-08 14:35:54 | Request timeout for icmp_seq 226
+2024-05-08 14:35:55 | Request timeout for icmp_seq 227
+2024-05-08 14:35:56 | Request timeout for icmp_seq 228
+2024-05-08 14:38:20 | Request timeout for icmp_seq 372
+2024-05-08 14:38:21 | Request timeout for icmp_seq 373
+2024-05-08 14:38:22 | Request timeout for icmp_seq 374
+2024-05-08 14:38:23 | Request timeout for icmp_seq 375
+2024-05-08 14:38:24 | Request timeout for icmp_seq 376
+2024-05-08 14:38:25 | Request timeout for icmp_seq 377
+2024-05-08 14:38:26 | Request timeout for icmp_seq 378
+2024-05-08 14:38:27 | Request timeout for icmp_seq 379
+2024-05-08 14:38:28 | Request timeout for icmp_seq 380
+2024-05-08 14:38:29 | Request timeout for icmp_seq 381
+2024-05-08 14:38:30 | Request timeout for icmp_seq 382
+2024-05-08 14:39:59 | Request timeout for icmp_seq 471
+2024-05-08 14:40:00 | Request timeout for icmp_seq 472
+2024-05-08 14:40:01 | Request timeout for icmp_seq 473
+2024-05-08 14:40:02 | Request timeout for icmp_seq 474
+2024-05-08 14:40:03 | Request timeout for icmp_seq 475
+2024-05-08 14:40:04 | Request timeout for icmp_seq 476
+2024-05-08 14:40:06 | Request timeout for icmp_seq 477
+2024-05-08 14:40:07 | Request timeout for icmp_seq 478
+2024-05-08 14:40:08 | Request timeout for icmp_seq 479
+2024-05-08 14:40:09 | Request timeout for icmp_seq 480
+2024-05-08 14:40:10 | Request timeout for icmp_seq 481
+2024-05-08 14:40:11 | Request timeout for icmp_seq 482
+2024-05-08 14:40:12 | Request timeout for icmp_seq 483
+2024-05-08 14:42:13 | Request timeout for icmp_seq 604
+2024-05-08 14:42:14 | Request timeout for icmp_seq 605
+2024-05-08 14:42:15 | Request timeout for icmp_seq 606
+2024-05-08 14:42:16 | Request timeout for icmp_seq 607
+2024-05-08 14:42:17 | Request timeout for icmp_seq 608
+2024-05-08 14:42:18 | Request timeout for icmp_seq 609
+2024-05-08 14:42:19 | Request timeout for icmp_seq 610
+2024-05-08 14:42:20 | Request timeout for icmp_seq 611
+2024-05-08 14:42:21 | Request timeout for icmp_seq 612
+2024-05-08 14:42:22 | Request timeout for icmp_seq 613
+2024-05-08 14:42:23 | Request timeout for icmp_seq 614
+2024-05-08 14:42:24 | Request timeout for icmp_seq 615
+2024-05-08 14:42:25 | Request timeout for icmp_seq 616
+2024-05-08 14:43:55 | Request timeout for icmp_seq 706
+2024-05-08 14:43:56 | Request timeout for icmp_seq 707
+2024-05-08 14:43:57 | Request timeout for icmp_seq 708
+2024-05-08 14:43:58 | Request timeout for icmp_seq 709
+2024-05-08 14:43:59 | Request timeout for icmp_seq 710
+2024-05-08 14:44:00 | Request timeout for icmp_seq 711
+2024-05-08 14:44:01 | Request timeout for icmp_seq 712
+2024-05-08 14:44:02 | Request timeout for icmp_seq 713
+2024-05-08 14:44:03 | Request timeout for icmp_seq 714
+2024-05-08 14:44:04 | Request timeout for icmp_seq 715
+2024-05-08 14:44:05 | Request timeout for icmp_seq 716
+2024-05-08 14:45:35 | Request timeout for icmp_seq 805
+2024-05-08 14:45:36 | Request timeout for icmp_seq 806
+2024-05-08 14:45:37 | Request timeout for icmp_seq 807
+2024-05-08 14:45:38 | Request timeout for icmp_seq 808
+2024-05-08 14:45:39 | Request timeout for icmp_seq 809
+2024-05-08 14:45:40 | Request timeout for icmp_seq 810
+2024-05-08 14:45:41 | Request timeout for icmp_seq 811
+2024-05-08 14:45:42 | Request timeout for icmp_seq 812
+2024-05-08 14:45:43 | Request timeout for icmp_seq 813
+2024-05-08 14:45:44 | Request timeout for icmp_seq 814
+2024-05-08 14:45:45 | Request timeout for icmp_seq 815
+2024-05-08 14:45:46 | Request timeout for icmp_seq 816
+2024-05-08 14:48:30 | Request timeout for icmp_seq 980
+2024-05-08 14:48:31 | Request timeout for icmp_seq 981
+2024-05-08 14:48:32 | Request timeout for icmp_seq 982
+2024-05-08 14:48:33 | Request timeout for icmp_seq 983
+
+============================
+PING STOPPED ums.lpu.in
+Room-26-402
+Wed May  8 14:50:41 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Wed May  8 14:59:42 IST 2024
+============================
+
+2024-05-08 14:59:42 | PING ums.lpu.in (172.19.2.250): 56 data bytes
