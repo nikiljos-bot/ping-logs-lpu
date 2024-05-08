@@ -93,10 +93,12 @@ const analyzeDropSequence = (data) => {
         duration: 0,
     };
     let totalDropDuration = 0;
+    let totalDuration = 0;
     let dropCount = 0;
     let packetLoss = 0;
 
     data.forEach((elt) => {
+        totalDuration += elt?.duration || 0;
         if (elt.type == "down") {
             if (elt?.duration > maxSoFar?.duration) maxSoFar = elt;
             totalDropDuration += elt?.duration || 0;
@@ -111,6 +113,7 @@ const analyzeDropSequence = (data) => {
         averageDuration: totalDropDuration / dropCount,
         packetLoss,
         totalDropDuration,
+        totalDuration
     };
 };
 export const generateMdHeader = (type, date, data) => {
@@ -119,20 +122,21 @@ export const generateMdHeader = (type, date, data) => {
     return `
 ## ${date} - ${type}
 
-### Longest Drop
+### Longest Downtime
 
 | Duration | ${convertSecondsToTime(dropInfo.longestDrop.duration)} |
 | ---- | ---- |
 | From | ${dropInfo.longestDrop.start} |
 | To | ${dropInfo.longestDrop.end} |
 
-### Overall Downtime
+### Overall Stats
 
 | Average Downtime | ${convertSecondsToTime(dropInfo.averageDuration)} |
 | ---- | ---- |
 | No. of Drop Sequences | ${dropInfo.dropCount} |
-| Total Downtime | ${convertSecondsToTime(dropInfo.totalDropDuration)} |
 | No. of Packets missed | ${dropInfo.packetLoss} |
+| Total Downtime | ${convertSecondsToTime(dropInfo.totalDropDuration)} |
+| Total Log Duration | ${convertSecondsToTime(dropInfo.totalDuration)} |
 
 
 ---------
