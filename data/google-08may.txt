@@ -10074,3 +10074,153 @@ Room-26-402
 Wed May  8 14:25:54 IST 2024
 ============================
 
+
+============================
+PING STARTED google.com
+Room-26-402
+Wed May  8 14:32:06 IST 2024
+============================
+
+2024-05-08 14:32:06 | PING google.com (216.58.196.110): 56 data bytes
+2024-05-08 14:32:06 | 64 bytes from 216.58.196.110: icmp_seq=0 ttl=115 time=17.846 ms
+2024-05-08 14:32:07 | 64 bytes from 216.58.196.110: icmp_seq=1 ttl=115 time=17.179 ms
+2024-05-08 14:32:08 | 64 bytes from 216.58.196.110: icmp_seq=2 ttl=115 time=16.017 ms
+2024-05-08 14:32:09 | 64 bytes from 216.58.196.110: icmp_seq=3 ttl=115 time=17.734 ms
+2024-05-08 14:32:10 | 64 bytes from 216.58.196.110: icmp_seq=4 ttl=115 time=17.741 ms
+2024-05-08 14:32:11 | 64 bytes from 216.58.196.110: icmp_seq=5 ttl=115 time=17.794 ms
+2024-05-08 14:32:12 | 64 bytes from 216.58.196.110: icmp_seq=6 ttl=115 time=17.036 ms
+2024-05-08 14:32:13 | 64 bytes from 216.58.196.110: icmp_seq=7 ttl=115 time=16.233 ms
+2024-05-08 14:32:14 | 64 bytes from 216.58.196.110: icmp_seq=8 ttl=115 time=16.514 ms
+2024-05-08 14:32:15 | 64 bytes from 216.58.196.110: icmp_seq=9 ttl=115 time=17.959 ms
+2024-05-08 14:32:16 | 64 bytes from 216.58.196.110: icmp_seq=10 ttl=115 time=16.305 ms
+2024-05-08 14:32:17 | 64 bytes from 216.58.196.110: icmp_seq=11 ttl=115 time=16.312 ms
+2024-05-08 14:32:18 | 64 bytes from 216.58.196.110: icmp_seq=12 ttl=115 time=16.731 ms
+2024-05-08 14:32:19 | 64 bytes from 216.58.196.110: icmp_seq=13 ttl=115 time=16.155 ms
+2024-05-08 14:32:20 | 64 bytes from 216.58.196.110: icmp_seq=14 ttl=115 time=16.201 ms
+2024-05-08 14:32:21 | 64 bytes from 216.58.196.110: icmp_seq=15 ttl=115 time=16.507 ms
+2024-05-08 14:32:22 | 64 bytes from 216.58.196.110: icmp_seq=16 ttl=115 time=16.698 ms
+2024-05-08 14:32:24 | Request timeout for icmp_seq 17
+2024-05-08 14:32:25 | Request timeout for icmp_seq 18
+2024-05-08 14:32:26 | Request timeout for icmp_seq 19
+2024-05-08 14:32:27 | Request timeout for icmp_seq 20
+2024-05-08 14:32:28 | Request timeout for icmp_seq 21
+2024-05-08 14:32:29 | Request timeout for icmp_seq 22
+2024-05-08 14:32:30 | Request timeout for icmp_seq 23
+2024-05-08 14:32:31 | Request timeout for icmp_seq 24
+2024-05-08 14:32:32 | Request timeout for icmp_seq 25
+2024-05-08 14:32:33 | Request timeout for icmp_seq 26
+2024-05-08 14:32:34 | Request timeout for icmp_seq 27
+2024-05-08 14:32:35 | Request timeout for icmp_seq 28
+2024-05-08 14:32:36 | Request timeout for icmp_seq 29
+2024-05-08 14:32:37 | Request timeout for icmp_seq 30
+2024-05-08 14:32:37 | 64 bytes from 216.58.196.110: icmp_seq=17 ttl=115 time=14522.630 ms
+2024-05-08 14:32:37 | 64 bytes from 216.58.196.110: icmp_seq=18 ttl=115 time=13518.051 ms
+2024-05-08 14:32:37 | 64 bytes from 216.58.196.110: icmp_seq=19 ttl=115 time=12512.914 ms
+2024-05-08 14:32:37 | 64 bytes from 216.58.196.110: icmp_seq=20 ttl=115 time=11508.643 ms
+2024-05-08 14:32:37 | 64 bytes from 216.58.196.110: icmp_seq=21 ttl=115 time=10507.316 ms
+2024-05-08 14:32:38 | 64 bytes from 216.58.196.110: icmp_seq=32 ttl=115 time=16.654 ms
+2024-05-08 14:32:39 | 64 bytes from 216.58.196.110: icmp_seq=33 ttl=115 time=16.013 ms
+2024-05-08 14:32:40 | 64 bytes from 216.58.196.110: icmp_seq=34 ttl=115 time=17.537 ms
+2024-05-08 14:32:41 | 64 bytes from 216.58.196.110: icmp_seq=35 ttl=115 time=18.244 ms
+2024-05-08 14:32:42 | 64 bytes from 216.58.196.110: icmp_seq=36 ttl=115 time=17.056 ms
+2024-05-08 14:32:43 | 64 bytes from 216.58.196.110: icmp_seq=37 ttl=115 time=17.854 ms
+2024-05-08 14:32:44 | 64 bytes from 216.58.196.110: icmp_seq=38 ttl=115 time=16.235 ms
+2024-05-08 14:32:45 | 64 bytes from 216.58.196.110: icmp_seq=39 ttl=115 time=18.045 ms
+2024-05-08 14:32:46 | 64 bytes from 216.58.196.110: icmp_seq=40 ttl=115 time=16.143 ms
+2024-05-08 14:32:47 | 64 bytes from 216.58.196.110: icmp_seq=41 ttl=115 time=16.029 ms
+2024-05-08 14:32:48 | 64 bytes from 216.58.196.110: icmp_seq=42 ttl=115 time=18.000 ms
+2024-05-08 14:32:49 | 64 bytes from 216.58.196.110: icmp_seq=43 ttl=115 time=17.995 ms
+2024-05-08 14:32:50 | 64 bytes from 216.58.196.110: icmp_seq=44 ttl=115 time=18.191 ms
+2024-05-08 14:32:51 | 64 bytes from 216.58.196.110: icmp_seq=45 ttl=115 time=17.922 ms
+2024-05-08 14:32:52 | 64 bytes from 216.58.196.110: icmp_seq=46 ttl=115 time=16.063 ms
+2024-05-08 14:32:53 | 64 bytes from 216.58.196.110: icmp_seq=47 ttl=115 time=16.969 ms
+2024-05-08 14:32:54 | 64 bytes from 216.58.196.110: icmp_seq=48 ttl=115 time=17.020 ms
+2024-05-08 14:32:55 | 64 bytes from 216.58.196.110: icmp_seq=49 ttl=115 time=17.072 ms
+2024-05-08 14:32:56 | 64 bytes from 216.58.196.110: icmp_seq=50 ttl=115 time=16.778 ms
+2024-05-08 14:32:57 | 64 bytes from 216.58.196.110: icmp_seq=51 ttl=115 time=17.668 ms
+2024-05-08 14:32:58 | 64 bytes from 216.58.196.110: icmp_seq=52 ttl=115 time=17.470 ms
+2024-05-08 14:32:59 | 64 bytes from 216.58.196.110: icmp_seq=53 ttl=115 time=16.222 ms
+2024-05-08 14:33:00 | 64 bytes from 216.58.196.110: icmp_seq=54 ttl=115 time=17.685 ms
+2024-05-08 14:33:01 | 64 bytes from 216.58.196.110: icmp_seq=55 ttl=115 time=15.955 ms
+2024-05-08 14:33:02 | 64 bytes from 216.58.196.110: icmp_seq=56 ttl=115 time=17.624 ms
+2024-05-08 14:33:03 | 64 bytes from 216.58.196.110: icmp_seq=57 ttl=115 time=17.774 ms
+2024-05-08 14:33:04 | 64 bytes from 216.58.196.110: icmp_seq=58 ttl=115 time=16.582 ms
+2024-05-08 14:33:05 | 64 bytes from 216.58.196.110: icmp_seq=59 ttl=115 time=18.000 ms
+2024-05-08 14:33:06 | 64 bytes from 216.58.196.110: icmp_seq=60 ttl=115 time=17.432 ms
+2024-05-08 14:33:07 | 64 bytes from 216.58.196.110: icmp_seq=61 ttl=115 time=16.368 ms
+2024-05-08 14:33:08 | 64 bytes from 216.58.196.110: icmp_seq=62 ttl=115 time=17.617 ms
+2024-05-08 14:33:09 | 64 bytes from 216.58.196.110: icmp_seq=63 ttl=115 time=16.100 ms
+2024-05-08 14:33:10 | 64 bytes from 216.58.196.110: icmp_seq=64 ttl=115 time=16.126 ms
+2024-05-08 14:33:11 | 64 bytes from 216.58.196.110: icmp_seq=65 ttl=115 time=16.079 ms
+2024-05-08 14:33:12 | 64 bytes from 216.58.196.110: icmp_seq=66 ttl=115 time=16.006 ms
+2024-05-08 14:33:13 | 64 bytes from 216.58.196.110: icmp_seq=67 ttl=115 time=17.647 ms
+2024-05-08 14:33:14 | 64 bytes from 216.58.196.110: icmp_seq=68 ttl=115 time=17.242 ms
+2024-05-08 14:33:15 | 64 bytes from 216.58.196.110: icmp_seq=69 ttl=115 time=16.706 ms
+2024-05-08 14:33:16 | 64 bytes from 216.58.196.110: icmp_seq=70 ttl=115 time=16.713 ms
+2024-05-08 14:33:17 | 64 bytes from 216.58.196.110: icmp_seq=71 ttl=115 time=16.211 ms
+2024-05-08 14:33:18 | 64 bytes from 216.58.196.110: icmp_seq=72 ttl=115 time=17.699 ms
+2024-05-08 14:33:19 | 64 bytes from 216.58.196.110: icmp_seq=73 ttl=115 time=18.159 ms
+2024-05-08 14:33:20 | 64 bytes from 216.58.196.110: icmp_seq=74 ttl=115 time=16.345 ms
+2024-05-08 14:33:21 | 64 bytes from 216.58.196.110: icmp_seq=75 ttl=115 time=16.418 ms
+2024-05-08 14:33:22 | 64 bytes from 216.58.196.110: icmp_seq=76 ttl=115 time=16.327 ms
+2024-05-08 14:33:23 | 64 bytes from 216.58.196.110: icmp_seq=77 ttl=115 time=16.348 ms
+2024-05-08 14:33:24 | 64 bytes from 216.58.196.110: icmp_seq=78 ttl=115 time=18.000 ms
+2024-05-08 14:33:25 | 64 bytes from 216.58.196.110: icmp_seq=79 ttl=115 time=17.934 ms
+2024-05-08 14:33:26 | 64 bytes from 216.58.196.110: icmp_seq=80 ttl=115 time=17.493 ms
+2024-05-08 14:33:27 | 64 bytes from 216.58.196.110: icmp_seq=81 ttl=115 time=16.940 ms
+2024-05-08 14:33:28 | 64 bytes from 216.58.196.110: icmp_seq=82 ttl=115 time=17.684 ms
+2024-05-08 14:33:29 | 64 bytes from 216.58.196.110: icmp_seq=83 ttl=115 time=15.993 ms
+2024-05-08 14:33:30 | 64 bytes from 216.58.196.110: icmp_seq=84 ttl=115 time=17.622 ms
+2024-05-08 14:33:31 | 64 bytes from 216.58.196.110: icmp_seq=85 ttl=115 time=16.149 ms
+2024-05-08 14:33:32 | 64 bytes from 216.58.196.110: icmp_seq=86 ttl=115 time=16.152 ms
+2024-05-08 14:33:33 | 64 bytes from 216.58.196.110: icmp_seq=87 ttl=115 time=22.739 ms
+2024-05-08 14:33:34 | 64 bytes from 216.58.196.110: icmp_seq=88 ttl=115 time=16.609 ms
+2024-05-08 14:33:35 | 64 bytes from 216.58.196.110: icmp_seq=89 ttl=115 time=16.275 ms
+2024-05-08 14:33:36 | 64 bytes from 216.58.196.110: icmp_seq=90 ttl=115 time=17.757 ms
+2024-05-08 14:33:37 | 64 bytes from 216.58.196.110: icmp_seq=91 ttl=115 time=16.098 ms
+2024-05-08 14:33:38 | 64 bytes from 216.58.196.110: icmp_seq=92 ttl=115 time=17.211 ms
+2024-05-08 14:33:39 | 64 bytes from 216.58.196.110: icmp_seq=93 ttl=115 time=17.718 ms
+2024-05-08 14:33:40 | 64 bytes from 216.58.196.110: icmp_seq=94 ttl=115 time=16.321 ms
+2024-05-08 14:33:41 | 64 bytes from 216.58.196.110: icmp_seq=95 ttl=115 time=16.210 ms
+2024-05-08 14:33:42 | 64 bytes from 216.58.196.110: icmp_seq=96 ttl=115 time=16.188 ms
+2024-05-08 14:33:43 | 64 bytes from 216.58.196.110: icmp_seq=97 ttl=115 time=17.689 ms
+2024-05-08 14:33:44 | 64 bytes from 216.58.196.110: icmp_seq=98 ttl=115 time=17.897 ms
+2024-05-08 14:33:45 | 64 bytes from 216.58.196.110: icmp_seq=99 ttl=115 time=16.570 ms
+2024-05-08 14:33:46 | 64 bytes from 216.58.196.110: icmp_seq=100 ttl=115 time=18.015 ms
+2024-05-08 14:33:47 | 64 bytes from 216.58.196.110: icmp_seq=101 ttl=115 time=17.543 ms
+2024-05-08 14:33:48 | 64 bytes from 216.58.196.110: icmp_seq=102 ttl=115 time=17.923 ms
+2024-05-08 14:33:49 | 64 bytes from 216.58.196.110: icmp_seq=103 ttl=115 time=16.642 ms
+2024-05-08 14:33:50 | 64 bytes from 216.58.196.110: icmp_seq=104 ttl=115 time=17.825 ms
+2024-05-08 14:33:51 | 64 bytes from 216.58.196.110: icmp_seq=105 ttl=115 time=17.837 ms
+2024-05-08 14:33:52 | 64 bytes from 216.58.196.110: icmp_seq=106 ttl=115 time=16.099 ms
+2024-05-08 14:33:53 | 64 bytes from 216.58.196.110: icmp_seq=107 ttl=115 time=16.117 ms
+2024-05-08 14:33:54 | 64 bytes from 216.58.196.110: icmp_seq=108 ttl=115 time=16.967 ms
+2024-05-08 14:33:55 | 64 bytes from 216.58.196.110: icmp_seq=109 ttl=115 time=18.053 ms
+2024-05-08 14:33:56 | 64 bytes from 216.58.196.110: icmp_seq=110 ttl=115 time=16.293 ms
+2024-05-08 14:33:57 | 64 bytes from 216.58.196.110: icmp_seq=111 ttl=115 time=17.971 ms
+2024-05-08 14:33:58 | 64 bytes from 216.58.196.110: icmp_seq=112 ttl=115 time=17.812 ms
+2024-05-08 14:33:59 | 64 bytes from 216.58.196.110: icmp_seq=113 ttl=115 time=17.819 ms
+2024-05-08 14:34:00 | 64 bytes from 216.58.196.110: icmp_seq=114 ttl=115 time=17.482 ms
+2024-05-08 14:34:01 | 64 bytes from 216.58.196.110: icmp_seq=115 ttl=115 time=17.953 ms
+2024-05-08 14:34:02 | 64 bytes from 216.58.196.110: icmp_seq=116 ttl=115 time=16.054 ms
+2024-05-08 14:34:08 | Request timeout for icmp_seq 121
+2024-05-08 14:34:09 | Request timeout for icmp_seq 122
+2024-05-08 14:34:10 | Request timeout for icmp_seq 123
+2024-05-08 14:34:11 | Request timeout for icmp_seq 124
+2024-05-08 14:34:12 | Request timeout for icmp_seq 125
+2024-05-08 14:34:13 | Request timeout for icmp_seq 126
+2024-05-08 14:34:14 | 64 bytes from 216.58.196.110: icmp_seq=117 ttl=115 time=11009.718 ms
+2024-05-08 14:34:14 | 64 bytes from 216.58.196.110: icmp_seq=118 ttl=115 time=10005.198 ms
+2024-05-08 14:34:14 | 64 bytes from 216.58.196.110: icmp_seq=119 ttl=115 time=9004.820 ms
+2024-05-08 14:34:14 | 64 bytes from 216.58.196.110: icmp_seq=120 ttl=115 time=7999.344 ms
+2024-05-08 14:34:14 | 64 bytes from 216.58.196.110: icmp_seq=121 ttl=115 time=6996.478 ms
+2024-05-08 14:34:14 | 64 bytes from 216.58.196.110: icmp_seq=128 ttl=115 time=17.752 ms
+2024-05-08 14:34:15 | 64 bytes from 216.58.196.110: icmp_seq=129 ttl=115 time=16.318 ms
+2024-05-08 14:34:16 | 64 bytes from 216.58.196.110: icmp_seq=130 ttl=115 time=17.733 ms
+2024-05-08 14:34:17 | 64 bytes from 216.58.196.110: icmp_seq=131 ttl=115 time=18.037 ms
+2024-05-08 14:34:18 | 64 bytes from 216.58.196.110: icmp_seq=132 ttl=115 time=15.988 ms
+2024-05-08 14:34:19 | 64 bytes from 216.58.196.110: icmp_seq=133 ttl=115 time=16.899 ms
+2024-05-08 14:34:20 | 64 bytes from 216.58.196.110: icmp_seq=134 ttl=115 time=17.990 ms
+2024-05-08 14:34:21 | 64 bytes from 216.58.196.110: icmp_seq=135 ttl=115 time=18.031 ms
+2024-05-08 14:34:22 | 64 bytes from 216.58.196.110: icmp_seq=136 ttl=115 time=16.355 ms
+2024-05-08 14:34:23 | 64 bytes from 216.58.196.110: icmp_seq=137 ttl=115 time=17.825 ms

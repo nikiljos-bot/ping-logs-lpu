@@ -620,3 +620,31 @@ Room-26-402
 Wed May  8 14:25:54 IST 2024
 ============================
 
+
+============================
+PING STARTED ums.lpu.in
+Room-26-402
+Wed May  8 14:32:06 IST 2024
+============================
+
+2024-05-08 14:32:06 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+2024-05-08 14:32:24 | Request timeout for icmp_seq 17
+2024-05-08 14:32:25 | Request timeout for icmp_seq 18
+2024-05-08 14:32:26 | Request timeout for icmp_seq 19
+2024-05-08 14:32:27 | Request timeout for icmp_seq 20
+2024-05-08 14:32:28 | Request timeout for icmp_seq 21
+2024-05-08 14:32:29 | Request timeout for icmp_seq 22
+2024-05-08 14:32:30 | Request timeout for icmp_seq 23
+2024-05-08 14:32:31 | Request timeout for icmp_seq 24
+2024-05-08 14:32:32 | Request timeout for icmp_seq 25
+2024-05-08 14:32:33 | Request timeout for icmp_seq 26
+2024-05-08 14:32:34 | Request timeout for icmp_seq 27
+2024-05-08 14:32:35 | Request timeout for icmp_seq 28
+2024-05-08 14:32:36 | Request timeout for icmp_seq 29
+2024-05-08 14:32:37 | Request timeout for icmp_seq 30
+2024-05-08 14:34:08 | Request timeout for icmp_seq 121
+2024-05-08 14:34:09 | Request timeout for icmp_seq 122
+2024-05-08 14:34:10 | Request timeout for icmp_seq 123
+2024-05-08 14:34:11 | Request timeout for icmp_seq 124
+2024-05-08 14:34:12 | Request timeout for icmp_seq 125
+2024-05-08 14:34:13 | Request timeout for icmp_seq 126
