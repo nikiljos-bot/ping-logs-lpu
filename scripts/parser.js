@@ -51,10 +51,14 @@ export const analyzeSequence = (sequence) =>
         };
     });
 
+const toFixedIfNecessary = (value, dp) => {
+    return +value.toFixed(dp);
+};
+
 const convertSecondsToTime = (seconds) => {
     const hours = Math.floor(seconds / 3600);
     const minutes = Math.floor((seconds % 3600) / 60);
-    const remainingSeconds = seconds % 60;
+    const remainingSeconds = toFixedIfNecessary(seconds % 60, 2);
 
     let timeString = "";
     if (hours > 0) {
