@@ -31,5 +31,107 @@ export const extractSequence = (rawData) => {
         allSeq.push(currentBlock);
     }
 
-    return allSeq
+    return allSeq;
+};
+
+export const analyzeSequence = (sequence) =>
+    sequence.map((elt) => {
+        const type = elt.start?.includes("bytes from") ? "up" : "down";
+        const len = elt.endIndex - elt.startIndex + 1;
+        const start = elt.start?.split(" | ")[0];
+        const end = elt.end?.split(" | ")[0];
+        const duration = (new Date(end) - new Date(start)) / 1000 + 1;
+
+        return {
+            type,
+            start,
+            end,
+            duration,
+            len,
+        };
+    });
+
+const convertSecondsToTime = (seconds) => {
+    const hours = Math.floor(seconds / 3600);
+    const minutes = Math.floor((seconds % 3600) / 60);
+    const remainingSeconds = seconds % 60;
+
+    let timeString = "";
+    if (hours > 0) {
+        timeString += hours + "h ";
+    }
+    if (minutes > 0 || hours > 0) {
+        timeString += minutes + "m ";
+    }
+    timeString += remainingSeconds + "s";
+
+    return timeString;
+};
+
+export const generateMdTable = (data) => {
+    const header = ["Status", "Start", "End", "Duration", "Packets"];
+    const seperator = Array(header.length).fill("----");
+    const dataRows = data.map((elt) => [
+        elt.type == "up" ? "🟢" : "🔴",
+        elt.start,
+        elt.end,
+        convertSecondsToTime(elt.duration),
+        elt.len,
+    ]);
+
+    const allRows = [header, seperator, ...dataRows].map((elt) => elt.join(" | "));
+
+    return allRows.join("\n");
+};
+
+const analyzeDropSequence = (data) => {
+    let maxSoFar = {
+        duration: 0,
+    };
+    let totalDropDuration = 0;
+    let dropCount = 0;
+    let packetLoss = 0;
+
+    data.forEach((elt) => {
+        if (elt.type == "down") {
+            if (elt?.duration > maxSoFar?.duration) maxSoFar = elt;
+            totalDropDuration += elt?.duration || 0;
+            dropCount += 1;
+            packetLoss += elt?.len || 0;
+        }
+    });
+
+    return {
+        longestDrop: maxSoFar,
+        dropCount,
+        averageDuration: totalDropDuration / dropCount,
+        packetLoss,
+        totalDropDuration,
+    };
+};
+export const generateMdHeader = (type, date, data) => {
+    const dropInfo = analyzeDropSequence(data);
+
+    return `
+## ${date} - ${type}
+
+### Longest Drop
+
+| Duration | ${convertSecondsToTime(dropInfo.longestDrop.duration)} |
+| ---- | ---- |
+| From | ${dropInfo.longestDrop.start} |
+| To | ${dropInfo.longestDrop.end} |
+
+### Overall Downtime
+
+| Average Downtime | ${convertSecondsToTime(dropInfo.averageDuration)} |
+| ---- | ---- |
+| No. of Drop Sequences | ${dropInfo.dropCount} |
+| Total Downtime | ${convertSecondsToTime(dropInfo.totalDropDuration)} |
+| No. of Packets missed | ${dropInfo.packetLoss} |
+
+
+---------
+
+`;
 };
