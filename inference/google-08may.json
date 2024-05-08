@@ -926,7 +926,13 @@
   {
     "start": "2024-05-08 15:21:13 | 64 bytes from 142.250.183.142: icmp_seq=605 ttl=114 time=12894.999 ms",
     "startIndex": 12296,
-    "end": "2024-05-08 15:29:49 | 64 bytes from 142.250.183.142: icmp_seq=1132 ttl=114 time=43.026 ms",
-    "endIndex": 12815
+    "end": "2024-05-08 15:35:29 | 64 bytes from 142.250.183.142: icmp_seq=1471 ttl=114 time=42.500 ms",
+    "endIndex": 13152
+  },
+  {
+    "start": "2024-05-08 15:43:07 | 64 bytes from 142.250.192.78: icmp_seq=0 ttl=113 time=35.899 ms",
+    "startIndex": 13157,
+    "end": "2024-05-08 15:51:52 | 64 bytes from 142.250.192.78: icmp_seq=523 ttl=113 time=36.170 ms",
+    "endIndex": 13680
   }
 ]

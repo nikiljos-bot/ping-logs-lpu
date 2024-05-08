@@ -833,3 +833,18 @@ Wed May  8 15:10:53 IST 2024
 2024-05-08 15:21:10 | Request timeout for icmp_seq 614
 2024-05-08 15:21:11 | Request timeout for icmp_seq 615
 2024-05-08 15:21:12 | Request timeout for icmp_seq 616
+
+============================
+PING STOPPED google.com
+Room-26-402
+Wed May  8 15:35:30 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+Room-26-402
+Wed May  8 15:43:07 IST 2024
+============================
+
+2024-05-08 15:43:07 | PING google.com (142.250.192.78): 56 data bytes
