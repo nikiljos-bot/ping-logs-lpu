@@ -3,20 +3,20 @@
 
 ### Longest Downtime
 
-| Duration | 44s |
-| ---- | ---- |
-| From | 0 |
-| To | 0 |
+Duration | 44s
+---- | ----
+From | 2024-05-08 14:11:48
+To | 2024-05-08 14:12:31
 
 ### Overall Stats
 
-| Average Downtime | 8.01s |
-| ---- | ---- |
-| No. of Drop Sequences | 100 |
-| Single Drop Sequences | 27 |
-| No. of Packets missed | 797 |
-| Total Downtime | 13m 21s |
-| Total Log Duration | 5h 46m 45s |
+Average Downtime | 8.01s
+---- | ----
+No. of Drop Sequences | 100
+Single Drop Sequences | 27
+No. of Packets missed | 797
+Total Downtime | 13m 21s
+Total Log Duration | 5h 46m 45s
 
 
 ---------
