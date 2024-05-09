@@ -9,3 +9,26 @@ Thu May  9 09:19:17 IST 2024
 2024-05-09 09:59:33 | Request timeout for icmp_seq 2405
 2024-05-09 10:15:45 | Request timeout for icmp_seq 3374
 2024-05-09 10:15:46 | Request timeout for icmp_seq 3375
+
+============================
+PING STOPPED google.com
+Room-26-402
+Thu May  9 10:37:15 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+Room-26-402
+Thu May  9 11:05:26 IST 2024
+============================
+
+2024-05-09 11:05:26 | PING google.com (216.58.200.206): 56 data bytes
+2024-05-09 11:07:29 | Request timeout for icmp_seq 122
+2024-05-09 11:09:21 | Request timeout for icmp_seq 233
+2024-05-09 11:17:57 | Request timeout for icmp_seq 748
+2024-05-09 11:17:58 | Request timeout for icmp_seq 749
+2024-05-09 11:17:59 | Request timeout for icmp_seq 750
+2024-05-09 11:18:00 | Request timeout for icmp_seq 751
+2024-05-09 11:18:01 | Request timeout for icmp_seq 752
+2024-05-09 11:18:02 | Request timeout for icmp_seq 753
