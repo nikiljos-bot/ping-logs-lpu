@@ -789,3 +789,16 @@ Thu May  9 17:20:38 IST 2024
 2024-05-09 17:27:49 | Request timeout for icmp_seq 428
 2024-05-09 17:54:26 | Request timeout for icmp_seq 2020
 2024-05-09 17:54:27 | Request timeout for icmp_seq 2021
+2024-05-09 18:11:14 | Request timeout for icmp_seq 3025
+2024-05-09 18:12:57 | Request timeout for icmp_seq 3128
+2024-05-09 18:18:18 | Request timeout for icmp_seq 3448
+2024-05-09 18:27:16 | Request timeout for icmp_seq 3984
+2024-05-09 18:29:18 | Request timeout for icmp_seq 4105
+2024-05-09 18:34:51 | Request timeout for icmp_seq 4437
+
+============================
+PING STOPPED google.com
+↓
+Thu May  9 18:44:56 IST 2024
+============================
+

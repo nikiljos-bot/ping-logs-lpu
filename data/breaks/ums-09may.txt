@@ -750,3 +750,10 @@ Thu May  9 17:20:38 IST 2024
 2024-05-09 17:30:16 | Request timeout for icmp_seq 575
 2024-05-09 17:30:17 | Request timeout for icmp_seq 576
 2024-05-09 17:30:18 | Request timeout for icmp_seq 577
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Thu May  9 18:44:56 IST 2024
+============================
+
