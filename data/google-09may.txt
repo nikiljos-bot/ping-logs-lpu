@@ -1,0 +1,40 @@
+
+============================
+PING STARTED google.com
+Room-26-402
+Thu May  9 09:19:17 IST 2024
+============================
+
+2024-05-09 09:19:17 | PING google.com (216.58.196.206): 56 data bytes
+2024-05-09 09:19:17 | 64 bytes from 216.58.196.206: icmp_seq=0 ttl=115 time=9.291 ms
+2024-05-09 09:19:18 | 64 bytes from 216.58.196.206: icmp_seq=1 ttl=115 time=9.514 ms
+2024-05-09 09:19:19 | 64 bytes from 216.58.196.206: icmp_seq=2 ttl=115 time=9.442 ms
+2024-05-09 09:19:20 | 64 bytes from 216.58.196.206: icmp_seq=3 ttl=115 time=9.457 ms
+2024-05-09 09:19:21 | 64 bytes from 216.58.196.206: icmp_seq=4 ttl=115 time=10.123 ms
+2024-05-09 09:19:22 | 64 bytes from 216.58.196.206: icmp_seq=5 ttl=115 time=9.597 ms
+2024-05-09 09:19:23 | 64 bytes from 216.58.196.206: icmp_seq=6 ttl=115 time=9.508 ms
+2024-05-09 09:19:24 | 64 bytes from 216.58.196.206: icmp_seq=7 ttl=115 time=9.572 ms
+2024-05-09 09:19:25 | 64 bytes from 216.58.196.206: icmp_seq=8 ttl=115 time=9.487 ms
+2024-05-09 09:19:26 | 64 bytes from 216.58.196.206: icmp_seq=9 ttl=115 time=9.547 ms
+2024-05-09 09:19:27 | 64 bytes from 216.58.196.206: icmp_seq=10 ttl=115 time=9.351 ms
+2024-05-09 09:19:28 | 64 bytes from 216.58.196.206: icmp_seq=11 ttl=115 time=9.253 ms
+2024-05-09 09:19:29 | 64 bytes from 216.58.196.206: icmp_seq=12 ttl=115 time=9.255 ms
+2024-05-09 09:19:30 | 64 bytes from 216.58.196.206: icmp_seq=13 ttl=115 time=9.484 ms
+2024-05-09 09:19:31 | 64 bytes from 216.58.196.206: icmp_seq=14 ttl=115 time=9.395 ms
+2024-05-09 09:19:32 | 64 bytes from 216.58.196.206: icmp_seq=15 ttl=115 time=9.893 ms
+2024-05-09 09:19:33 | 64 bytes from 216.58.196.206: icmp_seq=16 ttl=115 time=9.523 ms
+2024-05-09 09:19:34 | 64 bytes from 216.58.196.206: icmp_seq=17 ttl=115 time=9.272 ms
+2024-05-09 09:19:35 | 64 bytes from 216.58.196.206: icmp_seq=18 ttl=115 time=9.540 ms
+2024-05-09 09:19:36 | 64 bytes from 216.58.196.206: icmp_seq=19 ttl=115 time=9.549 ms
+2024-05-09 09:19:37 | 64 bytes from 216.58.196.206: icmp_seq=20 ttl=115 time=9.479 ms
+2024-05-09 09:19:38 | 64 bytes from 216.58.196.206: icmp_seq=21 ttl=115 time=9.340 ms
+2024-05-09 09:19:39 | 64 bytes from 216.58.196.206: icmp_seq=22 ttl=115 time=9.437 ms
+2024-05-09 09:19:40 | 64 bytes from 216.58.196.206: icmp_seq=23 ttl=115 time=9.421 ms
+2024-05-09 09:19:41 | 64 bytes from 216.58.196.206: icmp_seq=24 ttl=115 time=9.399 ms
+2024-05-09 09:19:42 | 64 bytes from 216.58.196.206: icmp_seq=25 ttl=115 time=9.504 ms
+2024-05-09 09:19:43 | 64 bytes from 216.58.196.206: icmp_seq=26 ttl=115 time=9.248 ms
+2024-05-09 09:19:44 | 64 bytes from 216.58.196.206: icmp_seq=27 ttl=115 time=9.469 ms
+2024-05-09 09:19:45 | 64 bytes from 216.58.196.206: icmp_seq=28 ttl=115 time=9.484 ms
+2024-05-09 09:19:46 | 64 bytes from 216.58.196.206: icmp_seq=29 ttl=115 time=9.508 ms
+2024-05-09 09:19:47 | 64 bytes from 216.58.196.206: icmp_seq=30 ttl=115 time=9.411 ms
+2024-05-09 09:19:48 | 64 bytes from 216.58.196.206: icmp_seq=31 ttl=115 time=9.378 ms
