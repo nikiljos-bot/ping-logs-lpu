@@ -32,3 +32,50 @@ Thu May  9 11:05:26 IST 2024
 2024-05-09 11:18:00 | Request timeout for icmp_seq 751
 2024-05-09 11:18:01 | Request timeout for icmp_seq 752
 2024-05-09 11:18:02 | Request timeout for icmp_seq 753
+
+============================
+PING STOPPED google.com
+Room-26-402
+Thu May  9 11:30:05 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+Room-26-402
+Thu May  9 11:44:48 IST 2024
+============================
+
+2024-05-09 11:44:48 | PING google.com (142.250.207.206): 56 data bytes
+2024-05-09 11:52:36 | Request timeout for icmp_seq 465
+2024-05-09 11:52:37 | Request timeout for icmp_seq 466
+2024-05-09 11:52:38 | Request timeout for icmp_seq 467
+2024-05-09 11:52:39 | Request timeout for icmp_seq 468
+2024-05-09 11:52:40 | Request timeout for icmp_seq 469
+2024-05-09 11:52:41 | Request timeout for icmp_seq 470
+2024-05-09 11:52:42 | Request timeout for icmp_seq 471
+2024-05-09 11:52:43 | Request timeout for icmp_seq 472
+2024-05-09 11:52:44 | Request timeout for icmp_seq 473
+2024-05-09 11:52:45 | Request timeout for icmp_seq 474
+2024-05-09 11:52:46 | Request timeout for icmp_seq 475
+2024-05-09 11:52:47 | Request timeout for icmp_seq 476
+2024-05-09 11:52:48 | Request timeout for icmp_seq 477
+2024-05-09 11:52:49 | Request timeout for icmp_seq 478
+2024-05-09 11:55:07 | Request timeout for icmp_seq 616
+2024-05-09 11:55:08 | Request timeout for icmp_seq 617
+2024-05-09 11:55:09 | Request timeout for icmp_seq 618
+2024-05-09 11:55:10 | Request timeout for icmp_seq 619
+2024-05-09 11:55:11 | Request timeout for icmp_seq 620
+2024-05-09 11:55:12 | Request timeout for icmp_seq 621
+2024-05-09 11:55:13 | Request timeout for icmp_seq 622
+2024-05-09 11:55:14 | Request timeout for icmp_seq 623
+2024-05-09 11:55:15 | Request timeout for icmp_seq 624
+2024-05-09 11:55:16 | Request timeout for icmp_seq 625
+2024-05-09 11:57:36 | Request timeout for icmp_seq 764
+2024-05-09 11:57:37 | Request timeout for icmp_seq 765
+2024-05-09 11:57:38 | Request timeout for icmp_seq 766
+2024-05-09 11:57:39 | Request timeout for icmp_seq 767
+2024-05-09 11:57:40 | Request timeout for icmp_seq 768
+2024-05-09 11:57:41 | Request timeout for icmp_seq 769
+2024-05-09 11:57:42 | Request timeout for icmp_seq 770
+2024-05-09 11:57:43 | Request timeout for icmp_seq 771
