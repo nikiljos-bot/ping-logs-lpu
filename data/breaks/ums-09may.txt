@@ -739,3 +739,14 @@ PING STOPPED ums.lpu.in
 Thu May  9 16:56:54 IST 2024
 ============================
 
+
+============================
+PING STARTED ums.lpu.in
+↓
+Thu May  9 17:20:38 IST 2024
+============================
+
+2024-05-09 17:20:38 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+2024-05-09 17:30:16 | Request timeout for icmp_seq 575
+2024-05-09 17:30:17 | Request timeout for icmp_seq 576
+2024-05-09 17:30:18 | Request timeout for icmp_seq 577
