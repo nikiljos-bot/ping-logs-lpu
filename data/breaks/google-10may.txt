@@ -191,3 +191,76 @@ Fri May 10 13:06:54 IST 2024
 2024-05-10 13:57:04 | Request timeout for icmp_seq 2999
 2024-05-10 13:57:05 | Request timeout for icmp_seq 3000
 2024-05-10 13:57:06 | Request timeout for icmp_seq 3001
+2024-05-10 13:59:45 | Request timeout for icmp_seq 3160
+2024-05-10 13:59:46 | Request timeout for icmp_seq 3161
+2024-05-10 13:59:47 | Request timeout for icmp_seq 3162
+2024-05-10 13:59:48 | Request timeout for icmp_seq 3163
+2024-05-10 13:59:49 | Request timeout for icmp_seq 3164
+2024-05-10 13:59:50 | Request timeout for icmp_seq 3165
+2024-05-10 13:59:51 | Request timeout for icmp_seq 3166
+2024-05-10 13:59:52 | Request timeout for icmp_seq 3167
+2024-05-10 13:59:53 | Request timeout for icmp_seq 3168
+2024-05-10 13:59:54 | Request timeout for icmp_seq 3169
+2024-05-10 13:59:55 | Request timeout for icmp_seq 3170
+2024-05-10 13:59:56 | Request timeout for icmp_seq 3171
+2024-05-10 13:59:57 | Request timeout for icmp_seq 3172
+2024-05-10 13:59:58 | Request timeout for icmp_seq 3173
+2024-05-10 14:01:45 | Request timeout for icmp_seq 3279
+2024-05-10 14:01:46 | Request timeout for icmp_seq 3280
+2024-05-10 14:01:47 | Request timeout for icmp_seq 3281
+2024-05-10 14:01:48 | Request timeout for icmp_seq 3282
+2024-05-10 14:01:49 | Request timeout for icmp_seq 3283
+2024-05-10 14:01:50 | Request timeout for icmp_seq 3284
+2024-05-10 14:01:51 | Request timeout for icmp_seq 3285
+2024-05-10 14:01:52 | Request timeout for icmp_seq 3286
+2024-05-10 14:01:53 | Request timeout for icmp_seq 3287
+2024-05-10 14:01:54 | Request timeout for icmp_seq 3288
+2024-05-10 14:03:39 | Request timeout for icmp_seq 3393
+2024-05-10 14:03:40 | Request timeout for icmp_seq 3394
+2024-05-10 14:03:41 | Request timeout for icmp_seq 3395
+2024-05-10 14:03:42 | Request timeout for icmp_seq 3396
+2024-05-10 14:03:43 | Request timeout for icmp_seq 3397
+2024-05-10 14:03:44 | Request timeout for icmp_seq 3398
+2024-05-10 14:03:45 | Request timeout for icmp_seq 3399
+2024-05-10 14:03:46 | Request timeout for icmp_seq 3400
+2024-05-10 14:03:47 | Request timeout for icmp_seq 3401
+2024-05-10 14:03:48 | Request timeout for icmp_seq 3402
+
+============================
+PING STOPPED google.com
+↓
+Fri May 10 14:10:29 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Fri May 10 14:13:13 IST 2024
+============================
+
+2024-05-10 14:13:13 | PING google.com (142.250.67.238): 56 data bytes
+2024-05-10 14:15:39 | Request timeout for icmp_seq 144
+2024-05-10 14:15:40 | Request timeout for icmp_seq 145
+2024-05-10 14:15:41 | Request timeout for icmp_seq 146
+2024-05-10 14:15:42 | Request timeout for icmp_seq 147
+2024-05-10 14:15:43 | Request timeout for icmp_seq 148
+2024-05-10 14:15:44 | Request timeout for icmp_seq 149
+2024-05-10 14:15:45 | Request timeout for icmp_seq 150
+2024-05-10 14:15:46 | Request timeout for icmp_seq 151
+2024-05-10 14:15:47 | Request timeout for icmp_seq 152
+2024-05-10 14:15:48 | Request timeout for icmp_seq 153
+2024-05-10 14:15:49 | Request timeout for icmp_seq 154
+2024-05-10 14:15:50 | Request timeout for icmp_seq 155
+2024-05-10 14:15:51 | Request timeout for icmp_seq 156
+2024-05-10 14:15:52 | Request timeout for icmp_seq 157
+2024-05-10 14:18:26 | Request timeout for icmp_seq 311
+2024-05-10 14:18:27 | Request timeout for icmp_seq 312
+2024-05-10 14:18:28 | Request timeout for icmp_seq 313
+2024-05-10 14:18:29 | Request timeout for icmp_seq 314
+2024-05-10 14:18:30 | Request timeout for icmp_seq 315
+2024-05-10 14:18:31 | Request timeout for icmp_seq 316
+2024-05-10 14:18:32 | Request timeout for icmp_seq 317
+2024-05-10 14:18:33 | Request timeout for icmp_seq 318
+2024-05-10 14:18:34 | Request timeout for icmp_seq 319
+2024-05-10 14:18:35 | Request timeout for icmp_seq 320
