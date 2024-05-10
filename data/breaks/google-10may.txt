@@ -637,3 +637,28 @@ Fri May 10 17:37:47 IST 2024
 2024-05-10 17:54:12 | Request timeout for icmp_seq 981
 2024-05-10 17:54:13 | Request timeout for icmp_seq 982
 2024-05-10 17:54:14 | Request timeout for icmp_seq 983
+2024-05-10 18:07:57 | Request timeout for icmp_seq 1803
+2024-05-10 18:07:58 | Request timeout for icmp_seq 1804
+2024-05-10 18:20:23 | Request timeout for icmp_seq 2547
+2024-05-10 18:20:24 | Request timeout for icmp_seq 2548
+2024-05-10 18:20:25 | Request timeout for icmp_seq 2549
+2024-05-10 18:20:26 | Request timeout for icmp_seq 2550
+2024-05-10 18:20:27 | Request timeout for icmp_seq 2551
+2024-05-10 18:20:28 | Request timeout for icmp_seq 2552
+2024-05-10 18:20:29 | Request timeout for icmp_seq 2553
+2024-05-10 18:20:30 | Request timeout for icmp_seq 2554
+2024-05-10 18:28:51 | Request timeout for icmp_seq 3053
+2024-05-10 18:28:52 | Request timeout for icmp_seq 3054
+2024-05-10 18:28:53 | Request timeout for icmp_seq 3055
+2024-05-10 18:28:54 | Request timeout for icmp_seq 3056
+2024-05-10 18:28:55 | Request timeout for icmp_seq 3057
+2024-05-10 18:28:56 | Request timeout for icmp_seq 3058
+2024-05-10 18:46:49 | Request timeout for icmp_seq 4128
+2024-05-10 18:56:15 | Request timeout for icmp_seq 4692
+
+============================
+PING STOPPED google.com
+↓
+Fri May 10 18:58:09 IST 2024
+============================
+
