@@ -671,3 +671,17 @@ Fri May 10 13:06:54 IST 2024
 2024-05-10 13:17:54 | 64 bytes from 216.58.200.206: icmp_seq=658 ttl=115 time=17.233 ms
 2024-05-10 13:17:55 | 64 bytes from 216.58.200.206: icmp_seq=659 ttl=115 time=17.002 ms
 2024-05-10 13:17:56 | 64 bytes from 216.58.200.206: icmp_seq=660 ttl=115 time=16.932 ms
+2024-05-10 13:17:57 | 64 bytes from 216.58.200.206: icmp_seq=661 ttl=115 time=16.678 ms
+2024-05-10 13:18:03 | Request timeout for icmp_seq 666
+2024-05-10 13:18:04 | Request timeout for icmp_seq 667
+2024-05-10 13:18:05 | Request timeout for icmp_seq 668
+2024-05-10 13:18:06 | Request timeout for icmp_seq 669
+2024-05-10 13:18:06 | 64 bytes from 216.58.200.206: icmp_seq=664 ttl=115 time=6029.372 ms
+2024-05-10 13:18:06 | 64 bytes from 216.58.200.206: icmp_seq=665 ttl=115 time=5025.358 ms
+2024-05-10 13:18:06 | 64 bytes from 216.58.200.206: icmp_seq=666 ttl=115 time=4022.929 ms
+2024-05-10 13:18:06 | 64 bytes from 216.58.200.206: icmp_seq=670 ttl=115 time=17.132 ms
+2024-05-10 13:18:07 | 64 bytes from 216.58.200.206: icmp_seq=671 ttl=115 time=17.438 ms
+2024-05-10 13:18:08 | 64 bytes from 216.58.200.206: icmp_seq=672 ttl=115 time=17.434 ms
+2024-05-10 13:18:09 | 64 bytes from 216.58.200.206: icmp_seq=673 ttl=115 time=18.619 ms
+2024-05-10 13:18:10 | 64 bytes from 216.58.200.206: icmp_seq=674 ttl=115 time=18.517 ms
+2024-05-10 13:18:11 | 64 bytes from 216.58.200.206: icmp_seq=675 ttl=115 time=17.842 ms
