@@ -600,3 +600,37 @@ Fri May 10 15:24:12 IST 2024
 2024-05-10 16:07:48 | Request timeout for icmp_seq 2606
 2024-05-10 16:07:49 | Request timeout for icmp_seq 2607
 2024-05-10 16:07:50 | Request timeout for icmp_seq 2608
+
+============================
+PING STOPPED google.com
+↓
+Fri May 10 16:26:50 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Fri May 10 16:42:28 IST 2024
+============================
+
+2024-05-10 16:42:28 | PING google.com (216.58.221.46): 56 data bytes
+2024-05-10 16:43:28 | Request timeout for icmp_seq 59
+2024-05-10 16:43:29 | Request timeout for icmp_seq 60
+
+============================
+PING STOPPED google.com
+↓
+Fri May 10 16:43:41 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Fri May 10 17:37:47 IST 2024
+============================
+
+2024-05-10 17:37:47 | PING google.com (216.58.200.206): 56 data bytes
+2024-05-10 17:38:27 | Request timeout for icmp_seq 39
+2024-05-10 17:38:28 | Request timeout for icmp_seq 40

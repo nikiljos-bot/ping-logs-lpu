@@ -16,14 +16,14 @@ No. of Drop Sequences | 63
 Single Drop Sequences | 2
 No. of Packets missed | 604
 Total Downtime | 10m 7s
-Total Log Duration | 2h 42m 10s
+Total Log Duration | 2h 55m 6s
 
 
 ---------
 
 Status | Start | End | Duration | Packets
 ---- | ---- | ---- | ---- | ----
-🟢 | 2024-05-10 16:07:50 | 2024-05-10 16:08:02 | 13s | 15
+🟢 | 2024-05-10 16:07:50 | 2024-05-10 16:20:58 | 13m 9s | 788
 🔴 | 2024-05-10 16:07:43 | 2024-05-10 16:07:50 | 8s | 8
 🟢 | 2024-05-10 16:07:23 | 2024-05-10 16:07:41 | 19s | 19
 🔴 | 2024-05-10 16:07:17 | 2024-05-10 16:07:23 | 7s | 7
