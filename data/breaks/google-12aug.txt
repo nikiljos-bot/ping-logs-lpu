@@ -22,3 +22,4 @@ Mon Aug 12 09:19:10 IST 2024
 ============================
 
 2024-08-12 09:19:10 | PING google.com (172.217.27.174): 56 data bytes
+2024-08-12 09:21:29 | Request timeout for icmp_seq 137
