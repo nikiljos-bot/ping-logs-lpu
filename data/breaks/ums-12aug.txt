@@ -21,3 +21,8 @@ Mon Aug 12 09:19:29 IST 2024
 ============================
 
 2024-08-12 09:19:29 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+2024-08-12 09:31:07 | Request timeout for icmp_seq 695
+2024-08-12 09:31:08 | Request timeout for icmp_seq 696
+2024-08-12 09:31:09 | Request timeout for icmp_seq 697
+2024-08-12 09:31:10 | Request timeout for icmp_seq 698
+2024-08-12 09:31:11 | Request timeout for icmp_seq 699
