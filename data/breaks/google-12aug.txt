@@ -25,3 +25,14 @@ Mon Aug 12 09:19:10 IST 2024
 2024-08-12 09:21:29 | Request timeout for icmp_seq 137
 2024-08-12 09:31:07 | Request timeout for icmp_seq 713
 2024-08-12 09:31:08 | Request timeout for icmp_seq 714
+2024-08-12 09:40:34 | Request timeout for icmp_seq 1277
+2024-08-12 09:47:15 | Request timeout for icmp_seq 1548
+2024-08-12 09:47:16 | Request timeout for icmp_seq 1549
+2024-08-12 09:47:17 | Request timeout for icmp_seq 1550
+
+============================
+PING STOPPED google.com
+↓
+Mon Aug 12 09:49:24 IST 2024
+============================
+
