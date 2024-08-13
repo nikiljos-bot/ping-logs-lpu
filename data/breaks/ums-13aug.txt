@@ -150,3 +150,89 @@ PING STOPPED ums.lpu.in
 Tue Aug 13 15:37:10 IST 2024
 ============================
 
+
+============================
+PING STARTED ums.lpu.in
+↓
+Tue Aug 13 15:52:09 IST 2024
+============================
+
+2024-08-13 15:52:09 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+2024-08-13 15:54:43 | Request timeout for icmp_seq 152
+2024-08-13 15:54:44 | Request timeout for icmp_seq 153
+2024-08-13 15:54:45 | Request timeout for icmp_seq 154
+2024-08-13 15:54:46 | Request timeout for icmp_seq 155
+2024-08-13 15:54:47 | Request timeout for icmp_seq 156
+2024-08-13 15:54:48 | Request timeout for icmp_seq 157
+2024-08-13 15:54:49 | Request timeout for icmp_seq 158
+2024-08-13 15:54:50 | Request timeout for icmp_seq 159
+2024-08-13 15:54:51 | Request timeout for icmp_seq 160
+2024-08-13 15:54:52 | Request timeout for icmp_seq 161
+2024-08-13 15:54:53 | Request timeout for icmp_seq 162
+2024-08-13 15:54:54 | Request timeout for icmp_seq 163
+2024-08-13 15:54:55 | Request timeout for icmp_seq 164
+2024-08-13 15:54:56 | Request timeout for icmp_seq 165
+2024-08-13 15:55:00 | Request timeout for icmp_seq 169
+2024-08-13 15:55:01 | Request timeout for icmp_seq 170
+2024-08-13 15:55:02 | Request timeout for icmp_seq 171
+2024-08-13 15:55:03 | Request timeout for icmp_seq 172
+2024-08-13 15:55:04 | Request timeout for icmp_seq 173
+2024-08-13 15:55:05 | Request timeout for icmp_seq 174
+2024-08-13 15:55:06 | Request timeout for icmp_seq 175
+2024-08-13 15:55:07 | Request timeout for icmp_seq 176
+2024-08-13 15:55:08 | Request timeout for icmp_seq 177
+2024-08-13 15:55:09 | Request timeout for icmp_seq 178
+2024-08-13 15:56:35 | Request timeout for icmp_seq 264
+2024-08-13 15:56:36 | Request timeout for icmp_seq 265
+2024-08-13 15:56:37 | Request timeout for icmp_seq 266
+2024-08-13 15:56:38 | Request timeout for icmp_seq 267
+2024-08-13 15:56:39 | Request timeout for icmp_seq 268
+2024-08-13 15:56:40 | Request timeout for icmp_seq 269
+2024-08-13 15:56:41 | Request timeout for icmp_seq 270
+2024-08-13 15:56:42 | Request timeout for icmp_seq 271
+2024-08-13 15:56:43 | Request timeout for icmp_seq 272
+2024-08-13 15:58:24 | Request timeout for icmp_seq 373
+2024-08-13 15:58:25 | Request timeout for icmp_seq 374
+2024-08-13 15:58:26 | Request timeout for icmp_seq 375
+2024-08-13 15:58:27 | Request timeout for icmp_seq 376
+2024-08-13 15:58:28 | Request timeout for icmp_seq 377
+2024-08-13 15:58:29 | Request timeout for icmp_seq 378
+2024-08-13 15:58:30 | Request timeout for icmp_seq 379
+2024-08-13 15:58:31 | Request timeout for icmp_seq 380
+2024-08-13 15:58:32 | Request timeout for icmp_seq 381
+2024-08-13 15:58:33 | Request timeout for icmp_seq 382
+2024-08-13 15:58:34 | Request timeout for icmp_seq 383
+2024-08-13 15:58:35 | Request timeout for icmp_seq 384
+2024-08-13 15:58:36 | Request timeout for icmp_seq 385
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Tue Aug 13 15:59:00 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+↓
+Tue Aug 13 15:59:32 IST 2024
+============================
+
+2024-08-13 15:59:32 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+2024-08-13 16:00:27 | Request timeout for icmp_seq 54
+2024-08-13 16:02:49 | Request timeout for icmp_seq 195
+2024-08-13 16:14:29 | Request timeout for icmp_seq 893
+2024-08-13 16:18:47 | Request timeout for icmp_seq 1150
+2024-08-13 16:26:15 | Request timeout for icmp_seq 1596
+2024-08-13 16:35:47 | Request timeout for icmp_seq 2111
+2024-08-13 16:39:59 | Request timeout for icmp_seq 2362
+2024-08-13 16:46:21 | Request timeout for icmp_seq 2743
+2024-08-13 16:49:04 | Request timeout for icmp_seq 2905
+2024-08-13 17:07:21 | Request timeout for icmp_seq 3999
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Tue Aug 13 17:32:02 IST 2024
+============================
+
