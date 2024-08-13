@@ -1711,3 +1711,24 @@ Tue Aug 13 15:08:15 IST 2024
 2024-08-13 15:36:52 | 64 bytes from 216.58.196.110: icmp_seq=1702 ttl=55 time=11.471 ms
 2024-08-13 15:36:53 | 64 bytes from 216.58.196.110: icmp_seq=1703 ttl=55 time=11.421 ms
 2024-08-13 15:36:54 | 64 bytes from 216.58.196.110: icmp_seq=1704 ttl=55 time=11.389 ms
+2024-08-13 15:36:55 | 64 bytes from 216.58.196.110: icmp_seq=1705 ttl=55 time=11.420 ms
+2024-08-13 15:36:56 | 64 bytes from 216.58.196.110: icmp_seq=1706 ttl=55 time=11.255 ms
+2024-08-13 15:36:57 | 64 bytes from 216.58.196.110: icmp_seq=1707 ttl=55 time=11.197 ms
+2024-08-13 15:36:58 | 64 bytes from 216.58.196.110: icmp_seq=1708 ttl=55 time=11.469 ms
+2024-08-13 15:36:59 | 64 bytes from 216.58.196.110: icmp_seq=1709 ttl=55 time=11.464 ms
+2024-08-13 15:37:00 | 64 bytes from 216.58.196.110: icmp_seq=1710 ttl=55 time=11.484 ms
+2024-08-13 15:37:01 | 64 bytes from 216.58.196.110: icmp_seq=1711 ttl=55 time=11.428 ms
+2024-08-13 15:37:02 | 64 bytes from 216.58.196.110: icmp_seq=1712 ttl=55 time=11.430 ms
+2024-08-13 15:37:03 | 64 bytes from 216.58.196.110: icmp_seq=1713 ttl=55 time=11.505 ms
+2024-08-13 15:37:04 | 64 bytes from 216.58.196.110: icmp_seq=1714 ttl=55 time=11.617 ms
+2024-08-13 15:37:05 | 64 bytes from 216.58.196.110: icmp_seq=1715 ttl=55 time=11.357 ms
+2024-08-13 15:37:06 | 64 bytes from 216.58.196.110: icmp_seq=1716 ttl=55 time=11.265 ms
+2024-08-13 15:37:07 | 64 bytes from 216.58.196.110: icmp_seq=1717 ttl=55 time=11.525 ms
+2024-08-13 15:37:08 | 64 bytes from 216.58.196.110: icmp_seq=1718 ttl=55 time=11.457 ms
+
+============================
+PING STOPPED google.com
+↓
+Tue Aug 13 15:37:08 IST 2024
+============================
+

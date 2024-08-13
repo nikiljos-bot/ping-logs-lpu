@@ -143,3 +143,10 @@ Tue Aug 13 15:08:04 IST 2024
 2024-08-13 15:36:39 | Request timeout for icmp_seq 1708
 2024-08-13 15:36:40 | Request timeout for icmp_seq 1709
 2024-08-13 15:36:41 | Request timeout for icmp_seq 1710
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Tue Aug 13 15:37:10 IST 2024
+============================
+
