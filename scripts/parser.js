@@ -96,6 +96,7 @@ const analyzeDropSequence = (data) => {
     let totalDuration = 0;
     let dropCount = 0;
     let packetLoss = 0;
+    let singleLoss = 0;
 
     data.forEach((elt) => {
         totalDuration += elt?.duration || 0;
@@ -104,6 +105,7 @@ const analyzeDropSequence = (data) => {
             totalDropDuration += elt?.duration || 0;
             dropCount += 1;
             packetLoss += elt?.len || 0;
+            if (elt.len == 1) singleLoss += 1;
         }
     });
 
@@ -113,7 +115,8 @@ const analyzeDropSequence = (data) => {
         averageDuration: totalDropDuration / dropCount,
         packetLoss,
         totalDropDuration,
-        totalDuration
+        totalDuration,
+        singleLoss,
     };
 };
 export const generateMdHeader = (type, date, data) => {
@@ -124,19 +127,24 @@ export const generateMdHeader = (type, date, data) => {
 
 ### Longest Downtime
 
-| Duration | ${convertSecondsToTime(dropInfo.longestDrop.duration)} |
-| ---- | ---- |
-| From | ${dropInfo.longestDrop.start} |
-| To | ${dropInfo.longestDrop.end} |
+Duration | ${
+        dropInfo.longestDrop.duration ? convertSecondsToTime(dropInfo.longestDrop.duration) : "-"
+    }
+---- | ----
+From | ${dropInfo.longestDrop.start || "-"}
+To | ${dropInfo.longestDrop.end || "-"}
 
 ### Overall Stats
 
-| Average Downtime | ${convertSecondsToTime(dropInfo.averageDuration)} |
-| ---- | ---- |
-| No. of Drop Sequences | ${dropInfo.dropCount} |
-| No. of Packets missed | ${dropInfo.packetLoss} |
-| Total Downtime | ${convertSecondsToTime(dropInfo.totalDropDuration)} |
-| Total Log Duration | ${convertSecondsToTime(dropInfo.totalDuration)} |
+Average Downtime | ${
+        dropInfo.averageDuration ? convertSecondsToTime(dropInfo.averageDuration) : "-"
+    }
+---- | ----
+No. of Drop Sequences | ${dropInfo.dropCount}
+Single Drop Sequences | ${dropInfo.singleLoss}
+No. of Packets missed | ${dropInfo.packetLoss}
+Total Downtime | ${convertSecondsToTime(dropInfo.totalDropDuration)}
+Total Log Duration | ${convertSecondsToTime(dropInfo.totalDuration)}
 
 
 ---------
