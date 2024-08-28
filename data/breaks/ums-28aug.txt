@@ -52,3 +52,46 @@ Wed Aug 28 11:48:29 IST 2024
 2024-08-28 11:50:10 | Request timeout for icmp_seq 100
 2024-08-28 11:50:11 | Request timeout for icmp_seq 101
 2024-08-28 11:50:12 | Request timeout for icmp_seq 102
+2024-08-28 11:53:31 | Request timeout for icmp_seq 300
+2024-08-28 11:53:32 | Request timeout for icmp_seq 301
+2024-08-28 11:53:33 | Request timeout for icmp_seq 302
+2024-08-28 11:53:34 | Request timeout for icmp_seq 303
+2024-08-28 11:53:35 | Request timeout for icmp_seq 304
+2024-08-28 11:53:36 | Request timeout for icmp_seq 305
+2024-08-28 11:53:37 | Request timeout for icmp_seq 306
+2024-08-28 11:53:38 | Request timeout for icmp_seq 307
+2024-08-28 11:53:39 | Request timeout for icmp_seq 308
+2024-08-28 11:53:40 | Request timeout for icmp_seq 309
+2024-08-28 11:53:41 | Request timeout for icmp_seq 310
+2024-08-28 11:53:42 | Request timeout for icmp_seq 311
+2024-08-28 11:53:43 | Request timeout for icmp_seq 312
+2024-08-28 11:53:44 | Request timeout for icmp_seq 313
+
+============================
+PING STOPPED ums.lpu.in
+↓
+Wed Aug 28 11:57:02 IST 2024
+============================
+
+
+============================
+PING STARTED ums.lpu.in
+↓
+Wed Aug 28 11:58:04 IST 2024
+============================
+
+2024-08-28 11:58:04 | PING ums.lpu.in (172.19.2.250): 56 data bytes
+2024-08-28 12:00:21 | Request timeout for icmp_seq 136
+2024-08-28 12:00:22 | Request timeout for icmp_seq 137
+2024-08-28 12:00:23 | Request timeout for icmp_seq 138
+2024-08-28 12:00:24 | Request timeout for icmp_seq 139
+2024-08-28 12:00:25 | Request timeout for icmp_seq 140
+2024-08-28 12:00:26 | Request timeout for icmp_seq 141
+2024-08-28 12:00:27 | Request timeout for icmp_seq 142
+2024-08-28 12:00:28 | Request timeout for icmp_seq 143
+2024-08-28 12:00:29 | Request timeout for icmp_seq 144
+2024-08-28 12:00:30 | Request timeout for icmp_seq 145
+2024-08-28 12:00:31 | Request timeout for icmp_seq 146
+2024-08-28 12:00:32 | Request timeout for icmp_seq 147
+2024-08-28 12:00:33 | Request timeout for icmp_seq 148
+2024-08-28 12:00:34 | Request timeout for icmp_seq 149
