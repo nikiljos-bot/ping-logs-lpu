@@ -23,3 +23,46 @@ Wed Aug 28 11:40:06 IST 2024
 2024-08-28 11:44:35 | Request timeout for icmp_seq 267
 2024-08-28 11:44:36 | Request timeout for icmp_seq 268
 2024-08-28 11:44:37 | Request timeout for icmp_seq 269
+
+============================
+PING STOPPED google.com
+↓
+Wed Aug 28 11:47:13 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Wed Aug 28 11:47:13 IST 2024
+============================
+
+2024-08-28 11:47:14 | PING google.com (142.251.42.14): 56 data bytes
+
+============================
+PING STOPPED google.com
+↓
+Wed Aug 28 11:47:43 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Wed Aug 28 11:48:31 IST 2024
+============================
+
+2024-08-28 11:48:31 | PING google.com (142.251.42.14): 56 data bytes
+2024-08-28 11:50:00 | Request timeout for icmp_seq 87
+2024-08-28 11:50:01 | Request timeout for icmp_seq 88
+2024-08-28 11:50:02 | Request timeout for icmp_seq 89
+2024-08-28 11:50:03 | Request timeout for icmp_seq 90
+2024-08-28 11:50:04 | Request timeout for icmp_seq 91
+2024-08-28 11:50:05 | Request timeout for icmp_seq 92
+2024-08-28 11:50:06 | Request timeout for icmp_seq 93
+2024-08-28 11:50:07 | Request timeout for icmp_seq 94
+2024-08-28 11:50:08 | Request timeout for icmp_seq 95
+2024-08-28 11:50:09 | Request timeout for icmp_seq 96
+2024-08-28 11:50:10 | Request timeout for icmp_seq 97
+2024-08-28 11:50:11 | Request timeout for icmp_seq 98
+2024-08-28 11:50:12 | Request timeout for icmp_seq 99
