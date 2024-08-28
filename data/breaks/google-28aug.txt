@@ -284,3 +284,51 @@ Wed Aug 28 12:21:14 IST 2024
 ============================
 
 2024-08-28 12:21:14 | PING google.com (142.250.77.238): 56 data bytes
+2024-08-28 12:31:24 | Request timeout for icmp_seq 606
+2024-08-28 12:31:25 | Request timeout for icmp_seq 607
+2024-08-28 12:31:26 | Request timeout for icmp_seq 608
+2024-08-28 12:31:27 | Request timeout for icmp_seq 609
+2024-08-28 12:31:28 | Request timeout for icmp_seq 610
+2024-08-28 12:31:29 | Request timeout for icmp_seq 611
+2024-08-28 12:31:30 | Request timeout for icmp_seq 612
+2024-08-28 12:31:31 | Request timeout for icmp_seq 613
+2024-08-28 12:31:32 | Request timeout for icmp_seq 614
+2024-08-28 12:31:33 | Request timeout for icmp_seq 615
+2024-08-28 12:31:34 | Request timeout for icmp_seq 616
+2024-08-28 12:32:37 | Request timeout for icmp_seq 679
+2024-08-28 12:32:38 | Request timeout for icmp_seq 680
+2024-08-28 12:32:39 | Request timeout for icmp_seq 681
+2024-08-28 12:32:40 | Request timeout for icmp_seq 682
+2024-08-28 12:32:41 | Request timeout for icmp_seq 683
+2024-08-28 12:32:42 | Request timeout for icmp_seq 684
+2024-08-28 12:32:43 | Request timeout for icmp_seq 685
+2024-08-28 12:32:44 | Request timeout for icmp_seq 686
+2024-08-28 12:32:45 | Request timeout for icmp_seq 687
+2024-08-28 12:32:46 | Request timeout for icmp_seq 688
+2024-08-28 12:32:47 | Request timeout for icmp_seq 689
+2024-08-28 12:33:00 | Request timeout for icmp_seq 702
+2024-08-28 12:33:01 | Request timeout for icmp_seq 703
+2024-08-28 12:33:02 | Request timeout for icmp_seq 704
+2024-08-28 12:33:03 | Request timeout for icmp_seq 705
+2024-08-28 12:33:04 | Request timeout for icmp_seq 706
+2024-08-28 12:33:05 | Request timeout for icmp_seq 707
+
+============================
+PING STOPPED google.com
+↓
+Wed Aug 28 12:33:07 IST 2024
+============================
+
+
+============================
+PING STARTED google.com
+↓
+Wed Aug 28 14:27:02 IST 2024
+============================
+
+2024-08-28 14:27:02 | PING google.com (142.250.77.238): 56 data bytes
+2024-08-28 14:35:53 | Request timeout for icmp_seq 528
+2024-08-28 14:35:54 | Request timeout for icmp_seq 529
+2024-08-28 14:35:55 | Request timeout for icmp_seq 530
+2024-08-28 14:35:56 | Request timeout for icmp_seq 531
+2024-08-28 14:35:57 | Request timeout for icmp_seq 532
