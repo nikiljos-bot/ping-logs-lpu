@@ -10,20 +10,22 @@ To | 2024-09-03 10:04:07
 
 ### Overall Stats
 
-Average Downtime | 6.9s
+Average Downtime | 6.36s
 ---- | ----
-No. of Drop Sequences | 10
-Single Drop Sequences | 3
-No. of Packets missed | 69
-Total Downtime | 1m 9s
-Total Log Duration | 54m 29s
+No. of Drop Sequences | 11
+Single Drop Sequences | 4
+No. of Packets missed | 70
+Total Downtime | 1m 10s
+Total Log Duration | 1h 5m 27s
 
 
 ---------
 
 Status | Start | End | Duration | Packets
 ---- | ---- | ---- | ---- | ----
-🟢 | 2024-09-03 10:25:01 | 2024-09-03 10:27:17 | 2m 17s | 141
+🟢 | 2024-09-03 10:32:28 | 2024-09-03 10:38:20 | 5m 53s | 353
+🔴 | 2024-09-03 10:32:27 | 2024-09-03 10:32:27 | 1s | 1
+🟢 | 2024-09-03 10:25:01 | 2024-09-03 10:32:21 | 7m 21s | 444
 🔴 | 2024-09-03 10:24:56 | 2024-09-03 10:25:01 | 6s | 6
 🟢 | 2024-09-03 10:22:27 | 2024-09-03 10:24:51 | 2m 25s | 148
 🔴 | 2024-09-03 10:22:17 | 2024-09-03 10:22:26 | 10s | 10
